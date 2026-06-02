@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1995__Enforcement___Noncompliance__s1995.txt",
+    "year": "1995",
+    "category": "Enforcement / Noncompliance",
+    "source_file": "s1995.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "noncompliance",
+        "character_index": 346040,
+        "snippet": "NDMENTS S.R. 148 Brent C. Richanh AN ACT RELATING TO REVENUE AND TAXATION; REQUIRING THE LFGISIATURL TO IMPOSE A CERTIFIED REVENUE LEVY FOR EDUCATION SUBJECT TO THE NOTICE REQUIREMENTS OF TRUTH IN  236 Monday. January 30. 1993 Day 13 TAXATION; REQUIRING THE LEGISLATURE TO IMPOSE A LEVY TO  FUND THE PROPERTY TAX VALUATION AGENCY FUND SUBJECT TO  THE NOTICE REQUIREMENTS OF TRUTH IN TAXATION: REQUIRING  THE COMMISSION TO TAKE CORRECTIVE ACTION FOR  NONCOMPLIANCE WITH MANDATORY CYCLICAL APPRAISAL  PROVISIONS AND EXPANDING THE DEFINITION OR CORRECTIVE  ACTION; DEFINING THE STATE AS A TAXING ENTITY; REQUIRING THE  TAX COMMISSION TO FACTOR ANNUALLY AND EXTENDING THE  TIME PERIOD FOR ISSUING FACTORING ORDERS: SUBJECTING  CERTAIN COUNTY LEVIES TO THE NOTICE REQUIREMENTS OF  TRUTH IN TAXATION; REQUIRING ASSESSORS TO VERIFY  COMPLIANCE WITH MANDATORY CYCLICAL APPRAISAL  PROVISIONS; AUTHORIZING THE"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:23.613249"
+  },
+  {
+    "id": "1995__Health_Impacts__s1995.txt",
+    "year": "1995",
+    "category": "Health Impacts",
+    "source_file": "s1995.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "hospitalization",
+        "character_index": 1362850,
+        "snippet": "odomy upon e child, or tesual  abuse of a childi the dafandant causes substantial bodily injury to the  child , and if ihech\u2014 ge is set forth in the in formal ion or indictment end  admitted by the defendant, or found true by a judge or jury el uiel, the provision of lww.|  Wednesday. March 1.1995 Day 45994 Section 2. Section 76-3\u2014 106 is amended to read: 76-.V406C rimes for which probation, suspension of sentence, lower  category or offense, or hospitalization may be granted \u2014 Exception. (1) [Notwithstanding Sections 76 3 30 1  and 77 18 li and) In  accordance with Title 77. Chapter I6(i w pl aa providad in| and  Section 76-5-406.5. on or after Mav 1 .1995. probation [shall not) may  be granted, the execution or imposition o f sentence [shall noil may be  suspended, the court [shall noil mav enter a judgment for a lower  category o f offense, and hospitalization (shall not) may be order"
+      },
+      {
+        "keyword": "hospitalization",
+        "character_index": 1363260,
+        "snippet": "entence, lower  category or offense, or hospitalization may be granted \u2014 Exception. (1) [Notwithstanding Sections 76 3 30 1  and 77 18 li and) In  accordance with Title 77. Chapter I6(i w pl aa providad in| and  Section 76-5-406.5. on or after Mav 1 .1995. probation [shall not) may  be granted, the execution or imposition o f sentence [shall noil may be  suspended, the court [shall noil mav enter a judgment for a lower  category o f offense, and hospitalization (shall not) may be ordered, the  effect of w hich would (in any w w y| shorten the prison sentence for any  person w ho [eommitsl is convicted of a felony of the first degree on or  after Mav L 1995 involving: (a) Section 76-5-301.1. child kidnaping:  tb> Section 76-5-502. aggravated kidnaping: (c) Section 76-5-402.1. rape of a child: <d) Section 76-5-402.3. object rape of n child; (c) Section 76-5-403.1. sodomy on a child; (0 Sub"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:23.657879"
+  }
+]

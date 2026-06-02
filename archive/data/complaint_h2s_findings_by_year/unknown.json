@@ -1,0 +1,54 @@
+[
+  {
+    "id": "unknown__Complaints__24-406-Business-Licenses.txt",
+    "year": "unknown",
+    "category": "Complaints",
+    "source_file": "24-406-Business-Licenses.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 22573,
+        "snippet": "nt has been filed, and a proper hearing held that the licensee had  made a false material statement(s) of fact in applying for a business license, or the licensee is  involved or does participate or allows to take place undesirable business practices, or the licensee  has allowed the licensed business and/or physical property on which it is located or in which it is  housed to be operated and maintained in such a manner that it is deemed to be a public nuisance  and as such an endangerment of the health, safety and general welfare of the residents of the  County, or that is determined that the licensee has exceeded what is allowed in the zone, or  violated any conditions attached to the operation of such business.     D. Upon receiving a written complaint of violation against a licensee, the licensing  department shall make or cause to have made a thorough investigation of the facts stat"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:28:46.005855"
+  },
+  {
+    "id": "unknown__Complaints__ORDINANCE_224.txt",
+    "year": "unknown",
+    "category": "Complaints",
+    "source_file": "ORDINANCE_224.txt",
+    "county": "Duchesne",
+    "match_count_saved": 3,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 322,
+        "snippet": "ORDINANCE 04-224  ******************    AN ORDINANCE ESTABLISHING THE DUCHESNE COUNTY WEED  CONTROL BOARD, ESTABLISHING RULES GOVERNING THE CONTROL  OF NOXIOUS WEEDS WITHIN DUCHESNE COUNTY, AND PROVIDING FOR  A MEANS OF ENFORCEMENT AND COST COLLECTION    WHEREAS , noxious weeds are a statewide problem and deemed to be a public nuisance in  Duchesne County; and,    WHEREAS , noxious weeds that are uncontrolled inflict economic damage to the resources  of the county; and,    WHEREAS , the State of Utah has set forth statutes that dir ect the county in a statewide  noxious weed control program; and,    WHEREAS , the State of Utah relies on the counties to be the primary party responsible for  implementing noxious weed control; and,    WHEREAS , Title 4 Chapter 17 o"
+      },
+      {
+        "keyword": "public nuisance",
+        "character_index": 6951,
+        "snippet": "Johnson Grass  8). Leafy Spurge  9). Musk Thistle  10). Scotch Thistle  11). Yellow Star Thistle  12). Quack Grass  13). Russian Knapweed  14). Squarrose Knapweed  15). Diffuse Knapweed  16). Spotted Knapweed  17). Medusahead  18). Purple Loosestrife  19). Russian Olive  20). Water Hemlock  21). Poison Hemlock  22). Tamarisk (Salt Cedar)  23). Yellow Toad Flax  24). Dalmatian Toad Flax    Section  8.30.060 Notice and Control of Noxious Weeds and Public Nuisance.  1) The Weed Control Board, before May 1 of each yea r, shall post a general notice of the  noxious weeds and targeted noxious weeds within the county in at least three public places  within the county. The same notice shall be publish ed, on at least three occasions, in a  newspaper or other publication of general circulation within the county.  2) If the Weed Control Board determines that particular property within the county r"
+      },
+      {
+        "keyword": "public nuisance",
+        "character_index": 8059,
+        "snippet": "g when and what action should be taken on the property. Methods of prevention or  control may include definite systems of tillage, cr opping, use of chemicals, and use of  livestock.  3) An owner or person in possession of property who, within five (5) days after notice, fails  to take action to control or prevent the spread of noxious weeds as specified in the notice or  fails to request a hearing or appeal, shall be deemed to be  maintaining a public nuisance.  4) Control of weeds in rights of ways for Class A, Class B and Class C roads shall be the  responsibility of the public entity having jurisdiction over said roads.    5)  This ordinance is not intended to apply to research labs or experiment stations operated by  a governmental agency or educational entity for the study of noxious weeds and the control  thereof, provided that said lab or experiment station has been approved by t"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:28:50.972424"
+  }
+]

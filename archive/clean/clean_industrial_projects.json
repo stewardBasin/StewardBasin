@@ -1,0 +1,20 @@
+[
+    {
+  "id": "2023_ovintiv_blue_diamond_arcadia_sands",
+  "date": "2023-12-06",
+  "year": "2023",
+  "category": "Industrial Sands / Processing Facility",
+  "title": "Blue Diamond Proppants facility on Ovintiv property",
+  "description": "Planning record for a mobile industrial sands processing facility on Ovintiv-owned property in the Arcadia area.",
+  "entities": ["Ovintiv USA Inc.", "Blue Diamond Proppants LLC"],
+  "county": "Duchesne",
+  "location": "Arcadia area, Duchesne County, Utah",
+  "lat": "",
+  "lng": "",
+  "source_file": "12-6-23.txt",
+  "source_type": "Planning Commission record",
+  "verified": true,
+  "map_ready": false,
+  "notes": "Needs exact coordinates before mapping."
+}
+]

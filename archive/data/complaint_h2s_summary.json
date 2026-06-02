@@ -1,0 +1,264 @@
+{
+  "1994": {
+    "Enforcement / Noncompliance": 1
+  },
+  "2020": {
+    "Enforcement / Noncompliance": 3
+  },
+  "2019": {
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "2018": {
+    "Complaints": 2,
+    "Health Impacts": 2,
+    "Enforcement / Noncompliance": 1
+  },
+  "2024": {
+    "Ozone / Air Quality": 3,
+    "Enforcement / Noncompliance": 3,
+    "Water / Spill / Contamination": 1,
+    "H2S / Odor": 1
+  },
+  "2021": {
+    "Health Impacts": 2,
+    "Enforcement / Noncompliance": 1
+  },
+  "2017": {
+    "Enforcement / Noncompliance": 2,
+    "Health Impacts": 1
+  },
+  "2016": {
+    "Ozone / Air Quality": 2,
+    "Enforcement / Noncompliance": 1
+  },
+  "2015": {
+    "Enforcement / Noncompliance": 3,
+    "Complaints": 1,
+    "Water / Spill / Contamination": 1,
+    "Health Impacts": 1
+  },
+  "2014": {
+    "Complaints": 1,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "2013": {
+    "Health Impacts": 4,
+    "H2S / Odor": 2,
+    "Complaints": 1,
+    "Ozone / Air Quality": 1
+  },
+  "2012": {
+    "Enforcement / Noncompliance": 4,
+    "Health Impacts": 5,
+    "Complaints": 1,
+    "H2S / Odor": 1
+  },
+  "2011": {
+    "Enforcement / Noncompliance": 3,
+    "Health Impacts": 1,
+    "H2S / Odor": 2
+  },
+  "2010": {
+    "Enforcement / Noncompliance": 3,
+    "Health Impacts": 4,
+    "H2S / Odor": 2
+  },
+  "2009": {
+    "Health Impacts": 1,
+    "Complaints": 2,
+    "H2S / Odor": 1
+  },
+  "2008": {
+    "Ozone / Air Quality": 2,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 2,
+    "Complaints": 3,
+    "Water / Spill / Contamination": 2
+  },
+  "2007": {
+    "Complaints": 1,
+    "Health Impacts": 3,
+    "Enforcement / Noncompliance": 1,
+    "Water / Spill / Contamination": 1
+  },
+  "2006": {
+    "Enforcement / Noncompliance": 2,
+    "Health Impacts": 2
+  },
+  "2005": {
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "2004": {
+    "Enforcement / Noncompliance": 1,
+    "Complaints": 1
+  },
+  "2003": {
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 2
+  },
+  "2002": {
+    "Enforcement / Noncompliance": 1
+  },
+  "2001": {
+    "Enforcement / Noncompliance": 2,
+    "Complaints": 1
+  },
+  "2000": {
+    "Enforcement / Noncompliance": 1
+  },
+  "2023": {
+    "Complaints": 1,
+    "Enforcement / Noncompliance": 3,
+    "Health Impacts": 1
+  },
+  "2022": {
+    "Complaints": 1,
+    "Enforcement / Noncompliance": 2,
+    "Health Impacts": 1,
+    "Ozone / Air Quality": 1,
+    "Water / Spill / Contamination": 1
+  },
+  "unknown": {
+    "Complaints": 2
+  },
+  "2026": {
+    "H2S / Odor": 1
+  },
+  "2025": {
+    "Water / Spill / Contamination": 1
+  },
+  "1905": {
+    "Complaints": 1
+  },
+  "1927": {
+    "Complaints": 1
+  },
+  "1935": {
+    "Health Impacts": 1
+  },
+  "1937": {
+    "Health Impacts": 1
+  },
+  "1941": {
+    "Complaints": 1
+  },
+  "1949": {
+    "Complaints": 1
+  },
+  "1951": {
+    "Health Impacts": 1
+  },
+  "1953": {
+    "Complaints": 1
+  },
+  "1955": {
+    "Health Impacts": 1
+  },
+  "1959": {
+    "Health Impacts": 1
+  },
+  "1961": {
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1963": {
+    "Complaints": 1,
+    "Health Impacts": 1
+  },
+  "1965": {
+    "Complaints": 1,
+    "Health Impacts": 1
+  },
+  "1967": {
+    "Complaints": 1,
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1969": {
+    "Complaints": 1,
+    "Health Impacts": 1
+  },
+  "1971": {
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1973": {
+    "Complaints": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1974": {
+    "Complaints": 1,
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1975": {
+    "Complaints": 1,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1976": {
+    "Enforcement / Noncompliance": 1
+  },
+  "1977": {
+    "Complaints": 1,
+    "Health Impacts": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1979": {
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1980": {
+    "Complaints": 1,
+    "Health Impacts": 1
+  },
+  "1981": {
+    "Enforcement / Noncompliance": 1
+  },
+  "1983": {
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1988": {
+    "Enforcement / Noncompliance": 1
+  },
+  "1989": {
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1990": {
+    "Water / Spill / Contamination": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1992": {
+    "Complaints": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1993": {
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1995": {
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1996": {
+    "H2S / Odor": 1,
+    "Water / Spill / Contamination": 1,
+    "Enforcement / Noncompliance": 1,
+    "Health Impacts": 1
+  },
+  "1997": {
+    "Ozone / Air Quality": 1,
+    "Enforcement / Noncompliance": 1
+  },
+  "1998": {
+    "Enforcement / Noncompliance": 1
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "2004__Enforcement___Noncompliance__00004328.txt",
+    "year": "2004",
+    "category": "Enforcement / Noncompliance",
+    "source_file": "00004328.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "notice of violation",
+        "character_index": 1105531,
+        "snippet": "g Amendments 2\u221216\u22122005: 233 (d)  (i) Each day of a continuing violation of the provisions described in Subsection 234 73\u22122\u221225(2)(a) or an initial or final order issued under Section 73\u22122\u221225 is a separate violation. (ii) A penalty may not be imposed for a violation of the provisions listed in Subsection 73\u22122\u221225(2)(a) or an initial or a final order issued under Section 73\u22122\u221225 for a violation occurring more than 12 months before the day on which a notice of violation is issued. Senator Peterson\u2019s motion to amend passed on a voice vote. Senators Hillyard and Thomas commented and the bill passed on the following roll call: Y eas, 25; Nays, 0; Absent, 4. Voting in the affirmative were: Senators Allen Arent Bell Buttars Christensen Davis Dmitrich Eastman Fife Hale Hatch Hellewell Hillyard Jenkins Killpack Knudson Day 40 805 Friday, February 25, 2005 Madsen Mansell Mayne McCoy Peterson Thomas W"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:28:38.229948"
+  },
+  {
+    "id": "2004__Complaints__WeedControl.txt",
+    "year": "2004",
+    "category": "Complaints",
+    "source_file": "WeedControl.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 196,
+        "snippet": "Chapter 5  WEED CONTROL  3-5-1: DEFINITIONS:   3-5-2: WEED CONTROL BOARD:   3-5-3: WEED CONTROL SUPERVISOR:   3-5-4: DECLARATION OF NOXIOUS WEEDS:   3-5-5: NOTICE AND CONTROL OF NOXIOUS WEEDS AND PUBLIC NUISANCE:   3-5-6: FAILURE TO CONTROL NOXIOUS WEEDS; LIABILITY OF PROPERTY  OWNER:   3-5-7: HEARING AND APPEAL:   3-5-1: DEFINITIONS:      As used in this chapter:    COMMISSION: The Duchesne County commission.    COUNTY: Duchesne County, Utah.    COUNTY NOXIOUS WEED: Any plant which is not on the state noxious weeds list, but is especially  troublesome in Duchesne County, and is declared by the Duchesne County commission to be a  noxious"
+      },
+      {
+        "keyword": "public nuisance",
+        "character_index": 7812,
+        "snippet": "of noxious weeds and the control  thereof; provided, that said lab or experiment station has been approved by the weed control  board. (Ord. 04-224, 8-16-2004)  3-5-6: FAILURE TO CONTROL NOXIOUS WEEDS; LIABILITY OF  PROPERTY OWNER:      A. Authority Of County: If the owner or person in possession of the property fails to take action to  control or prevent the spread of noxious weeds within five (5) working days after the property is  declared a public nuisance, the weed control supervisor or authorized agent may, after  reasonable notification, enter the property, without the consent of the owner or the person in  possession, and perform any work necessary, consistent with sound weed prevention and  control practices, to control the weeds.    B. Responsibility For Expenses; Lien: Any expense incurred by the county in controlling the noxious  weeds is paid by the property owner of record"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:26.453635"
+  }
+]

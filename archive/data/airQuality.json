@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-01-15",
+    "location": "Roosevelt",
+    "county": "Duchesne",
+    "lat": 40.2994,
+    "lng": -109.9887,
+    "ozone_ppb": 82,
+    "pm25": 14,
+    "pm10": 32,
+    "source": "Utah DAQ"
+  },
+  {
+    "date": "2024-02-10",
+    "location": "Roosevelt",
+    "county": "Duchesne",
+    "lat": 40.2994,
+    "lng": -109.9887,
+    "ozone_ppb": 91,
+    "pm25": 22,
+    "pm10": 41,
+    "source": "Utah DAQ"
+  },
+  {
+    "date": "2025-01-12",
+    "location": "Vernal",
+    "county": "Uintah",
+    "lat": 40.4555,
+    "lng": -109.5287,
+    "ozone_ppb": 77,
+    "pm25": 18,
+    "pm10": 38,
+    "source": "Utah DAQ"
+  },
+  {
+    "date": "2026-01-15",
+    "location": "Roosevelt",
+    "county": "Duchesne",
+    "lat": 40.2994,
+    "lng": -109.9887,
+    "ozone_ppb": 82,
+    "pm25": null,
+    "pm10": null,
+    "source": "Utah DAQ"
+  },
+  {
+    "date": "2026-01-16",
+    "location": "Roosevelt",
+    "county": "Duchesne",
+    "lat": 40.2994,
+    "lng": -109.9887,
+    "ozone_ppb": 91,
+    "pm25": null,
+    "pm10": null,
+    "source": "Utah DAQ"
+  }
+]

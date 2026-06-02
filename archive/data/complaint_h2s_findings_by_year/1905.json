@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1905__Complaints__s1905.txt",
+    "year": "1905",
+    "category": "Complaints",
+    "source_file": "s1905.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "air complaint",
+        "character_index": 69850,
+        "snippet": "each  case, and the wisdom of the decisions is, I believe, appar\u00ad ent. STATE FAIRS. According to the report of the Directors of the Des\u00ad eret Agricultural and Manufacturing Society, the state  fairs held in 1903 and 1904 were, in point of paid admis\u00ad sions, and value of exhibits, in advance of any previous  fairs held in the State. In point of paid admissions, the  fair of 1904 was a record-breaker; total paid admissions  being 51,485. At this fair complaint was made that there  was not room for all the exhibits. It is hoped by the  Directors of the Society that a sufficient appropriation  will be made by the present Legislature to ensure tho  completion of the building now under way, in order that  needed room may be provided. The architect estimates  that it will require $40,000 more to complete the build\u00ad ing. The Board estimates that the usual appropriation of  $15,000 will be suffi"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:28:52.429881"
+  }
+]

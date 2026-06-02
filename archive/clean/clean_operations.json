@@ -1,0 +1,15 @@
+[{
+  "id": "operation_roosevelt_example_001",
+  "name": "Example Operation",
+  "operator": "Unknown",
+  "operation_type": "Well / Compressor / Mine / Data Center / Power Plant",
+  "status": "Active",
+  "county": "Duchesne",
+  "lat": "",
+  "lng": "",
+  "source": "",
+  "source_file": "",
+  "verified": false,
+  "map_ready": false,
+  "notes": ""
+}]

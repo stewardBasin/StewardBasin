@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1959__Health_Impacts__s1959.txt",
+    "year": "1959",
+    "category": "Health Impacts",
+    "source_file": "s1959.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "hospitalization",
+        "character_index": 301833,
+        "snippet": "A MINIMUM PENALTY, was read the first time  and referred to the Committee on Rules. S. B. No. 152 By Messrs. Hinton and Jenkins AN ACT AMENDING SECTION 31-23-1, UTAH CODE ANNO\u00ad TATED, 1953, RELATING TO GROUP INSURANCE COVERING LIFE,  HEALTH OR ACCIDENT INSURANCE FOR STATE EMPLOYEES, was  read the first time and referred to the Committee on Rules. S. B. No. 153 By Messrs. Hinton and Jenldn AN ACT PROVIDING FOR CONTRIBUTORY GROUP LIFE, ACCI\u00ad DENT, HOSPITALIZATION, MEDICAL AND SURGICAL INSURANCE  FOR PERSONS IN THE SERVICE OF THE STATE OF UTAH, was read  the first time and referred to the Committee on Rules. S. B. No. 154 By Messrs. Browning, Clegg and Fowles AN ACT RELATING TO WEBER COLLEGE; AUTHORIZING, EM\u00ad POWERING, AND DIRECTING THE BOARD OF EDUCATION OF  THE STATE OF UTAH TO PURCHASE CERTAIN LANDS FOR THE  W EBER COLLEGE UPPER CAMPUS AND MAKING AN APPROPRIA\u00ad TION THEREFOR, was read the"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:10.287644"
+  }
+]

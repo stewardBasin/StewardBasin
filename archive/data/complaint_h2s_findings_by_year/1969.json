@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1969__Complaints__s1969.txt",
+    "year": "1969",
+    "category": "Complaints",
+    "source_file": "s1969.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 1599283,
+        "snippet": "actual fire suppression costs  determined normal by the state forester as defined by the board, the agree\u00ad ment shall - 2 6 - commit the state to pay one-half those actual suppression costs that exceed the  stated normal. Section 25. Section 24-2-10, Utah Code Annotated 1953, as enacted by  Chapter 53, Laws of Utah 1961, is amended to read: 24-2-10. It shall be the duty of the | Utah department! section of forestry  and fire control to abate the public nuisance occasioned by uncontrolled fire  on state owned forest, range and watershed lands. The various governing bodies responsible for the administration of state  owned lands shall recognize the need for providing wildland fire protection and  the responsibility for sharing the costs thereof. The respective boards or com\u00ad missions annually shall allocate funds to the | Utah department] section of  forestry and fire control in such amoun"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:13.057259"
+  },
+  {
+    "id": "1969__Health_Impacts__s1969.txt",
+    "year": "1969",
+    "category": "Health Impacts",
+    "source_file": "s1969.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "hospitalization",
+        "character_index": 114389,
+        "snippet": "NCREASE IN THE  TRANSPORTATION ALLOWANCE OF THE BASIC PROGRAM; PROVID\u00ad ING FOR THE MANNER IN WHICH UNITS ARE ALLOCATED FOR  SPECIAL SCHOOLS; CHANGING THE METHOD OF COMPUTING  UNITS FOR KINDERGARTEN, NON-TEACHING PROFESSIONAL PER\u00ad SONNEL, VOCATIONAL EXTENDED YEAR AND INSTRUCTIONAL  MEDIA CENTERS; INCREASING THE LIMIT OF UNITS FOR HANDI\u00ad CAPPED CHILDREN AND PROVIDING UNITS FOR CHILDREN IN  STATE-SUPPORTED INSTITUTIONS FOR TRAININC, CORRECTION  AND HOSPITALIZATION; AND PROVIDING UNITS FOR RESEARCH  AND DEVELOPMENT, PROFESSIONAL LEADERSHIP AND RECIONAL  PROGRAMS. REPEALING SECTION 53-10-17.1, UTAH CODE ANNO\u00ad TATED 1953, AS ENACTED BY CHAPTER 124, LAWS OF UTAH 1901,  AND AMENDED BY CHAPTER 94, LAWS OF UTAH 1963, AND  AMENDED BY CHAPTER 9, LAWS OF UTAH 1905, FIRST SPECIAL  SESSION. AND AMENDED BY CHAPTER 114, LAWS OF UTAH 1967,  was read the first time and referred to the Committee on Rules. 3"
+      },
+      {
+        "keyword": "hospitalization",
+        "character_index": 543886,
+        "snippet": "within or outside this state to cover resident  persons or risks at any preferred rate or form other than that offered to persons  not in such group, ana the public generally, unless such form, plan or policy  and the rates or premiums to be charged therefor have been submitted to ana  approved by the commissioner as not in conflict with this chapter or section  31-18-2 of this code. This subsection shall not apply to life, accident, health  and hospitalization policies or annuity contracts.  374 SENATE JOURNAL Day 23 (2) It shall be the duty of the commissioner, upon being satisfied that any  insurance company or agent thereof has violated any of the provisions of the  section, to revoke the certificate of authority of the company or agent so offend\u00ad ing, and no authority shall be issued to such company or agent within six  months from the date of such revocation. Section 2. Section 31-"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:13.441149"
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "Ovintiv": {
+    "type": "Oil Company",
+    "total_matches": 15,
+    "years": {
+      "2024": 4,
+      "2023": 11
+    },
+    "counties": {
+      "Duchesne": 15
+    }
+  },
+  "XCL Resources": {
+    "type": "Oil Company",
+    "total_matches": 12,
+    "years": {
+      "2024": 4,
+      "2022": 5,
+      "2021": 3
+    },
+    "counties": {
+      "Duchesne": 12
+    }
+  },
+  "JR Bird": {
+    "type": "Political",
+    "total_matches": 9,
+    "years": {
+      "2026": 6,
+      "2014": 3
+    },
+    "counties": {
+      "Duchesne": 9
+    }
+  },
+  "Christine Watkins": {
+    "type": "Political",
+    "total_matches": 58,
+    "years": {
+      "1994": 1,
+      "2020": 4,
+      "2019": 5,
+      "2018": 6,
+      "2024": 4,
+      "2021": 4,
+      "2017": 5,
+      "2016": 5,
+      "2012": 1,
+      "2011": 6,
+      "2010": 7,
+      "2008": 4,
+      "2005": 1,
+      "2023": 5
+    },
+    "counties": {
+      "Duchesne": 58
+    }
+  },
+  "Ron Winterton": {
+    "type": "Political",
+    "total_matches": 91,
+    "years": {
+      "1993": 5,
+      "2020": 5,
+      "2019": 6,
+      "2018": 5,
+      "2024": 6,
+      "2021": 5,
+      "2022": 6,
+      "2012": 26,
+      "2011": 6,
+      "2010": 7,
+      "2013": 9,
+      "2023": 1,
+      "2026": 2,
+      "2017": 2
+    },
+    "counties": {
+      "Duchesne": 87,
+      "Unknown": 4
+    }
+  },
+  "Vaibhav Shree LLC": {
+    "type": "Developer",
+    "total_matches": 3,
+    "years": {
+      "2026": 3
+    },
+    "counties": {
+      "Duchesne": 3
+    }
+  },
+  "Javelin": {
+    "type": "Developer",
+    "total_matches": 6,
+    "years": {
+      "2015": 1,
+      "2024": 5
+    },
+    "counties": {
+      "Duchesne": 6
+    }
+  },
+  "Jacob Woodland": {
+    "type": "Developer",
+    "total_matches": 10,
+    "years": {
+      "2012": 2,
+      "2013": 1,
+      "2011": 2,
+      "2024": 5
+    },
+    "counties": {
+      "Duchesne": 10
+    }
+  },
+  "Jake Woodland": {
+    "type": "Developer",
+    "total_matches": 16,
+    "years": {
+      "2012": 2,
+      "2013": 3,
+      "2011": 1,
+      "2024": 2,
+      "2021": 4,
+      "2015": 2,
+      "2020": 2
+    },
+    "counties": {
+      "Duchesne": 16
+    }
+  },
+  "Wasatch Energy": {
+    "type": "Developer",
+    "total_matches": 2,
+    "years": {
+      "2024": 2
+    },
+    "counties": {
+      "Duchesne": 2
+    }
+  }
+}

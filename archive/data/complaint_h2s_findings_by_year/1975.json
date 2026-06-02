@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1975__Complaints__s1975.txt",
+    "year": "1975",
+    "category": "Complaints",
+    "source_file": "s1975.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 694219,
+        "snippet": "ROVIDING A PAR\u00ad TIAL OFFSET FOR SOCIAL SECURITY RECEIVED BY CERTAIN  PERSONS, was read the first time and referred to the Committee on Rules. S. B. No. 202 By Messrs. Pettersson, Renstrom, Jeffs and Peterson AN ACT RELATING TO PORNOGRAPHY AND OBSCENITY, SET\u00ad TING FORTH A DECLARATION OF PUBLIC POLICY RELATINC TO  OBSCENITY; PROVIDING DEFINITIONS; DECLARING EXHIBITION  OR COMMERCIAL EXPLOITATIONS OF OBSCENITY OR MATERIAL  HARMFUL TO MINORS TO BE A PUBLIC NUISANCE; DECLARING  THE KNOWING EXHIBITION TO THE PUBLIC OR COMMERCIAL  EXPLOITATION OF OBSCENITY TO BE A CRIME; DECLARING THE  KNOWING EXHIBITION OR COMMERCIAL EXPLOITATION OR MAK\u00ad ING ACCESSIBLE TO MINORS MATERIAL HARMFUL TO MINORS  TO P,E A CRIME; DECLARING THE WILLFUL ALLOWING OF PROP\u00ad ERTY RY A LESSOR TO BE USED FOR COMMERCIAL EXPLOITA\u00ad TION OF OBSCENITY TO BE A CRIME; DECLARING THE FORCED  ACCEPTANCE OF OBSCENITY UPON RETAILERS OF B"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:15.440027"
+  },
+  {
+    "id": "1975__Enforcement___Noncompliance__s1975.txt",
+    "year": "1975",
+    "category": "Enforcement / Noncompliance",
+    "source_file": "s1975.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "noncompliance",
+        "character_index": 2175563,
+        "snippet": "c- farlane, Pugh and Snow. CONFERENCE COMMITTEE REPORT March 13, 1975 Mr. Speaker and Mr. President: Your Conference Committee, consisting of Senators Blade, Jensen, and  Bishoff and Representatives Starr, Holbrook, and Irvine, to which was referred  H. B. No. 72, by Mrs. Bernard, et al. (RESIDENTIAL OWNER AND TEN\u00ad ANT ACT) begs leave to report as follows: 1. Page 10 - Line 5 Re-insert the following deleted material, \"If the  [landlord's] owners noncompliance is willful the tenant may recover  reasonable attorney's fees in addition to damages.\u201d 2. Page 15 - Line 27 Delete the word \"proper\" and insert in lieu there  of: \"30 days\". Respectfully, WILFORD REX BLACK,  Chairman, Senate Committee ENNIS R. STARR, Chairman, House Committee Report read. The Senate failed to adopt the Conference Committee report to H. B. No.  72 on the following roll call: Yeas, 11; Nays, 16; Absent, 2. Voting in t"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:15.695713"
+  },
+  {
+    "id": "1975__Health_Impacts__s1975.txt",
+    "year": "1975",
+    "category": "Health Impacts",
+    "source_file": "s1975.txt",
+    "county": "Duchesne",
+    "match_count_saved": 3,
+    "matches": [
+      {
+        "keyword": "hospitalization",
+        "character_index": 359265,
+        "snippet": "e parents, the child, his custodian, or any other person who has been 25 made a party to the proceedings, including, but not limited to, restrictions 26 on visitation by the parents or one parent, restrictions on the child's 27 associates, occupation, and other activities, and requirements to be 28 observed by the parents or custodian. 29 (14) With respect to a child within the court's jurisdiction under 30 section 55-10-77, the court may order [hospitalization in the Utah state  Day 11 January 23, 197S 177 31 hospital if the court finds, upon due notice to the parents or guardian 32 and a special hearing conducted in accordance with the provisions of] Substitute \u2014  0 \u2014 S. B. No. 3 1 admittance to any mental health or retardation facility in accordance with 2 the procedures set forth in section 64-7-30 [, Utah Code Annotated 1953, 3 that the child is (1) mentally ill, and (2) because his"
+      },
+      {
+        "keyword": "hospitalization",
+        "character_index": 359958,
+        "snippet": "admittance to any mental health or retardation facility in accordance with 2 the procedures set forth in section 64-7-30 [, Utah Code Annotated 1953, 3 that the child is (1) mentally ill, and (2) because his illness is likely 4 to injure himself or others if allowed to remain at liberty, or is in 5 need of custody, care or treatment in a mental hospital. The procedure 6 applicable in the district courts with respect to judicial proceedings for 7 hospitalization in the Utah state hospital shall be followed by the juvenile 8 court in such cases.] 9 (15) The court may make an order committing a child within its juris- 10 diction to the Utah state training school if the child has been found 11 [retarded or] mentally [deficient] retarded in accordance with the pro- 12 visions of sections 64-8-16 to 64-8-2 [, Utah Code Annotated 1953]. The 13 procedure applicable in the district courts with re"
+      },
+      {
+        "keyword": "hospitalization",
+        "character_index": 742296,
+        "snippet": "re facilities are being 23 properly utilized, [or] physicians and dentists appointed to and 24 serving upon committees established to assess the quality of 25 medical and health care services rendered or furnished to 26 patients within the State of Utah, and physicians ,dentists [or] 27 and other persons furnishing information to such committees upon 28 the committees* official request [for the purpose of determining 29 questions relating to the hospitalization of medicare patients 30 under the provisions of Public Law 89-97, or for the purpose of 31 determining whether there is proper and efficient use of 32 hospitals and extended care facilities maintained for the use of 33 all patients], shall be immune from liability with respect to 34 such information or decisions furnished or made in good faith and 35 without malice; provided that nothing in this act shall be  30 \u20142r\u2014 2 construed t"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:15.749846"
+  }
+]

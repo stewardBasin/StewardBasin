@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1977__Complaints__s1977.txt",
+    "year": "1977",
+    "category": "Complaints",
+    "source_file": "s1977.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 530507,
+        "snippet": "TIONS 76-10-  807, 76-10-808, 76-10-1212, 76-10-1213, 76-10-1214, AND 76-10-1215, UTAH  CODE ANNOTATED 1953; AND REPEALING AND REENACTING  SECTIONS 76-10-1207 AND 76-10-1208, UTAH CODE ANNOTATED 1953,  AS ENACTED BY CHAPTER 196, LAWS OF UTAH 1973, AND SECTION  76-10-1209, UTAH CODE ANNOTATED 1953, AS ENACTED BY  CHAPTER 196, LAWS OF UTAH 1973, AS AMENDED BY CHAPTER 49,  I.AWS OF UTAH 1975; RELATING TO PORNOGRAPHY AND POR\u00ad NOGRAPHIC MATERIALS AND PUBLIC NUISANCES; PERMITTING  ADDITIONAL PARTIES TO BRING ACTIONS TO ABATE PUBLIC  NUISANCES AND PRESCRIBING THE PROCEDURES FOR THIS;  PROVIDING FOR PENALTIES IMPOSED ON THOSE WHO MAIN\u00ad TAIN OR COMMIT PUBLIC NUISANCES; ENLARGING WHAT MAY  BE CONSIDERED PORNOGRAPHIC AND REIJVTED ACTIONS CON\u00ad CERNING PORNOGRAPHIC MATERIALS; ALTERING AND IN\u00ad CREASING THE PENALTIES REGARDING PORNOGRAPHIC  MATERIALS; EFFECTUATING CERTAIN CHANGES IN  PROCEDURES CONCERN"
+      },
+      {
+        "keyword": "public nuisance",
+        "character_index": 530708,
+        "snippet": "AS ENACTED BY CHAPTER 196, LAWS OF UTAH 1973, AND SECTION  76-10-1209, UTAH CODE ANNOTATED 1953, AS ENACTED BY  CHAPTER 196, LAWS OF UTAH 1973, AS AMENDED BY CHAPTER 49,  I.AWS OF UTAH 1975; RELATING TO PORNOGRAPHY AND POR\u00ad NOGRAPHIC MATERIALS AND PUBLIC NUISANCES; PERMITTING  ADDITIONAL PARTIES TO BRING ACTIONS TO ABATE PUBLIC  NUISANCES AND PRESCRIBING THE PROCEDURES FOR THIS;  PROVIDING FOR PENALTIES IMPOSED ON THOSE WHO MAIN\u00ad TAIN OR COMMIT PUBLIC NUISANCES; ENLARGING WHAT MAY  BE CONSIDERED PORNOGRAPHIC AND REIJVTED ACTIONS CON\u00ad CERNING PORNOGRAPHIC MATERIALS; ALTERING AND IN\u00ad CREASING THE PENALTIES REGARDING PORNOGRAPHIC  MATERIALS; EFFECTUATING CERTAIN CHANGES IN  PROCEDURES CONCERNING CHALLENGES OF PURPORTEDLY  PORNOGRAPHIC MATERIALS; AND INCREASING THE AUTHORI\u00ad TY OF THE POLITICAL SUBDIVISIONS TO REGULATE POR\u00ad NOGRAPHY, was read the first time and referred to the Committee on"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:16.098219"
+  },
+  {
+    "id": "1977__Health_Impacts__s1977.txt",
+    "year": "1977",
+    "category": "Health Impacts",
+    "source_file": "s1977.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "emergency room",
+        "character_index": 934567,
+        "snippet": "rs. Alola B. Harris of  Ogden, Weber County, Utah, was stricken with a heart attack while  performing her duties in connection with said employment at the State  Capitol Building in Salt Lake City, Utah, and WHEREAS, certain other persons in the building, connected with, or  working for the Utah State Legislature did, by prompt and courageous  action, alleviate the victim\u2019s anxieties and suffering, and WHEREAS, the physician in attendance in the emergency room at the  hospital to which Mrs. Harris was removed credited that prompt and  courageous action with at the least reducing the possibility of severe heart  damage, and at the most with saving the victim\u2019s life, NOW, THEREFORE. BE IT RESOLVED, that the General Session of  the 42nd Legislature of the State of Utah commend those persons, to wit: Representative D. Leon Reese  Mrs. Bemita R. Kerscher  Dr. Harry Gibbons  D\u2019Lyla Cummings fo"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:16.302900"
+  },
+  {
+    "id": "1977__Enforcement___Noncompliance__s1977_b.txt",
+    "year": "1977",
+    "category": "Enforcement / Noncompliance",
+    "source_file": "s1977_b.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "compliance order",
+        "character_index": 20507,
+        "snippet": "loyer has its principal place of  business. Upon receipt of such a petition, the Clerk of the District  SENATE JOURNAL Day 51<>Sd C  ourt shall enter an Order directing the compliance with the  Order, unless otherwise advised by the Court, and shall cause a  ropy of the Order, unless otherwise advised by the Court, and  shall cause a copy of the Order to be transmitted to the employer  and the administrator. In a contempt proceding to enforce a  compliance Order of the District Court the Court may assess  penalties in addition to any other available remedies. Respectfully, Edward T. Beck, Chairman Committee report, as amended, read and adopted. On motion of Senator Black the Senate resolved itself into a Committee of  the Whole. Appearing before the Committee of the Whole was: Carlyle F. Groining, Chairman  Industrial Commission of Utah  350 East 500 South  Salt Lake City, Tel. 533-6411"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:16.534859"
+  }
+]

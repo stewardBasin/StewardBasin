@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1980__Complaints__s1980.txt",
+    "year": "1980",
+    "category": "Complaints",
+    "source_file": "s1980.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 659489,
+        "snippet": "alth, or indecent, or offen\u00ad sive to the senses, or an obstruction to the free use of property, so as to  interfere with the comfortable eqjoyment of life or property, is a nui\u00ad sance and the subject of an action. Our criminal code Section 76-10-801, defines a nuisance as any  item, thing, manner, condition, whatsoever that is dangerous to human  life or health, or renders soil, air, water, or food impure or unwholesome. Section 76-10-803 says a public nuisance is crime against the order  484 SENATE JOURNAL The suppression of nuisances injurious to the public health or mo\u00ad rality is among the most important duties of government. Since \"nui\u00ad sance\u201d is a term which does not have a fixed content, either at common  law or at the present time, compelling reasons of policy require that the  responsibility for establishing those standards of public morality, the  violation of which is to consti"
+      },
+      {
+        "keyword": "public nuisance",
+        "character_index": 660885,
+        "snippet": "would be usurp\u00ad ing judicial power if it should adjudicate an act lawful and presump\u00ad tively not injurious nor dangerous as a nuisance when in fact it is, and  should command the courts not to eqjoin it without proof that any injury  or danger will not be caused by it. In other words, an act which is  dangerous to health and safety in fact, remains dangerous to health and  safety even if the legislature says it isn\u2019t. Whether or not there is a  public nuisance which should be abated is a justiciable question, and  each case depends on its own facts and circumstances. An example  would be a situation where a farmer has an irrigation ditch running just  inside his property. The water is used to irrigate his land for agricul\u00ad tural purposes, and he has been doing this for ten years. Due to natural  growth in the area there is now a large number of children present, and  many of them are at"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:17.581445"
+  },
+  {
+    "id": "1980__Health_Impacts__s1980.txt",
+    "year": "1980",
+    "category": "Health Impacts",
+    "source_file": "s1980.txt",
+    "county": "Duchesne",
+    "match_count_saved": 3,
+    "matches": [
+      {
+        "keyword": "headache",
+        "character_index": 62063,
+        "snippet": "cument) which I believe will provide a  stronger incentive for productivity in State government service. That  plan attempts to move the current system from one where increases  are based almost solely on longevity to one where superior perfor\u00ad mance is rewarded and where the private sector marketplace primarily  sets the average wage rates for public employees. Medicaid A second mqjor issue in the Budget, and the one that has given me  the most headaches during my tenure as Governor, is the State  Medicaid program. The Medicaid program pays for essential and basic  medical services to public assistance recipients and medically-needy  individuals who qualify by reasons of poverty and specific medical  need. Last year, I submitted to you a request for $75 million for the  current year for this budget; a request that later proved to be totally  inadequate given the rate of spending that wa"
+      },
+      {
+        "keyword": "hospitalization",
+        "character_index": 63609,
+        "snippet": "the  level required by your appropriation and the 4 percent reduction.  These measures attempted to control the Medicaid budget, a budget  which has been increasing at a rate of 20 to 30 percent a year for the  last five years. Some of the program reductions by the Committee and  Health Department, such as the elimination of eye glasses and den\u00ad tures, were particularly painful to recipients. Some of the reductions,  such as the 26-day limit on hospitalization and the establishment of a  strict reimbursement rate for nursing homes, provided a hardship on  medical care providers.  Day 1 Monday, January 14, 1980 33 There are two specific problems which you must address in the  Medicaid budget for the current authorized year, 1979-80. My Budget  includes a $1.8 million supplemental, which was authorized by the  Social Service Appropriation Subcommittee last year to pay old debts  pursuant"
+      },
+      {
+        "keyword": "hospitalization",
+        "character_index": 65027,
+        "snippet": "ost savings cannot be met by the depart\u00ad ment this year. Allowing this additional latitude to the Department  should preclude the need for any other supplementals this year. For next year, I am recommending a total Medicaid budget of  $105,376,100, an 18.6 percent increase. Included in that recom\u00ad mendation is an overall inflation factor of 13.7 percent in the medical  area. The recommendation includes the removal of the 26-day limit on  general hospitalization, which, if continued, might bankrupt Primary  Chidren\u2019s Hospital and the Newborn Intensive Care Unit at the Uni\u00ad versity of Utah Medical Center. The recommendation includes restora\u00ad tion of eye glasses and dentures in certain cases, and also includes  some increase in medical utilization. I have not included the approxi\u00ad mately $2.3 million which may be necessary to pay late claims made on  fiscal year 1979-80 expenditures and wil"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:17.786503"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2024__H2S___Odor__Ordinance-24-409-Version-7.txt",
+    "type": "H2S / Odor Complaint",
+    "description": "e opposite  side of the well site from the nearest primary or secondary dwelling or building open to  the public owned by a drill site owner or off-site impacted owners, unless such owners  waive this requirement in writing.  For purposes of siting under this section,  construction, structural and engineering requirements such as, without limitation,  placement of facilities on cut rather than fill shall be considered and given  deference.    L. H2S H2S Gas: Operators of well sites oil and gas drilling and production sites in areas  where H2S H2S gas is likely to be or is actually encountered shall provide the drill  facility site owner and off-site owners with H2S H2S gas safety information before  drilling commences or upon discovery of H2S H2S gas afterward notice to those around  the site according to the requirements of the Pipeline ",
+    "date": "2024",
+    "year": "2024",
+    "county": "Duchesne",
+    "source": "Parsed public record",
+    "source_file": "Ordinance-24-409-Version-7.txt",
+    "category": "H2S / Odor",
+    "industry": "",
+    "lat": "",
+    "lng": "",
+    "location_label": "",
+    "location_confidence": "needs_location_review",
+    "map_ready": false,
+    "review_status": "needs_location",
+    "source_clean_file": "promoted_keep.json",
+    "promoted_at": "2026-06-01T16:21:08.749921"
+  },
+  {
+    "id": "2026__H2S___Odor__Duchesne-County-Planning-Commission-4_02_2026.txt",
+    "type": "H2S / Odor Complaint",
+    "description": "Applicant  Comments   Jake  Woodland  stated  the  facility  recycles  produced  water  and  uses  ponds  for  temporary   storage.   Public  Comments   Janice  Shipman  raised  concerns  regarding  mosquitoes,  wildlife,  evaporation,  and  air  quality.   Janet   Munson   asked   about   timelines   for   addressing   odor   or   issues.   Lynn   Moon   raised   concerns   regarding   odor,   prior   experience,   and   the   presence   of   H2S.   Motion   Commissioner  Reed  Van  Wagoner  moved  to  approve.   Seconded   by   Commissioner   Spencer   Turnbow.   Vote:   Unanimous.       Agenda  Item  A4   Conditional  Use  Permit  \u2013  Solar  Power  Plant  (Vaibhav   Shree   LLC)   Staff  Presentation   Presented  by  Mike  Gottfredson.   Findings   of   fact   are   on   file   with   the   Duchesne   County   Community   Development   ",
+    "date": "2026",
+    "year": "2026",
+    "county": "Duchesne",
+    "source": "Parsed public record",
+    "source_file": "Duchesne-County-Planning-Commission-4_02_2026.txt",
+    "category": "H2S / Odor",
+    "industry": "",
+    "lat": "",
+    "lng": "",
+    "location_label": "",
+    "location_confidence": "needs_location_review",
+    "map_ready": false,
+    "review_status": "needs_location",
+    "source_clean_file": "promoted_maybe.json",
+    "promoted_at": "2026-06-01T16:21:08.755419"
+  }
+]

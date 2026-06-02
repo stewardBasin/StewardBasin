@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1965__Complaints__s1965.txt",
+    "year": "1965",
+    "category": "Complaints",
+    "source_file": "s1965.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 413625,
+        "snippet": "y 18 Page 2, line 19, following the word \u201cto\u201d delete all the words thereafter;  line 20, strike in its entirety; line 19, following the word \u201cto\u201d insert the  words \u201cregulate the operations and procedures of its establishments.\u201d On motion of Senator Waddingham, S. B. No. 44 was amended as  follows: Page 3, following line 9, insert a new paragraph reading: \u201c(d) any business establishment or place of public accommodation  charged with maintaining a public nuisance in violation of this act, which  is determined or found not to be in violation of this act, may be awarded  all actual and necessary expenses incurred in defending such action, as  determined and approved by the court having jurisdiction of the matter.\u201d S. B. No. 44 then passed on the following roll call: Yeas, 25; Nays, 0; Absent, 2. Voting in the affirmative were: Senators Barlow, Bernhard, Brockbank,  Browning, Bullen, Bunnell,"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:11.904469"
+  },
+  {
+    "id": "1965__Health_Impacts__s1965.txt",
+    "year": "1965",
+    "category": "Health Impacts",
+    "source_file": "s1965.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "hospitalization",
+        "character_index": 1001372,
+        "snippet": "com\u00ad pensation payable shall be in such amount and at such times as the commis\u00ad sion may determine but shall not exceed two-thirds of the amount that would  have been payable (as in this paragraph provided) if the dependents had  been wholly dependent at the time of death. (d) In the event the employee becomes totally disabled from an occu\u00ad pational disease, the employer shall furnish and pay for such medical service,  Day 47 SENATE JOURNAL 611 hospitalization and medicines as may be reasonably required, but not to  exceed the sum of $1,283.33; except that in special cases of prolonged hos\u00ad pitalization the commission may, in its discretion, increase the amount to a  maximum of $2,500. (e) In case death results from such occupational disease the employer  shall pay not to exceed $525.00 burial expenses. \u201c35-2-56. I. There is imposed upon the employer a liability for the  payment of bene"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:12.209201"
+  }
+]

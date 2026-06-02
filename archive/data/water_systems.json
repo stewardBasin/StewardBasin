@@ -1,0 +1,17 @@
+  {
+    "name": "East Duchesne Culinary Water Improvement District",
+    "station_key": "East Duchesnse Culinary Water Improvement District",
+    "type": "Water System / District",
+    "marker_type": "water_system",
+    "county": "Duchesne",
+    "public_water_system_id": "07051",
+    "water_right_system_id": "1362",
+    "address": "186 West Main Street, Duchesne, UT 84021",
+    "mailing_address": "PO Box 319, Duchesne, UT 84021-0319",
+    "lat": 40.1633,
+    "lng": -110.4029,
+    "measurements": "Drinking water / public water system records",
+    "source": "East Duchesne Culinary Water Improvement District / Utah Water Rights",
+    "source_url": "https://www.eastduchesnewater.gov/contact-us",
+    "status": "Address verified; map coordinate is approximate city-center placeholder"
+  }

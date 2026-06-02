@@ -1,0 +1,276 @@
+[
+  {
+    "type": "Noise & Vibration Complaint",
+    "description": "Resident reported 50 hertz vibration and nighttime flare gas generator noise.",
+    "lat": 40.1633,
+    "lng": -110.4029,
+    "date": "2024-05-01",
+    "county": "Duchesne",
+    "source": "Duchesne County Planning Commission",
+    "category": "Public Testimony",
+    "speaker": "Hobart Willis",
+    "industry": "Oil & Gas",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Flare Noise Complaint",
+    "description": "Resident reported flare whistling noise measured between 94-96 decibels.",
+    "lat": 40.1733,
+    "lng": -110.4129,
+    "date": "2024-05-01",
+    "county": "Duchesne",
+    "source": "Duchesne County Planning Commission",
+    "category": "Noise",
+    "speaker": "Guy Taylor",
+    "industry": "Oil & Gas",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Air Quality Complaint",
+    "description": "Strong chemical smell reported near residential area.",
+    "lat": 40.21,
+    "lng": -110.53,
+    "date": "2024-06-10",
+    "county": "Duchesne",
+    "source": "Resident Report",
+    "category": "Air Quality",
+    "speaker": "Anonymous",
+    "industry": "Oil & Gas",
+    "verification": "Community Report"
+  },
+
+  {
+    "type": "Truck Traffic Complaint",
+    "description": "Residents reported constant overnight truck traffic near homes.",
+    "lat": 40.299,
+    "lng": -109.988,
+    "date": "2024-07-20",
+    "county": "Duchesne",
+    "source": "Resident Report",
+    "category": "Traffic",
+    "speaker": "Anonymous",
+    "industry": "Transportation",
+    "verification": "Community Report"
+  },
+
+  {
+    "type": "Road Dust Complaint",
+    "description": "Residents reported excessive dust from oilfield truck traffic near residential roads.",
+    "lat": 40.455,
+    "lng": -109.528,
+    "date": "2024-09-12",
+    "county": "Uintah",
+    "source": "Uintah County Public Comment",
+    "category": "Dust",
+    "speaker": "Anonymous",
+    "industry": "Oil & Gas",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Compressor Station Noise",
+    "description": "Public testimony described continuous compressor noise during nighttime hours.",
+    "lat": 40.376,
+    "lng": -109.982,
+    "date": "2024-11-08",
+    "county": "Uintah",
+    "source": "Uintah County Commission",
+    "category": "Noise",
+    "speaker": "Resident Testimony",
+    "industry": "Oil & Gas",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Flaring Complaint",
+    "description": "Residents reported visible flaring and strong odor near neighborhood.",
+    "lat": 40.418,
+    "lng": -109.561,
+    "date": "2025-01-17",
+    "county": "Uintah",
+    "source": "Citizen Report",
+    "category": "Flaring",
+    "speaker": "Anonymous",
+    "industry": "Oil & Gas",
+    "verification": "Community Report"
+  },
+
+  {
+    "type": "Heavy Truck Complaint",
+    "description": "Residents reported vibration and noise from increased heavy truck activity.",
+    "lat": 40.44,
+    "lng": -109.547,
+    "date": "2025-03-01",
+    "county": "Uintah",
+    "source": "Planning Commission Meeting",
+    "category": "Traffic",
+    "speaker": "Community Member",
+    "industry": "Transportation",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Sand Pit Dust Complaint",
+    "description": "Residents reported heavy airborne dust from sand pit operations during windy conditions.",
+    "lat": 40.311,
+    "lng": -110.102,
+    "date": "2025-06-14",
+    "county": "Duchesne",
+    "source": "Public Comment",
+    "category": "Dust",
+    "speaker": "Resident Testimony",
+    "industry": "Mining",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Gravel Pit Truck Dust",
+    "description": "Dust clouds reported from gravel truck traffic affecting nearby homes and roads.",
+    "lat": 40.287,
+    "lng": -110.221,
+    "date": "2025-08-03",
+    "county": "Duchesne",
+    "source": "County Meeting",
+    "category": "Dust",
+    "speaker": "Anonymous",
+    "industry": "Aggregate Mining",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Industrial Dust Complaint",
+    "description": "Residents reported persistent fine dust settling on homes near industrial excavation site.",
+    "lat": 40.412,
+    "lng": -109.941,
+    "date": "2025-10-19",
+    "county": "Uintah",
+    "source": "Citizen Report",
+    "category": "Dust",
+    "speaker": "Community Member",
+    "industry": "Industrial Development",
+    "verification": "Community Report"
+  },
+
+  {
+    "type": "Sand Mine Noise & Dust",
+    "description": "Residents reported blasting noise and airborne dust from nearby sand extraction operations.",
+    "lat": 40.355,
+    "lng": -109.822,
+    "date": "2026-02-11",
+    "county": "Uintah",
+    "source": "Planning Commission Minutes",
+    "category": "Dust",
+    "speaker": "Resident Testimony",
+    "industry": "Mining",
+    "verification": "Documented"
+  },
+
+  {
+    "type": "Hydrogen Sulfide Odor Complaint",
+    "description": "Residents reported rotten egg odor and nausea near oilfield infrastructure.",
+    "lat": 40.302,
+    "lng": -110.121,
+    "date": "2025-02-03",
+    "county": "Duchesne",
+    "source": "Community Complaint",
+    "category": "H2S",
+    "speaker": "Anonymous",
+    "industry": "Oil & Gas",
+    "verification": "Community Report"
+  },
+
+  {
+    "type": "Landfill Odor Complaint",
+    "description": "Residents reported strong landfill odor during inversion conditions.",
+    "lat": 40.267,
+    "lng": -110.401,
+    "date": "2025-01-21",
+    "county": "Duchesne",
+    "source": "Resident Complaint",
+    "category": "Waste",
+    "speaker": "Anonymous",
+    "industry": "Waste Management",
+    "verification": "Community Report"
+  },
+
+  {
+    "type": "Mosquito Abatement Chemical Complaint",
+    "description": "Community concerns raised regarding aerial pesticide spraying and potential health impacts.",
+    "lat": 40.163,
+    "lng": -110.401,
+    "date": "2025-07-11",
+    "county": "Duchesne",
+    "source": "Public Comment",
+    "category": "Pesticides",
+    "speaker": "Resident Testimony",
+    "industry": "Mosquito Abatement",
+    "verification": "Documented"
+  },
+    {
+      "id": "complaint_2024_guy_taylor_flare_noise",
+      "type": "Flare Noise Complaint",
+      "complaint_type": "Noise",
+      "description": "Guy Taylor reported flare whistling noise measured around 94–96 dB.",
+      "date": "2024-05-01",
+      "county": "Duchesne",
+      "lat": 40.1733,
+      "lng": -110.4129,
+      "source": "Duchesne County Planning Commission public testimony",
+      "speaker": "Guy Taylor",
+      "category": "Flaring / Noise",
+      "industry": "Oil & Gas",
+      "location_confidence": "approximate",
+      "verified": true
+    },
+    {
+      "id": "complaint_2023_higley_lamb_road_haul_route",
+      "type": "Truck Traffic / Haul Route Complaint",
+      "complaint_type": "Truck Traffic",
+      "description": "Concerns raised about truck haul routes, road damage, and mining-related traffic in the Lamb Road / Higley area.",
+      "date": "2023-05-03",
+      "county": "Duchesne",
+      "lat": 40.28,
+      "lng": -110.05,
+      "source": "Duchesne County Planning Commission record",
+      "speaker": "Public / Planning Commission discussion",
+      "category": "Truck Traffic / Dust",
+      "industry": "Sand & Gravel",
+      "location_confidence": "approximate",
+      "verified": true
+    },
+    {
+      "id": "complaint_2016_quarry_dust_control",
+      "type": "Dust Complaint / Quarry Condition",
+      "complaint_type": "Dust",
+      "description": "County conditions required quarry trucks to control speed on gravel roads to reduce dust impacts.",
+      "date": "2016-12-07",
+      "county": "Duchesne",
+      "lat": 40.302,
+      "lng": -110.118,
+      "source": "Duchesne County Planning Commission record",
+      "speaker": "Planning Commission record",
+      "category": "Dust / Quarry",
+      "industry": "Mining",
+      "location_label": "Approximate Blue Bench / quarry corridor area",
+      "location_confidence": "estimated_placeholder",
+      "verified": true
+    },
+    {
+      "id": "complaint_2012_pleasant_valley_crusher_dust",
+      "type": "Dust / Crusher Complaint",
+      "complaint_type": "Dust",
+      "description": "Residents raised concerns about dust, crusher activity, truck traffic, asthma impacts, and noncompliance near the Pleasant Valley gravel pit / rock crusher area.",
+      "date": "2012-05-02",
+      "county": "Duchesne",
+      "lat": 40.094,
+      "lng": -110.087,
+      "source": "Duchesne County Planning Commission record",
+      "speaker": "Residents / attorney testimony",
+      "category": "Dust / PM10",
+      "industry": "Sand & Gravel",
+      "location_confidence": "approximate_named_intersection",
+      "verified": true
+    }
+  ]

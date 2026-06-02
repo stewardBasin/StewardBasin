@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2024__Ozone___Air_Quality__00003652.txt",
+    "type": "Noise / Flaring Complaint",
+    "description": "developing a groundbreaking geothermal project in Beaver County, is set to become the largest next \u2212generation geothermal energy facility in the nation. With an initial capacity of 400 megawatts, it aims to deliver clean and reliable energy, with the potential to expand to 2 gigawatts. We cannot give up our existing baseload power plants like our existing coal plants. Since 1970, coal power plants have reduced sulfur dioxide, nitrous oxide, and particulate matter by 84 percent per kilowatt hour. We want to continue investing in technologies to make coal production cleaner. Day 1 87Tuesday, January 21, 2025 Utah consistently ranks among the states with the lowest natural gas prices in the United States. Enbridge just lowered its prices again and has committed to helping power data centers. Natural gas must be a major part of the solution. ",
+    "date": "2024",
+    "year": "2024",
+    "county": "Duchesne",
+    "source": "Parsed public record",
+    "source_file": "00003652.txt",
+    "category": "Noise / Flaring",
+    "industry": "",
+    "lat": "",
+    "lng": "",
+    "location_label": "",
+    "location_confidence": "needs_location_review",
+    "map_ready": false,
+    "review_status": "needs_location",
+    "source_clean_file": "promoted_keep.json",
+    "promoted_at": "2026-06-01T16:21:08.745060"
+  }
+]

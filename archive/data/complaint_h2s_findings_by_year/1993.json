@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1993__Enforcement___Noncompliance__s1993.txt",
+    "year": "1993",
+    "category": "Enforcement / Noncompliance",
+    "source_file": "s1993.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "noncompliance",
+        "character_index": 85542,
+        "snippet": "UM GAS  APPLIANCES; PROVIDING FOR RULEMAKING AUTHORITY RELATED  TO THESE STANDARDS; AND MAKING TECHNICAL CORRECTIONS, was  read the first time and referred to Rules Committee. SANCTIONS FO R  D EN IA L OF CH ILD  VISITATION  S J .  29 Delpha A. Baird AN ACT RELATING TO THE JUDICIAL CODE; PROVIDING  DEFINITIONS; PROVIDING VISITATION RIGHTS OF NONCUSTODIAL  PARENT, GRANDPARENTS AND OTHER IMMEDIATE FAMILY  MEMBERS; PROVIDING SANCTIONS FOR WRONGFUL  NONCOMPLIANCE W ITH THE VISITATION ORDER; PROVIDING  CORRESPONDING REMEDIES TO FREQUENCY OF ENFORCEMENT  ORDERS FILED; PROVIDING FOR FUNDING UNDER THE CHILDREN\u2019S  LEGAL DEFENSE ACCOUNT, AND MAKING TECHNICAL  CORRECTIONS, was read the first time and referred to Rules Committee. CER TIFIC A TIO N  O F  COUNTY ASSESSORS  S.B. 30 Lyle W. Hiltyard, Robert F. Montgomery AN ACT RELATING TO PROPERTY TAXES; AMENDING COUNTY  APPRAISER CERTIFICATION REQUIRE"
+      },
+      {
+        "keyword": "noncompliance",
+        "character_index": 798735,
+        "snippet": "of Senator Baird, the following substitute bill replaced the original bill.  Day 39 SENATE JOURNAL 563 SANCTIONS FO R D E N IA L  OF CHILD VISITATION  Sub. S 3 .2 9  Delpha A. Baird AN ACT RELATING T O  THE JUDICIAL CODE; PROVIDING  DEFINITIONS; PROVIDING VISITATION RIGHTS OF NONCUSTODIAL  PARENT. GRANDPARENTS AND OTHER IMMEDIATE FAMILY  MEMBERS; CREATING THE PILO T PROGRAM IN THE FIRST JUDICIAL  DISTRICT FOR MANDATORY SANCTIONS FOR SUBSTANTIAL  NONCOMPLIANCE WITH TH E VISITATION ORDER; PROVIDING  CORRESPONDING REM EDIES TO FREQUENCY OF ENFORCEM ENT  ORDERS FILED; PROVIDING FOR FUNDING UNDER THE CHILDREN\u2019S  LEGAL DEFENSE ACCOUNT, AND MAKING TECHNICAL  CORRECTIONS. Senator Baird explained the bill and it passed an the following roll call:  Yeas, 27; Nays, 0; A bsent, 2 Voting In the affirm ative w ere: Senators  Baird Barlow Beattie Dmitrich Howell Money Peterson, C A . Steele Watson Ford"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:23.122429"
+  },
+  {
+    "id": "1993__Health_Impacts__s1993.txt",
+    "year": "1993",
+    "category": "Health Impacts",
+    "source_file": "s1993.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "hospitalization",
+        "character_index": 88221,
+        "snippet": "RELATING TO STATE OFFICERS AND EMPLOYEES; AMENDING THE REQUIREMENTS FOR THE BASIC TRAINING FOR  Day 1 SENATE JOURNAL 73 PEACE OFFICERS B Y  REQUIRING CHILD ABUSE TRAINING; AND  MAKING CORRESPONDING CHANGES, was read the first time and referred to  Rules Committee. COUNTIES R ESPO N SIB ILITIES FO R  PO O R  PERSONS  S B . 37 Craig A. Peterson AN ACT RELATING TO COUNTIES; REPEALING PROVISIONS  CREATING THE COMMISSIONER OF THE POOR. GOVERNING THE  HOSPITALIZATION AND MEDICAL TREATMENT O F  THE POOR; AND  REPORTS OF THE COMMISSION CONCERNING THE POOR, was lead the  first time and referred to  Rules Committee. A ID T O  W ID O W ED  M O TH ERS S B . 38 Craig A. Peterson AN ACT RELATING TO COUNTIES; REPEALING PROVISIONS  GOVERNING COUNTY FUNDING AND CONDITIONS FOR PUBLIC AID  TO DEPENDENT MOTHERS AND THEIR CHILDREN, was read the first time  and referred to Rules Committee. LO C A L HEALTH REG"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:23.157458"
+  }
+]

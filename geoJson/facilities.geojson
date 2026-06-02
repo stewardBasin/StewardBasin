@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Bench Landfill",
+        "type": "Landfill",
+        "industry": "Waste Management",
+        "county": "Duchesne",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.401, 40.267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4-C Farms / IWM Mine",
+        "type": "Sand & Gravel Mine",
+        "industry": "Mining",
+        "county": "Duchesne",
+        "status": "Active CUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.074, 40.327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Bench Gravel Extraction",
+        "type": "Sand Pit Mine",
+        "industry": "Mining",
+        "county": "Duchesne",
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.082, 40.321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovintiv Earth Products Area",
+        "type": "Oil & Gas Extraction",
+        "industry": "Oil & Gas",
+        "county": "Duchesne",
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.061, 40.315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Bench Industrial Processing Site",
+        "type": "Industrial Processing",
+        "industry": "Oil & Gas",
+        "county": "Duchesne",
+        "status": "Community Reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.071, 40.308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Bench Flare Stack",
+        "type": "Flare Stack",
+        "industry": "Oil & Gas",
+        "county": "Duchesne",
+        "status": "Observed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.069, 40.304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simplot Mining Operation",
+        "type": "Mining Facility",
+        "industry": "Phosphate Mining",
+        "county": "Uintah",
+        "status": "Operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.528, 40.455]
+      }
+    }
+  ]
+}

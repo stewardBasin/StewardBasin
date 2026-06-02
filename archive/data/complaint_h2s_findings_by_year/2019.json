@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2019__Ozone___Air_Quality__00003554.txt",
+    "year": "2019",
+    "category": "Ozone / Air Quality",
+    "source_file": "00003554.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "nonattainment",
+        "character_index": 1009595,
+        "snippet": "GY, AND TECHNOLOGY STANDING COMMITTEE REPORTS Mr. Speaker: March 2, 2020 The Public Utilities, Energy, and Technology Committee recommends H.B. 317 , NONROAD ENGINE STUDY , by Representative S. G. Handy, be replaced and reports a favorable recommendation on 2nd Sub. H.B. 317 , NONROAD ENGINE STUDY with the following amendments: 1. Page 2, Lines 45 through 47: 45 (1) The division shall conduct a study of nonroad compression\u2212ignition engines in 46 nonattainment areas of the state that  : (a) are not used in agricultural production; and (b)  are not currently accounted for in the division\u2019s emissions 47 inventories.  ; and The Public Utilities, Energy, and Technology Committee recommends H.B. 396 , ELECTRIC VEHICLE CHARGING INFRASTRUCTURE AMENDMENTS, by Representative V . Lowry Snow, be replaced and favorably recommends 1st Sub. H.B. 396 , ELECTRIC VEHICLE CHARGING INFRASTRUCTURE AMENDMENTS"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:28:15.339815"
+  },
+  {
+    "id": "2019__Enforcement___Noncompliance__00003554.txt",
+    "year": "2019",
+    "category": "Enforcement / Noncompliance",
+    "source_file": "00003554.txt",
+    "county": "Duchesne",
+    "match_count_saved": 1,
+    "matches": [
+      {
+        "keyword": "incident report",
+        "character_index": 1092323,
+        "snippet": "on 75. Section 41 \u22126a\u2212531 is enacted to read: 4101  41 \u22126a\u2212531. Recording of alcohol source. 4102  A peace officer who arrests the operator of a vehicle for violating a provision of this 4103 title by driving under the influence of alcohol shall: 4104   (1) ask the operator where the operator obtained the alcoholic beverage the operator 4105 consumed before driving; and 4106   (2) record information provided under Subsection (1) in the officer\u2019s incident report. } ; and The Business and Labor Committee recommends H.B. 413 , UNDERINSURED MOTORIST INSURANCE AMENDMENTS, by Representative E. K. Hutchings, be replaced and favorably recommends 1st Sub. H.B. 413 , UNINSURED AND UNDERINSURED MOTORIST INSURANCE AMENDMENTS; and The Business and Labor Committee reports a favorable recommendation on H.B. 428 , BIRTHING FACILITY LICENSURE AMENDMENTS, by Representative F. D. Gibson, with the following"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:28:15.569351"
+  }
+]

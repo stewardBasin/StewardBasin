@@ -1,0 +1,866 @@
+{
+  "PM25": {
+    "LastUpdateUTC": "2026-05-30 19:58 UTC",
+    "LastUpdateLocal": "2026-05-30 13:58 MDT",
+    "APITimeStart": "202605301828",
+    "APITimeEnd": "202605301958",
+    "VarName": "PM2.5 Concentration",
+    "VarUnit": "ug/m3",
+    "WBB": {
+      "TimeLocal": "2026-05-30 13:50:00 MDT",
+      "TimeUTC": "2026-05-30 19:50:00 UTC",
+      "Latitude": "40.76623",
+      "Longitude": "-111.84755",
+      "Value": "0.80",
+      "ValueColor": "#00FFFF"
+    },
+    "QEN": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "37.74745",
+      "Longitude": "-113.05552",
+      "Value": "2.40",
+      "ValueColor": "#00CCFF"
+    },
+    "QHW": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.73350",
+      "Longitude": "-111.87170",
+      "Value": "2.70",
+      "ValueColor": "#00CCFF"
+    },
+    "QLN": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.3388",
+      "Longitude": "-111.7133",
+      "Value": "1.50",
+      "ValueColor": "#00FFFF"
+    },
+    "ACRI1": {
+      "TimeLocal": "2026-05-30 13:47:00 MDT",
+      "TimeUTC": "2026-05-30 19:47:00 UTC",
+      "Latitude": "43.621750",
+      "Longitude": "-113.388920",
+      "Value": "4.40",
+      "ValueColor": "#0099FF"
+    },
+    "LDOI1": {
+      "TimeLocal": "2026-05-30 13:36:00 MDT",
+      "TimeUTC": "2026-05-30 19:36:00 UTC",
+      "Latitude": "44.701920",
+      "Longitude": "-113.346920",
+      "Value": "4.10",
+      "ValueColor": "#0099FF"
+    },
+    "STNI1": {
+      "TimeLocal": "2026-05-30 13:39:00 MDT",
+      "TimeUTC": "2026-05-30 19:39:00 UTC",
+      "Latitude": "44.169110",
+      "Longitude": "-114.925870",
+      "Value": "4.70",
+      "ValueColor": "#0099FF"
+    },
+    "QHV": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.3028",
+      "Longitude": "-111.9883",
+      "Value": "4.40",
+      "ValueColor": "#0099FF"
+    },
+    "QBV": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.90290",
+      "Longitude": "-111.88440",
+      "Value": "2.00",
+      "ValueColor": "#00CCFF"
+    },
+    "QSF": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.13630",
+      "Longitude": "-111.6602",
+      "Value": "2.60",
+      "ValueColor": "#00CCFF"
+    },
+    "A1123": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.52750",
+      "Longitude": "-108.72030",
+      "Value": "6.00",
+      "ValueColor": "#00FF00"
+    },
+    "AN684": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.86980",
+      "Longitude": "-109.87080",
+      "Value": "0.70",
+      "ValueColor": "#00FFFF"
+    },
+    "A1322": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.87670",
+      "Longitude": "-112.46030",
+      "Value": "4.00",
+      "ValueColor": "#0099FF"
+    },
+    "QP2": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.5958",
+      "Longitude": "-110.77",
+      "Value": "2.70",
+      "ValueColor": "#00CCFF"
+    },
+    "QRS": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.29430",
+      "Longitude": "-110.009",
+      "Value": "3.10",
+      "ValueColor": "#00CCFF"
+    },
+    "QRP": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.7955",
+      "Longitude": "-111.93090",
+      "Value": "3.30",
+      "ValueColor": "#00CCFF"
+    },
+    "QV4": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.46472",
+      "Longitude": "-109.56083",
+      "Value": "1.60",
+      "ValueColor": "#00FFFF"
+    },
+    "QHU": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "37.1790",
+      "Longitude": "-113.3052",
+      "Value": "3.00",
+      "ValueColor": "#00CCFF"
+    },
+    "QH3": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.49641",
+      "Longitude": "-112.03631",
+      "Value": "4.10",
+      "ValueColor": "#0099FF"
+    },
+    "QED": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.60056",
+      "Longitude": "-112.35500",
+      "Value": "3.90",
+      "ValueColor": "#00CCFF"
+    },
+    "HENI": {
+      "TimeLocal": "2026-05-30 12:45:00 MDT",
+      "TimeUTC": "2026-05-30 18:45:00 UTC",
+      "Latitude": "44.595",
+      "Longitude": "-111.35",
+      "Value": "34.73",
+      "ValueColor": "#FFCD00"
+    },
+    "HFAI": {
+      "TimeLocal": "2026-05-30 13:15:00 MDT",
+      "TimeUTC": "2026-05-30 19:15:00 UTC",
+      "Latitude": "44.0697222222",
+      "Longitude": "-111.510555556",
+      "Value": "1279.61",
+      "ValueColor": "#FF00FF"
+    },
+    "QSM": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.84278",
+      "Longitude": "-111.85194",
+      "Value": "5.10",
+      "ValueColor": "#0099FF"
+    },
+    "WTRFD": {
+      "TimeLocal": "2026-05-30 13:55:00 MDT",
+      "TimeUTC": "2026-05-30 19:55:00 UTC",
+      "Latitude": "40.57961",
+      "Longitude": "-111.84938",
+      "Value": "1.04",
+      "ValueColor": "#00FFFF"
+    },
+    "QCV": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.59806",
+      "Longitude": "-111.89417",
+      "Value": "3.40",
+      "ValueColor": "#00CCFF"
+    },
+    "QMA": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.71209",
+      "Longitude": "-112.11123",
+      "Value": "3.40",
+      "ValueColor": "#00CCFF"
+    },
+    "QNR": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.66284",
+      "Longitude": "-111.90180",
+      "Value": "3.30",
+      "ValueColor": "#00CCFF"
+    },
+    "A3691": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "44.65701",
+      "Longitude": "-111.08962",
+      "Value": "-1.00",
+      "ValueColor": "#000000"
+    },
+    "A3831": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "44.37306",
+      "Longitude": "-110.83100",
+      "Value": "0.00",
+      "ValueColor": "#00FFFF"
+    },
+    "A3920": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.68256",
+      "Longitude": "-114.37109",
+      "Value": "3.00",
+      "ValueColor": "#00CCFF"
+    },
+    "A3921": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.82302",
+      "Longitude": "-115.83856",
+      "Value": "-1.00",
+      "ValueColor": "#000000"
+    },
+    "A3923": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.46830",
+      "Longitude": "-112.05310",
+      "Value": "4.40",
+      "ValueColor": "#0099FF"
+    },
+    "A3930": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.56509",
+      "Longitude": "-114.49472",
+      "Value": "2.00",
+      "ValueColor": "#00CCFF"
+    },
+    "A4409": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.53180",
+      "Longitude": "-107.78230",
+      "Value": "3.00",
+      "ValueColor": "#00CCFF"
+    },
+    "A4503": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.08222",
+      "Longitude": "-111.86417",
+      "Value": "1.00",
+      "ValueColor": "#00FFFF"
+    },
+    "A4547": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.44194",
+      "Longitude": "-111.71341",
+      "Value": "6.00",
+      "ValueColor": "#00FF00"
+    },
+    "A4580": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.55643",
+      "Longitude": "-109.53044",
+      "Value": "-0.50",
+      "ValueColor": "#000000"
+    },
+    "A4603": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.06360",
+      "Longitude": "-108.56110",
+      "Value": "1.80",
+      "ValueColor": "#00FFFF"
+    },
+    "A4624": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.57760",
+      "Longitude": "-116.17816",
+      "Value": "3.00",
+      "ValueColor": "#00CCFF"
+    },
+    "QUTTC": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.7771",
+      "Longitude": "-111.9450",
+      "Value": "5.40",
+      "ValueColor": "#0099FF"
+    },
+    "A4742": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.024214",
+      "Longitude": "-108.363703",
+      "Value": "5.20",
+      "ValueColor": "#0099FF"
+    },
+    "A4783": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "36.81589",
+      "Longitude": "-114.05034",
+      "Value": "2.40",
+      "ValueColor": "#00CCFF"
+    },
+    "A4785": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.45776",
+      "Longitude": "-110.79799",
+      "Value": "-1.90",
+      "ValueColor": "#000000"
+    },
+    "QIP": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.80790",
+      "Longitude": "-112.08772",
+      "Value": "3.30",
+      "ValueColor": "#00CCFF"
+    },
+    "QLP": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.70987",
+      "Longitude": "-112.00866",
+      "Value": "3.60",
+      "ValueColor": "#00CCFF"
+    },
+    "A4812": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.84227",
+      "Longitude": "-108.73556",
+      "Value": "0.80",
+      "ValueColor": "#00FFFF"
+    },
+    "MSI04": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.07455",
+      "Longitude": "-113.02406",
+      "Value": "2.52",
+      "ValueColor": "#00CCFF"
+    },
+    "UUPYA": {
+      "TimeLocal": "2026-05-30 13:46:00 MDT",
+      "TimeUTC": "2026-05-30 19:46:00 UTC",
+      "Latitude": "41.03028",
+      "Longitude": "-112.11750",
+      "Value": "2.88",
+      "ValueColor": "#00CCFF"
+    },
+    "QM7": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "38.56481",
+      "Longitude": "-109.53644",
+      "Value": "27.40",
+      "ValueColor": "#FFE600"
+    },
+    "QUURB": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.76652",
+      "Longitude": "-111.82836",
+      "Value": "2.10",
+      "ValueColor": "#00CCFF"
+    },
+    "QBG": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.48993",
+      "Longitude": "-112.02144",
+      "Value": "4.10",
+      "ValueColor": "#0099FF"
+    },
+    "QHB": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.49796",
+      "Longitude": "-111.39764",
+      "Value": "0.80",
+      "ValueColor": "#00FFFF"
+    }
+  },
+  "PM10": {
+    "LastUpdateUTC": "2026-05-30 19:58 UTC",
+    "LastUpdateLocal": "2026-05-30 13:58 MDT",
+    "APITimeStart": "202605301828",
+    "APITimeEnd": "202605301958",
+    "VarName": "PM10 Concentration",
+    "VarUnit": "ug/m3",
+    "WBB": {
+      "TimeLocal": "2026-05-30 13:50:00 MDT",
+      "TimeUTC": "2026-05-30 19:50:00 UTC",
+      "Latitude": "40.76623",
+      "Longitude": "-111.84755",
+      "Value": "2.70",
+      "ValueColor": "#00FFFF"
+    },
+    "UUPYA": {
+      "TimeLocal": "2026-05-30 13:46:00 MDT",
+      "TimeUTC": "2026-05-30 19:46:00 UTC",
+      "Latitude": "41.03028",
+      "Longitude": "-112.11750",
+      "Value": "3.63",
+      "ValueColor": "#00FFFF"
+    }
+  },
+  "OZNE": {
+    "LastUpdateUTC": "2026-05-30 19:58 UTC",
+    "LastUpdateLocal": "2026-05-30 13:58 MDT",
+    "APITimeStart": "202605301828",
+    "APITimeEnd": "202605301958",
+    "VarName": "Ozone",
+    "VarUnit": "ppbv",
+    "QEN": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "37.74745",
+      "Longitude": "-113.05552",
+      "Value": "57.00",
+      "ValueColor": "#FFFF00"
+    },
+    "QHW": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.73350",
+      "Longitude": "-111.87170",
+      "Value": "53.00",
+      "ValueColor": "#006600"
+    },
+    "QLN": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.3388",
+      "Longitude": "-111.7133",
+      "Value": "54.00",
+      "ValueColor": "#006600"
+    },
+    "QHV": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.3028",
+      "Longitude": "-111.9883",
+      "Value": "47.00",
+      "ValueColor": "#006600"
+    },
+    "QBV": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.90290",
+      "Longitude": "-111.88440",
+      "Value": "50.00",
+      "ValueColor": "#006600"
+    },
+    "QSF": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.13630",
+      "Longitude": "-111.6602",
+      "Value": "54.00",
+      "ValueColor": "#006600"
+    },
+    "A1123": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.52750",
+      "Longitude": "-108.72030",
+      "Value": "64.00",
+      "ValueColor": "#FFE600"
+    },
+    "AN682": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.71860",
+      "Longitude": "-109.75310",
+      "Value": "70.00",
+      "ValueColor": "#FF7E00"
+    },
+    "AN685": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.92880",
+      "Longitude": "-109.78800",
+      "Value": "60.00",
+      "ValueColor": "#FFE600"
+    },
+    "AN684": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.86980",
+      "Longitude": "-109.87080",
+      "Value": "57.00",
+      "ValueColor": "#FFFF00"
+    },
+    "AN097": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "38.95640",
+      "Longitude": "-106.98580",
+      "Value": "60.00",
+      "ValueColor": "#FFE600"
+    },
+    "A1322": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.87670",
+      "Longitude": "-112.46030",
+      "Value": "37.00",
+      "ValueColor": "#009900"
+    },
+    "A1388": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.21690",
+      "Longitude": "-110.18230",
+      "Value": "44.00",
+      "ValueColor": "#009900"
+    },
+    "A1633": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.20443",
+      "Longitude": "-109.35321",
+      "Value": "55.00",
+      "ValueColor": "#FFFF00"
+    },
+    "A1622": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.05485",
+      "Longitude": "-109.68737",
+      "Value": "45.00",
+      "ValueColor": "#006600"
+    },
+    "A1386": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.48380",
+      "Longitude": "-109.90620",
+      "Value": "60.00",
+      "ValueColor": "#FFE600"
+    },
+    "AN775": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.75060",
+      "Longitude": "-109.78970",
+      "Value": "39.00",
+      "ValueColor": "#009900"
+    },
+    "AN839": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.48667",
+      "Longitude": "-110.09917",
+      "Value": "56.00",
+      "ValueColor": "#FFFF00"
+    },
+    "QP2": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.5958",
+      "Longitude": "-110.77",
+      "Value": "53.00",
+      "ValueColor": "#006600"
+    },
+    "QRS": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.29430",
+      "Longitude": "-110.009",
+      "Value": "53.00",
+      "ValueColor": "#006600"
+    },
+    "QRP": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.7955",
+      "Longitude": "-111.93090",
+      "Value": "48.00",
+      "ValueColor": "#006600"
+    },
+    "QV4": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.46472",
+      "Longitude": "-109.56083",
+      "Value": "53.00",
+      "ValueColor": "#006600"
+    },
+    "A3446": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.37300",
+      "Longitude": "-109.56300",
+      "Value": "58.00",
+      "ValueColor": "#FFFF00"
+    },
+    "AN813": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "42.79140",
+      "Longitude": "-110.05470",
+      "Value": "55.00",
+      "ValueColor": "#FFFF00"
+    },
+    "MTMET": {
+      "TimeLocal": "2026-05-30 13:55:00 MDT",
+      "TimeUTC": "2026-05-30 19:55:00 UTC",
+      "Latitude": "40.766573",
+      "Longitude": "-111.828211",
+      "Value": "53.74",
+      "ValueColor": "#006600"
+    },
+    "A1074": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "38.45830",
+      "Longitude": "-109.82110",
+      "Value": "54.00",
+      "ValueColor": "#006600"
+    },
+    "A1058": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.67083",
+      "Longitude": "-110.59940",
+      "Value": "48.00",
+      "ValueColor": "#006600"
+    },
+    "A1081": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "37.19830",
+      "Longitude": "-113.15060",
+      "Value": "57.00",
+      "ValueColor": "#FFFF00"
+    },
+    "QHU": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "37.1790",
+      "Longitude": "-113.3052",
+      "Value": "54.00",
+      "ValueColor": "#006600"
+    },
+    "QH3": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.49641",
+      "Longitude": "-112.03631",
+      "Value": "50.00",
+      "ValueColor": "#006600"
+    },
+    "QED": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.60056",
+      "Longitude": "-112.35500",
+      "Value": "47.00",
+      "ValueColor": "#006600"
+    },
+    "QSM": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.84278",
+      "Longitude": "-111.85194",
+      "Value": "38.00",
+      "ValueColor": "#009900"
+    },
+    "A3822": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.43720",
+      "Longitude": "-109.30470",
+      "Value": "59.00",
+      "ValueColor": "#FFFF00"
+    },
+    "QCV": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.59806",
+      "Longitude": "-111.89417",
+      "Value": "48.00",
+      "ValueColor": "#006600"
+    },
+    "QMA": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.71209",
+      "Longitude": "-112.11123",
+      "Value": "47.00",
+      "ValueColor": "#006600"
+    },
+    "QNR": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.66284",
+      "Longitude": "-111.90180",
+      "Value": "45.00",
+      "ValueColor": "#006600"
+    },
+    "A3757": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.46060",
+      "Longitude": "-113.56220",
+      "Value": "40.00",
+      "ValueColor": "#009900"
+    },
+    "A3776": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.00530",
+      "Longitude": "-114.21580",
+      "Value": "58.00",
+      "ValueColor": "#FFFF00"
+    },
+    "A3792": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "44.55970",
+      "Longitude": "-110.40060",
+      "Value": "34.00",
+      "ValueColor": "#00FF00"
+    },
+    "A4410": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.54180",
+      "Longitude": "-107.78410",
+      "Value": "53.00",
+      "ValueColor": "#006600"
+    },
+    "A4414": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "39.13060",
+      "Longitude": "-108.31390",
+      "Value": "53.00",
+      "ValueColor": "#006600"
+    },
+    "A4415": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "37.34997",
+      "Longitude": "-108.58737",
+      "Value": "58.00",
+      "ValueColor": "#FFFF00"
+    },
+    "A4624": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.57760",
+      "Longitude": "-116.17816",
+      "Value": "42.00",
+      "ValueColor": "#009900"
+    },
+    "QUTTC": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.7771",
+      "Longitude": "-111.9450",
+      "Value": "50.00",
+      "ValueColor": "#006600"
+    },
+    "A4742": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "43.024214",
+      "Longitude": "-108.363703",
+      "Value": "68.00",
+      "ValueColor": "#FFCD00"
+    },
+    "A4783": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "36.81589",
+      "Longitude": "-114.05034",
+      "Value": "54.00",
+      "ValueColor": "#006600"
+    },
+    "QIP": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.80790",
+      "Longitude": "-112.08772",
+      "Value": "52.00",
+      "ValueColor": "#006600"
+    },
+    "QLP": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.70987",
+      "Longitude": "-112.00866",
+      "Value": "50.00",
+      "ValueColor": "#006600"
+    },
+    "QM7": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "38.56481",
+      "Longitude": "-109.53644",
+      "Value": "58.00",
+      "ValueColor": "#FFFF00"
+    },
+    "QBG": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "41.48993",
+      "Longitude": "-112.02144",
+      "Value": "41.00",
+      "ValueColor": "#009900"
+    },
+    "QHB": {
+      "TimeLocal": "2026-05-30 13:00:00 MDT",
+      "TimeUTC": "2026-05-30 19:00:00 UTC",
+      "Latitude": "40.49796",
+      "Longitude": "-111.39764",
+      "Value": "47.00",
+      "ValueColor": "#006600"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+
+      "properties": {
+        "name": "4-C Farms CUP Area",
+        "type": "Conditional Use Permit",
+        "status": "Active",
+        "source": "Duchesne County CUP"
+      },
+
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.074, 40.327]
+      }
+    },
+
+    {
+      "type": "Feature",
+
+      "properties": {
+        "name": "Blue Bench Industrial Area",
+        "type": "Industrial Corridor",
+        "status": "Observed Activity",
+        "source": "Community Reports"
+      },
+
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.071, 40.308]
+      }
+    }
+
+  ]
+}

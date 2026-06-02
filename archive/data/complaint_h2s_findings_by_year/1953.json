@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1953__Complaints__s1953_b.txt",
+    "year": "1953",
+    "category": "Complaints",
+    "source_file": "s1953_b.txt",
+    "county": "Duchesne",
+    "match_count_saved": 2,
+    "matches": [
+      {
+        "keyword": "public nuisance",
+        "character_index": 601872,
+        "snippet": "n, Stringham and Thom. S. B. No. b8 was transmitted to the House. CONSIDERATION OF BILLS ON SECOND READING S. B. No. 66 was read the second time. Committee report read and adopted. On motion of Senator Woolley, the Senate voted to amend S. B. No. 66  as follows: Page 1, strike line 1, and insert in lieu thereof: (Page 1) \u201c1 Section 1. Whereas the pollution of the waters of this state con- 2 stitutes a menace to public health and welfare, creates public nuisances, 3 is harmful to wildlife, fish and aquatic life, and impairs domestic, agri- 4 cultural, industrial, recreational and other legitimate beneficial uses of 5 water, and whereas such pollution is contrary to the best interests of the 6 state and its policy for the conservation of the water resources of the state, 7 it is hereby declared to be the public policy of this state to conserve the 8 waters of the state and to protect, main"
+      },
+      {
+        "keyword": "public nuisance",
+        "character_index": 612471,
+        "snippet": "on pol- 3 lution as a result of its actions. 4 (1) To exercise all incidental powers necessary to carry out the pur- 5 poses of this act. 6 Section 5. (a) It shall be unlawful for any person to cause pollu- 7 tion as defined in section 2 (a) of this act of any waters of the state or to 8 place or cause to be placed any wastes in a location where they will cause 9 pollution of any waters of the state. Any such action is hereby declared 10 to be a public nuisance. 11 (b) It shall be unlawful for any person to carry on any of the 12 following activities without first securing such permit from the board, as 13 is required by it, for the disposal of all wastes which are or may be dis- 14 charged thereby into the waters of the state: (1) the construction, instal- 15 lation, modification or operation of any treatment works or part thereof 16 or any extension or addition thereto; (2) the increas"
+      }
+    ],
+    "date_found": "",
+    "lat": "",
+    "lng": "",
+    "map_ready": false,
+    "review_status": "needs_review",
+    "created_at": "2026-05-29T13:29:06.805192"
+  }
+]

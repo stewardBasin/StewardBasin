@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ovintiv",
+    "type": "Oil Company"
+  },
+  {
+    "name": "XCL Resources",
+    "type": "Oil Company"
+  },
+  {
+    "name": "Crescent Point",
+    "type": "Oil Company"
+  },
+  {
+    "name": "Anschutz",
+    "type": "Developer"
+  },
+  {
+    "name": "JR Bird",
+    "type": "Political"
+  },
+  {
+    "name": "Christine Watkins",
+    "type": "Political"
+  },
+  {
+    "name": "Ron Winterton",
+    "type": "Political"
+  },
+  {
+    "name": "Nine Mile LLC",
+    "type": "Developer" 
+  },
+   {
+    "name": "Energence LLC",
+    "type": "Developer" 
+  }, {
+    "name": "Vaibhav Shree LLC",
+    "type": "Developer" 
+  }, {
+    "name": "Javelin",
+    "type": "Developer" 
+  }, {
+    "name": "Crescent Point Energy",
+    "type": "Oil Company"
+  }, {
+    "name": "Jacob Woodland",
+    "type": "Developer" 
+  }, {
+    "name": "Jake Woodland",
+    "type": "Developer" 
+  }, {
+    "name": "Mike Stegnal",
+    "type": "Developer" 
+  }, {
+    "name": "Michael Stegnal",
+    "type": "Developer" 
+  },
+  {
+    "name": "reWater LLC",
+    "type": "Developer" 
+  },
+  {
+    "name": "Wasatch Energy",
+    "type": "Developer" 
+  },
+  {
+    "name": "KGH Operating Company",
+    "type": "Developer" 
+  }
+  
+]
