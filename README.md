@@ -1,12 +1,14 @@
-Steward Basin
 Steward Basin is an independent environmental and public records mapping project focused on the Uintah Basin region of Utah, including:
+
 •	Duchesne County
 •	Uintah County
 •	Uintah & Ouray Reservation
 •	Ute Tribal lands
 •	Regional oil & gas infrastructure
 •	Air quality and environmental health impacts
+
 The project combines:
+
 •	GIS mapping
 •	automated web scraping
 •	public meeting archives
@@ -16,10 +18,15 @@ The project combines:
 •	industrial infrastructure data
 •	historical county documents
 •	community-reported impacts
+
 into a searchable and mapable public intelligence platform.
+
 ________________________________________
+
 Project Goals
+
 Steward Basin exists to:
+
 •	document environmental impacts
 •	preserve public records
 •	improve transparency
@@ -28,8 +35,10 @@ Steward Basin exists to:
 •	identify historical patterns in permitting and enforcement
 •	support community research and investigative journalism
 •	create accessible public-facing environmental data tools
+
 ________________________________________
 Current Features
+
 Interactive Mapping
 •	Oil & gas infrastructure layers
 •	Air quality datasets
@@ -37,7 +46,9 @@ Interactive Mapping
 •	Wells and industrial sites
 •	GeoJSON overlays
 •	Historical map support
+
 Automated Scraping
+
 Python + Playwright scrapers collect:
 •	county planning documents
 •	commission minutes
@@ -47,7 +58,9 @@ Python + Playwright scrapers collect:
 •	environmental references
 •	health-related public documents
 •	tribal and reservation-related records
+
 Keyword Detection
+
 Current keyword systems scan for:
 •	flaring
 •	odor
@@ -66,8 +79,12 @@ Current keyword systems scan for:
 •	COPD
 •	respiratory illness
 •	environmental exposure
+
 ________________________________________
+
+
 Tech Stack
+
 Frontend:
 •	HTML
 •	CSS
@@ -87,6 +104,7 @@ Potential Future Stack:
 •	Scheduled scrapers
 •	AI-assisted document classification
 ________________________________________
+
 Folder Structure
 /archive
 /scripts
@@ -97,10 +115,12 @@ Folder Structure
 ________________________________________
 
 Data Workflow
+
 Steward Basin follows a three-stage data preservation process.
 Stage 1: Raw Data
 Stored in:
 archive/raw/
+
 Examples:
 •	ZIP archives
 •	PDF reports
@@ -110,6 +130,7 @@ Raw files are never modified.
 Stage 2: Processed Data
 Stored in:
 archive/data/
+
 Examples:
 •	Cleaned JSON files
 •	Classified incidents
@@ -118,14 +139,18 @@ Examples:
 Processed data is generated from raw sources.
 Stage 3: Website Data
 Used directly by the map application.
+
 Examples:
 •	complaints.json
 •	ozone.json
 •	pm25.json
 •	pm10.json
 These files are optimized for public visualization.
+
 ________________________________________
+
 Long-Term Vision
+
 Steward Basin is designed to become a continuously updating regional monitoring platform capable of:
 •	automated data ingestion
 •	historical trend analysis
@@ -134,7 +159,9 @@ Steward Basin is designed to become a continuously updating regional monitoring 
 •	public alerts
 •	archival preservation
 •	investigative research support
+
 Future plans include:
+
 •	automated daily scraping
 •	real-time update alerts
 •	searchable document indexing
@@ -180,14 +207,19 @@ Potential future directions include:
 •	API access for developers
 •	public environmental monitoring products
 ________________________________________
+
 Data Sources & Credits
-Steward Basin relies upon publicly available information from numerous organizations and agencies. Data ownership remains with the original source agencies.
+
+Steward Basin relies upon publicly available information from numerous organizations and agencies. 
+Data ownership remains with the original source agencies.
 Major sources currently include:
+
 Environmental Incident Data
-•	Utah Department of Environmental Quality (DEQ)
-o	Environmental Incident Database
-o	Legacy Environmental Incident Search Portal
-o	Environmental Incident Reporting System
+	Utah Department of Environmental Quality (DEQ)
+	Environmental Incident Database
+	Legacy Environmental Incident Search Portal
+	Environmental Incident Reporting System
+
 Air Quality Data
 •	Utah Division of Air Quality (DAQ)
 •	Uinta Basin Ozone Studies
@@ -218,17 +250,19 @@ Local Government Sources
 •	County Commission Records
 •	Public Hearing Archives
 Steward Basin attempts to preserve attribution and source links whenever possible.
+
 ________________________________________
 
 Status
 Active development.
 Initial archive build focuses on records from approximately 2017-present, with future plans for historical expansion.
 Current Limitations
-- Not all environmental complaints are publicly available.
-- Some records require manual review.
-- Historical records may exist in multiple databases.
-- Duplicate records may still exist.
-- Location data occasionally requires manual verification.
-- Steward Basin preserves source records whenever possible.
-- Correlation does not imply causation, but, this is being built to be used for research and further studies that could be conducted based off of the data provided on this website.
+-Not all environmental complaints are publicly available.
+-Some records require manual review.
+-Historical records may exist in multiple databases.
+-Duplicate records may still exist.
+-Location data occasionally requires manual verification.
+-Steward Basin preserves source records whenever possible.
+-Correlation does not imply causation, but, this is being built to be used for research and further studies that could be conducted based off of the data provided on this website.
 
+--Creative Commons Attribution--
