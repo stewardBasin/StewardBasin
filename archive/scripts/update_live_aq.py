@@ -250,10 +250,36 @@ def update_chpc_live_file():
             or datetime.now().strftime("%Y-%m-%d %I:%M %p")
         )
 
-        stations = [
-            build_chpc_station(raw_chpc, station_meta, updated)
-            for station_meta in CHPC_STATIONS
-        ]
+        previous_chpc = {}
+
+        if os.path.exists(CHPC_FILE):
+            try:
+                with open(CHPC_FILE, "r", encoding="utf-8") as file:
+                    previous_data = json.load(file)
+                    previous_chpc = {
+                        station["station_code"]: station
+                        for station in previous_data.get("stations", [])
+                    }
+            except Exception:
+                previous_chpc = {}
+
+        stations = []
+
+        for station_meta in CHPC_STATIONS:
+            station = build_chpc_station(raw_chpc, station_meta, updated)
+            code = station["station_code"]
+
+            previous_station = previous_chpc.get(code, {})
+
+            if station.get("ozone") is None and previous_station.get("ozone"):
+                station["ozone"] = previous_station["ozone"]
+                station["lat"] = previous_station.get("lat")
+                station["lng"] = previous_station.get("lng")
+                station["data_status"] = "using_last_available_chpc_reading"
+            else:
+                station["data_status"] = "current"
+
+            stations.append(station)
 
         output = {
             "updated": updated,

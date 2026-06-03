@@ -12148,5 +12148,382 @@
         "raw_airnow_records": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-03T16:00:36.171136",
+    "updated": "2026-06-03 04:00 PM",
+    "aqi": 47,
+    "ozone": 47,
+    "pm25": 24,
+    "pm10": 20,
+    "fireRisk": "Red Flag Warning",
+    "stations": [
+      {
+        "name": "Fruitland",
+        "lat": 40.2144,
+        "lng": -110.8413,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Duchesne",
+        "lat": 40.1633,
+        "lng": -110.4029,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Roosevelt",
+        "lat": 40.2994,
+        "lng": -109.9887,
+        "aqi": 47,
+        "ozone": 47,
+        "pm25": 24,
+        "pm10": 20,
+        "raw_airnow_records": [
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "O3",
+            "AQI": 47,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM2.5",
+            "AQI": 24,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM10",
+            "AQI": 20,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fort Duchesne",
+        "lat": 40.2889,
+        "lng": -109.8618,
+        "aqi": 47,
+        "ozone": 47,
+        "pm25": 24,
+        "pm10": 20,
+        "raw_airnow_records": [
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "O3",
+            "AQI": 47,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM2.5",
+            "AQI": 24,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM10",
+            "AQI": 20,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Vernal",
+        "lat": 40.4555,
+        "lng": -109.5287,
+        "aqi": 46,
+        "ozone": 46,
+        "pm25": 21,
+        "pm10": "--",
+        "raw_airnow_records": [
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Vernal",
+            "StateCode": "UT",
+            "Latitude": 40.4555,
+            "Longitude": -109.5288,
+            "ParameterName": "O3",
+            "AQI": 46,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 14,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Vernal",
+            "StateCode": "UT",
+            "Latitude": 40.4555,
+            "Longitude": -109.5288,
+            "ParameterName": "PM2.5",
+            "AQI": 21,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Horsepool",
+        "lat": 40.143,
+        "lng": -109.468,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "South Ouray",
+        "lat": 40.0894,
+        "lng": -109.6812,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-03T16:31:35.192861",
+    "updated": "2026-06-03 04:31 PM",
+    "aqi": 49,
+    "ozone": 49,
+    "pm25": 23,
+    "pm10": 19,
+    "fireRisk": "Red Flag Warning",
+    "stations": [
+      {
+        "name": "Fruitland",
+        "lat": 40.2144,
+        "lng": -110.8413,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Duchesne",
+        "lat": 40.1633,
+        "lng": -110.4029,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Roosevelt",
+        "lat": 40.2994,
+        "lng": -109.9887,
+        "aqi": 49,
+        "ozone": 49,
+        "pm25": 23,
+        "pm10": 19,
+        "raw_airnow_records": [
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 15,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "O3",
+            "AQI": 49,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 15,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM2.5",
+            "AQI": 23,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 15,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM10",
+            "AQI": 19,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fort Duchesne",
+        "lat": 40.2889,
+        "lng": -109.8618,
+        "aqi": 49,
+        "ozone": 49,
+        "pm25": 23,
+        "pm10": 19,
+        "raw_airnow_records": [
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 15,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "O3",
+            "AQI": 49,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 15,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM2.5",
+            "AQI": 23,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          },
+          {
+            "DateObserved": "2026-06-03",
+            "HourObserved": 15,
+            "LocalTimeZone": "MST",
+            "ReportingArea": "Roosevelt",
+            "StateCode": "UT",
+            "Latitude": 40.2943,
+            "Longitude": -110.009,
+            "ParameterName": "PM10",
+            "AQI": 19,
+            "Category": {
+              "Number": 1,
+              "Name": "Good"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Vernal",
+        "lat": 40.4555,
+        "lng": -109.5287,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Horsepool",
+        "lat": 40.143,
+        "lng": -109.468,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "South Ouray",
+        "lat": 40.0894,
+        "lng": -109.6812,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      }
+    ]
   }
 ]
