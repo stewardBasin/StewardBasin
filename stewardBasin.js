@@ -316,21 +316,27 @@ function findMatchingStation(site, liveStations) {
 }
 
 function findMatchingChpcStation(site, chpcStations) {
-  if (!chpcStations || !Array.isArray(chpcStations)) return null;
+  if (!site || !chpcStations || !Array.isArray(chpcStations)) return null;
 
   const siteKey = normalizeName(site.station_key);
   const siteName = normalizeName(site.name);
 
+  const possibleNames = [siteKey, siteName].filter((name) => name.length > 2);
+
+  if (possibleNames.length === 0) return null;
+
   return chpcStations.find((station) => {
     const stationName = normalizeName(station.name);
+    const stationCode = normalizeName(station.station_code);
 
-    return (
-      stationName === siteKey ||
-      stationName === siteName ||
-      stationName.includes(siteKey) ||
-      stationName.includes(siteName) ||
-      siteName.includes(stationName)
-    );
+    return possibleNames.some((name) => {
+      return (
+        stationName === name ||
+        stationCode === name ||
+        stationName.includes(name) ||
+        name.includes(stationName)
+      );
+    });
   });
 }
 
