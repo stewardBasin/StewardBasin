@@ -220,28 +220,36 @@ function getPollutantColorFromStatus(status) {
   if (status === "Good") return "#2ecc71";
   return "#7f9272"; // monitoring gap / no data
 }
+function getSeverityRank(status) {
+  if (status === "VERY HIGH") return 4;
+  if (status === "HIGH") return 3;
+  if (status === "MODERATE") return 2;
+  if (status === "LOW") return 1;
+  return 0;
+}
+
+function getColorFromSeverityRank(rank) {
+  if (rank >= 4) return "#e74c3c"; // red
+  if (rank === 3) return "#e67e22"; // orange
+  if (rank === 2) return "#f1c40f"; // yellow
+  if (rank === 1) return "#2ecc71"; // green
+  return "#7f9272"; // gray/data gap
+}
+
 function getWorstStationColor(station, chpcStation) {
-  const statuses = [];
+  let worstRank = 0;
 
-  if (station && station.aqi !== "--") {
-    statuses.push(getAQIStatus(station.aqi));
+  if (chpcStation?.ozone?.value) {
+    const ozoneStatus = ozoneLevel(chpcStation.ozone.value);
+    worstRank = Math.max(worstRank, getSeverityRank(ozoneStatus));
   }
 
-  if (chpcStation && chpcStation.ozone && chpcStation.ozone.value) {
-    statuses.push(getOzoneStatusPPBV(chpcStation.ozone.value));
+  if (chpcStation?.pm25?.value) {
+    const pm25Status = pm25Level(chpcStation.pm25.value);
+    worstRank = Math.max(worstRank, getSeverityRank(pm25Status));
   }
 
-  if (chpcStation && chpcStation.pm25 && chpcStation.pm25.value) {
-    statuses.push(getPM25Status(chpcStation.pm25.value));
-  }
-
-  if (statuses.some((s) => s.includes("Unhealthy"))) return "#e67e22";
-  if (statuses.some((s) => s.includes("Moderate") || s.includes("Elevated")))
-    return "#f1c40f";
-  if (statuses.some((s) => s.includes("Watch"))) return "#f1c40f";
-  if (statuses.some((s) => s === "Good")) return "#2ecc71";
-
-  return "#7f9272";
+  return getColorFromSeverityRank(worstRank);
 }
 
 function formatPM10AQI(value) {
@@ -321,6 +329,18 @@ function findMatchingStation(site, liveStations) {
 function findMatchingChpcStation(site, chpcStations) {
   if (!site || !chpcStations || !Array.isArray(chpcStations)) return null;
 
+  // 1. Use the explicit station code from monitoring_sites.json first.
+  // This prevents Red Wash, Horsepool, South Ouray, etc. from drifting
+  // to Roosevelt or Vernal just because those are nearby.
+  if (site.chpc_station_code) {
+    const byCode = chpcStations.find(
+      (station) => station.station_code === site.chpc_station_code,
+    );
+
+    if (byCode) return byCode;
+  }
+
+  // 2. Fall back to station_key/name matching only if no explicit code exists.
   const siteKey = normalizeName(site.station_key);
   const siteName = normalizeName(site.name);
 
@@ -330,14 +350,18 @@ function findMatchingChpcStation(site, chpcStations) {
 
   return chpcStations.find((station) => {
     const stationName = normalizeName(station.name);
+    const stationKey = normalizeName(station.station_key);
     const stationCode = normalizeName(station.station_code);
 
     return possibleNames.some((name) => {
       return (
         stationName === name ||
+        stationKey === name ||
         stationCode === name ||
         stationName.includes(name) ||
-        name.includes(stationName)
+        stationKey.includes(name) ||
+        name.includes(stationName) ||
+        name.includes(stationKey)
       );
     });
   });
@@ -1044,6 +1068,14 @@ function loadLiveAQ() {
             const chpcStation =
               findMatchingChpcStation(site, chpcStations) ||
               findChpcForLiveStation(station, chpcStations);
+            console.log("AQ CARD MATCH:", {
+              site: site.name,
+              station_key: site.station_key,
+              chpc_station_code: site.chpc_station_code,
+              matched_chpc_code: chpcStation?.station_code,
+              matched_chpc_name: chpcStation?.name,
+              ozone: chpcStation?.ozone?.value,
+            });
 
             const color = getWorstStationColor(station, chpcStation);
             const nearestOzoneStation = findNearestChpcWithOzone(
@@ -1089,9 +1121,11 @@ function loadLiveAQ() {
                     ${
                       siteOzoneValue
                         ? `${siteOzoneValue} ppbv · ${pollutantBadge(ozoneStatus)}`
-                        : nearestOzoneStation
-                          ? `${nearestOzoneStation.ozone.value} ppbv · nearest CHPC monitor: ${nearestOzoneStation.name} (${Math.round(nearestOzoneStation.distanceMiles)} mi)`
-                          : "⚪ No Local Monitor"
+                        : chpcStation && site.chpc_station_code
+                          ? `⚪ Assigned CHPC proxy ${site.chpc_station_code} has no current ozone reading`
+                          : nearestOzoneStation
+                            ? `${nearestOzoneStation.ozone.value} ppbv · nearest CHPC monitor: ${nearestOzoneStation.name} (${Math.round(nearestOzoneStation.distanceMiles)} mi)`
+                            : "⚪ No Local Monitor"
                     }
                   </small>
 

@@ -73,6 +73,9 @@
       "PM10 needed"
     ],
     "source": "Steward Basin / CHPC regional proxy",
+    "live_source": "chpc",
+    "chpc_station_code": "A1633",
+    "proxy_note": "Uses CHPC A1633 as Red Wash / eastern Uintah Basin ozone proxy.",
     "status": "Possible CHPC A1633 / Uintah Basin East research-area proxy"
   },
   {
@@ -142,9 +145,10 @@
     "lat": 40.143,
     "lng": -109.468,
     "measurements": ["Ozone", "Meteorology", "Air Quality Research"],
-    "source": "USU Bingham Research Center",
-    "status": "Research monitor identified; live public feed not yet found",
-    "notes": "USU page did not expose a public JSON/CSV endpoint in browser Network tools. Keep as research/data-gap marker until source is found."
+    "source": "USU Bingham Research Center / CHPC regional proxy",
+    "live_source": "chpc",
+    "chpc_station_code": "A1633",
+    "proxy_note": "Uses CHPC A1633 as eastern Uintah Basin ozone proxy until direct USU Horsepool feed is verified."
   },
   {
     "name": "South Ouray Wildlife Refuge Monitor",
@@ -158,8 +162,9 @@
     "measurements": ["AQI", "Ozone", "PM2.5", "PM10"],
     "source": "AirNow / Utah DAQ",
     "source_url": "https://www.airnow.gov/",
-    "status": "Approximate Monitoring Location",
-    "notes": "Monitoring point established for South Ouray / Ouray National Wildlife Refuge region. Intended for AirNow point-based lookup until a verified station ID is identified."
+    "live_source": "chpc",
+    "chpc_station_code": "A1622",
+    "proxy_note": "Uses CHPC A1622 as South Ouray / Ouray Wildlife Refuge regional ozone proxy until a verified station ID is identified."
   },
   {
     "name": "Future Sand Pit PM Monitor",
