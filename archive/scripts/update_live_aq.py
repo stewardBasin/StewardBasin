@@ -7,12 +7,14 @@ from datetime import datetime
 # CONFIG
 # =========================
 
-API_KEY = "B422C1EB-F856-430D-81AB-C0834D831F39"
+API_KEY = os.getenv("AIRNOW_API_KEY", "B422C1EB-F856-430D-81AB-C0834D831F39")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
-OUTPUT_FILE = os.path.join(DATA_DIR, "live_air_quality.json")
+
+LIVE_AQ_FILE = os.path.join(DATA_DIR, "live_air_quality.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "live_air_quality_history.json")
+CHPC_FILE = os.path.join(DATA_DIR, "chpc_live_air_quality.json")
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -35,9 +37,66 @@ MONITOR_POINTS = [
     {"name": "South Ouray", "lat": 40.0894, "lng": -109.6812, "distance": 35},
 ]
 
+CHPC_STATIONS = [
+    {
+        "station_code": "QRS",
+        "name": "Roosevelt",
+        "display_name": "Roosevelt AQ Monitor",
+        "station_key": "Roosevelt",
+        "region": "Duchesne County",
+        "confidence": "verified_coordinate_match",
+        "notes": "Coordinates match Roosevelt AQ monitor area.",
+    },
+    {
+        "station_code": "QV4",
+        "name": "Vernal",
+        "display_name": "Vernal #4 AQ Monitor",
+        "station_key": "Vernal",
+        "region": "Uintah County",
+        "confidence": "verified_coordinate_match",
+        "notes": "Coordinates match Vernal #4 monitor area.",
+    },
+    {
+        "station_code": "A1388",
+        "name": "Duchesne / Myton / Fruitland",
+        "display_name": "Duchesne / Myton / Fruitland Area Ozone Monitor",
+        "station_key": "Duchesne",
+        "region": "Duchesne County",
+        "confidence": "likely_coordinate_match",
+        "notes": "Coordinates place this monitor in the Duchesne/Myton corridor.",
+    },
+    {
+        "station_code": "A1622",
+        "name": "South Ouray",
+        "display_name": "South Ouray / Ouray Wildlife Refuge Ozone Monitor",
+        "station_key": "South Ouray",
+        "region": "Uintah County",
+        "confidence": "verified_coordinate_match",
+        "notes": "Coordinates place this monitor near South Ouray / Ouray National Wildlife Refuge.",
+    },
+    {
+        "station_code": "A1386",
+        "name": "North Uintah Basin / Whiterocks",
+        "display_name": "North Uintah Basin / Whiterocks Area Ozone Monitor",
+        "station_key": "North Uintah Basin",
+        "region": "Uintah County",
+        "confidence": "likely_coordinate_match",
+        "notes": "Coordinates place this monitor north of Fort Duchesne / Whiterocks area.",
+    },
+    {
+        "station_code": "A1633",
+        "name": "Uintah Basin East / Horsepool Candidate",
+        "display_name": "Uintah Basin East Research Candidate",
+        "station_key": "Uintah Basin East",
+        "region": "Uintah County",
+        "confidence": "needs_verification",
+        "notes": "Possible eastern Uintah Basin research site related to Horsepool / Red Wash area.",
+    },
+]
+
 
 # =========================
-# HELPERS
+# AIRNOW + NWS
 # =========================
 
 
@@ -49,7 +108,6 @@ def fetch_airnow_for_point(point):
         "distance": point["distance"],
         "API_KEY": API_KEY,
     }
-
     response = requests.get(AIRNOW_URL, params=params, timeout=30)
     response.raise_for_status()
     return response.json()
@@ -63,10 +121,7 @@ def find_pollutant(records, pollutant_name):
 
 
 def get_highest_aqi(records):
-    values = [
-        record.get("AQI") for record in records if isinstance(record.get("AQI"), int)
-    ]
-
+    values = [r.get("AQI") for r in records if isinstance(r.get("AQI"), int)]
     return max(values) if values else "--"
 
 
@@ -88,25 +143,20 @@ def simplify_airnow_records(point, records):
 
 
 def fetch_nws_fire_risk(point):
-    params = {"point": f'{point["lat"]},{point["lng"]}'}
-
     try:
         response = requests.get(
             NWS_ALERTS_URL,
-            params=params,
+            params={"point": f'{point["lat"]},{point["lng"]}'},
             headers=NWS_HEADERS,
             timeout=30,
         )
-
         response.raise_for_status()
         data = response.json()
 
-        alerts = data.get("features", [])
         fire_alerts = []
 
-        for alert in alerts:
+        for alert in data.get("features", []):
             properties = alert.get("properties", {})
-
             event = properties.get("event", "")
             headline = properties.get("headline", "")
             severity = properties.get("severity", "")
@@ -136,8 +186,103 @@ def fetch_nws_fire_risk(point):
         return []
 
 
-def append_history_snapshot(output):
+# =========================
+# CHPC
+# =========================
 
+
+def fetch_chpc_data():
+    response = requests.get(CHPC_UT_URL, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
+
+def simplify_chpc_pollutant(raw_chpc, pollutant_key, station_code):
+    pollutant_group = raw_chpc.get(pollutant_key, {})
+    record = pollutant_group.get(station_code)
+
+    if not record:
+        return None
+
+    unit = pollutant_group.get("VarUnit", "")
+
+    return {
+        "value": record.get("Value"),
+        "unit": unit,
+        "timeLocal": record.get("TimeLocal"),
+        "timeUTC": record.get("TimeUTC"),
+        "lat": record.get("Latitude"),
+        "lng": record.get("Longitude"),
+        "color": record.get("ValueColor"),
+        "source_pollutant_key": pollutant_key,
+    }
+
+
+def build_chpc_station(raw_chpc, station_meta, updated):
+    code = station_meta["station_code"]
+
+    pm25 = simplify_chpc_pollutant(raw_chpc, "PM25", code)
+    pm10 = simplify_chpc_pollutant(raw_chpc, "PM10", code)
+    ozone = simplify_chpc_pollutant(raw_chpc, "OZNE", code)
+
+    best_location = ozone or pm25 or pm10
+
+    return {
+        **station_meta,
+        "source": "Utah CHPC FixedSiteMapData",
+        "source_url": CHPC_UT_URL,
+        "updated": updated,
+        "pm25": pm25,
+        "pm10": pm10,
+        "ozone": ozone,
+        "lat": best_location.get("lat") if best_location else None,
+        "lng": best_location.get("lng") if best_location else None,
+    }
+
+
+def update_chpc_live_file():
+    try:
+        raw_chpc = fetch_chpc_data()
+
+        updated = (
+            raw_chpc.get("OZNE", {}).get("LastUpdateLocal")
+            or raw_chpc.get("PM25", {}).get("LastUpdateLocal")
+            or datetime.now().strftime("%Y-%m-%d %I:%M %p")
+        )
+
+        stations = [
+            build_chpc_station(raw_chpc, station_meta, updated)
+            for station_meta in CHPC_STATIONS
+        ]
+
+        output = {
+            "updated": updated,
+            "source": CHPC_UT_URL,
+            "stations": stations,
+            "note": "CHPC values are pollutant concentrations, not AirNow AQI values. Station labels are based on coordinate matching and should retain confidence notes.",
+        }
+
+        with open(CHPC_FILE, "w", encoding="utf-8") as file:
+            json.dump(output, file, indent=2)
+
+        print("\n====================")
+        print("CHPC LIVE AQ UPDATED")
+        print("====================")
+        print(f"Saved: {CHPC_FILE}")
+
+        return output
+
+    except Exception as e:
+        print(f"CHPC unavailable: {e}")
+        return None
+
+
+# =========================
+# HISTORY
+# =========================
+
+
+def append_history_snapshot(output):
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as file:
             try:
@@ -147,18 +292,18 @@ def append_history_snapshot(output):
     else:
         history = []
 
-    snapshot = {
-        "timestamp": datetime.now().isoformat(),
-        "updated": output.get("updated"),
-        "aqi": output.get("aqi"),
-        "ozone": output.get("ozone"),
-        "pm25": output.get("pm25"),
-        "pm10": output.get("pm10"),
-        "fireRisk": output.get("fireRisk"),
-        "stations": output.get("stations", []),
-    }
-
-    history.append(snapshot)
+    history.append(
+        {
+            "timestamp": datetime.now().isoformat(),
+            "updated": output.get("updated"),
+            "aqi": output.get("aqi"),
+            "ozone": output.get("ozone"),
+            "pm25": output.get("pm25"),
+            "pm10": output.get("pm10"),
+            "fireRisk": output.get("fireRisk"),
+            "stations": output.get("stations", []),
+        }
+    )
 
     with open(HISTORY_FILE, "w", encoding="utf-8") as file:
         json.dump(history, file, indent=2)
@@ -178,12 +323,9 @@ def main():
 
         try:
             records = fetch_airnow_for_point(point)
-            station_data = simplify_airnow_records(point, records)
-            stations.append(station_data)
-
+            stations.append(simplify_airnow_records(point, records))
         except Exception as e:
             print(f"AirNow unavailable for {point['name']}: {e}")
-
             stations.append(
                 {
                     "name": point["name"],
@@ -197,30 +339,23 @@ def main():
                 }
             )
 
-        fire_alerts = fetch_nws_fire_risk(point)
-        all_fire_alerts.extend(fire_alerts)
+        all_fire_alerts.extend(fetch_nws_fire_risk(point))
 
     valid_aqi_values = [
         station["aqi"] for station in stations if isinstance(station.get("aqi"), int)
     ]
 
-    highest_station = None
+    highest_aqi = max(valid_aqi_values) if valid_aqi_values else "--"
+    highest_station = next(
+        (station for station in stations if station.get("aqi") == highest_aqi),
+        stations[0] if stations else {},
+    )
 
-    if valid_aqi_values:
-        highest_aqi = max(valid_aqi_values)
-
-        for station in stations:
-            if station["aqi"] == highest_aqi:
-                highest_station = station
-                break
-    else:
-        highest_aqi = "--"
-        highest_station = stations[0] if stations else {}
-
-    if all_fire_alerts:
-        fire_risk = all_fire_alerts[0]["event"] or "Fire Weather Alert"
-    else:
-        fire_risk = "No active NWS fire weather alert"
+    fire_risk = (
+        all_fire_alerts[0]["event"]
+        if all_fire_alerts
+        else "No active NWS fire weather alert"
+    )
 
     output = {
         "aqi": highest_aqi,
@@ -236,15 +371,16 @@ def main():
         "note": "AirNow values are live AQI observations near selected Eastern Utah points. NWS fire weather alerts are active alerts by point.",
     }
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+    with open(LIVE_AQ_FILE, "w", encoding="utf-8") as file:
         json.dump(output, file, indent=2)
 
-        append_history_snapshot(output)
+    append_history_snapshot(output)
+    update_chpc_live_file()
 
     print("\n====================")
     print("LIVE AQ UPDATED")
     print("====================")
-    print(json.dumps(output, indent=2))
+    print(f"Saved: {LIVE_AQ_FILE}")
 
 
 if __name__ == "__main__":
