@@ -94,11 +94,32 @@ CHPC_STATIONS = [
     },
 ]
 
+LAST_VALID_CHPC_FALLBACKS = {
+    "A1622": {
+        "value": "45.00",
+        "unit": "ppbv",
+        "timeLocal": "2026-05-30 13:00:00 MDT",
+        "timeUTC": "2026-05-30 19:00:00 UTC",
+        "lat": "40.05485",
+        "lng": "-109.68737",
+        "color": "#006600",
+        "source_pollutant_key": "OZNE",
+    },
+    "A1633": {
+        "value": "55.00",
+        "unit": "ppbv",
+        "timeLocal": "2026-05-30 13:00:00 MDT",
+        "timeUTC": "2026-05-30 19:00:00 UTC",
+        "lat": "40.20443",
+        "lng": "-109.35321",
+        "color": "#FFFF00",
+        "source_pollutant_key": "OZNE",
+    },
+}
 
 # =========================
 # AIRNOW + NWS
 # =========================
-
 
 def fetch_airnow_for_point(point):
     params = {
@@ -108,6 +129,7 @@ def fetch_airnow_for_point(point):
         "distance": point["distance"],
         "API_KEY": API_KEY,
     }
+
     response = requests.get(AIRNOW_URL, params=params, timeout=30)
     response.raise_for_status()
     return response.json()
@@ -121,7 +143,7 @@ def find_pollutant(records, pollutant_name):
 
 
 def get_highest_aqi(records):
-    values = [r.get("AQI") for r in records if isinstance(r.get("AQI"), int)]
+    values = [record.get("AQI") for record in records if isinstance(record.get("AQI"), int)]
     return max(values) if values else "--"
 
 
@@ -190,7 +212,6 @@ def fetch_nws_fire_risk(point):
 # CHPC
 # =========================
 
-
 def fetch_chpc_data():
     response = requests.get(CHPC_UT_URL, timeout=30)
     response.raise_for_status()
@@ -204,11 +225,9 @@ def simplify_chpc_pollutant(raw_chpc, pollutant_key, station_code):
     if not record:
         return None
 
-    unit = pollutant_group.get("VarUnit", "")
-
     return {
         "value": record.get("Value"),
-        "unit": unit,
+        "unit": pollutant_group.get("VarUnit", ""),
         "timeLocal": record.get("TimeLocal"),
         "timeUTC": record.get("TimeUTC"),
         "lat": record.get("Latitude"),
@@ -240,6 +259,50 @@ def build_chpc_station(raw_chpc, station_meta, updated):
     }
 
 
+def load_previous_chpc():
+    if not os.path.exists(CHPC_FILE):
+        return {}
+
+    try:
+        with open(CHPC_FILE, "r", encoding="utf-8") as file:
+            previous_data = json.load(file)
+
+        return {
+            station["station_code"]: station
+            for station in previous_data.get("stations", [])
+            if station.get("station_code")
+        }
+
+    except Exception:
+        return {}
+
+
+def apply_chpc_fallbacks(station, previous_station):
+    code = station["station_code"]
+
+    if station.get("ozone") is not None:
+        station["data_status"] = "current"
+        return station
+
+    if previous_station.get("ozone"):
+        station["ozone"] = previous_station["ozone"]
+        station["lat"] = previous_station.get("lat")
+        station["lng"] = previous_station.get("lng")
+        station["data_status"] = "using_last_available_chpc_reading"
+        return station
+
+    if code in LAST_VALID_CHPC_FALLBACKS:
+        fallback = LAST_VALID_CHPC_FALLBACKS[code]
+        station["ozone"] = fallback
+        station["lat"] = fallback.get("lat")
+        station["lng"] = fallback.get("lng")
+        station["data_status"] = "using_verified_fallback_chpc_reading"
+        return station
+
+    station["data_status"] = "no_current_chpc_reading"
+    return station
+
+
 def update_chpc_live_file():
     try:
         raw_chpc = fetch_chpc_data()
@@ -250,35 +313,13 @@ def update_chpc_live_file():
             or datetime.now().strftime("%Y-%m-%d %I:%M %p")
         )
 
-        previous_chpc = {}
-
-        if os.path.exists(CHPC_FILE):
-            try:
-                with open(CHPC_FILE, "r", encoding="utf-8") as file:
-                    previous_data = json.load(file)
-                    previous_chpc = {
-                        station["station_code"]: station
-                        for station in previous_data.get("stations", [])
-                    }
-            except Exception:
-                previous_chpc = {}
-
+        previous_chpc = load_previous_chpc()
         stations = []
 
         for station_meta in CHPC_STATIONS:
             station = build_chpc_station(raw_chpc, station_meta, updated)
-            code = station["station_code"]
-
-            previous_station = previous_chpc.get(code, {})
-
-            if station.get("ozone") is None and previous_station.get("ozone"):
-                station["ozone"] = previous_station["ozone"]
-                station["lat"] = previous_station.get("lat")
-                station["lng"] = previous_station.get("lng")
-                station["data_status"] = "using_last_available_chpc_reading"
-            else:
-                station["data_status"] = "current"
-
+            previous_station = previous_chpc.get(station["station_code"], {})
+            station = apply_chpc_fallbacks(station, previous_station)
             stations.append(station)
 
         output = {
@@ -306,7 +347,6 @@ def update_chpc_live_file():
 # =========================
 # HISTORY
 # =========================
-
 
 def append_history_snapshot(output):
     if os.path.exists(HISTORY_FILE):
@@ -339,7 +379,6 @@ def append_history_snapshot(output):
 # MAIN
 # =========================
 
-
 def main():
     stations = []
     all_fire_alerts = []
@@ -350,6 +389,7 @@ def main():
         try:
             records = fetch_airnow_for_point(point)
             stations.append(simplify_airnow_records(point, records))
+
         except Exception as e:
             print(f"AirNow unavailable for {point['name']}: {e}")
             stations.append(
@@ -372,6 +412,7 @@ def main():
     ]
 
     highest_aqi = max(valid_aqi_values) if valid_aqi_values else "--"
+
     highest_station = next(
         (station for station in stations if station.get("aqi") == highest_aqi),
         stations[0] if stations else {},

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03 16:28 MDT",
+  "updated": "2026-06-03 17:18 MDT",
   "source": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
   "stations": [
     {
@@ -12,7 +12,7 @@
       "notes": "Coordinates match Roosevelt AQ monitor area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-03 16:28 MDT",
+      "updated": "2026-06-03 17:18 MDT",
       "pm25": {
         "value": "3.90",
         "unit": "ug/m3",
@@ -48,7 +48,7 @@
       "notes": "Coordinates match Vernal #4 monitor area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-03 16:28 MDT",
+      "updated": "2026-06-03 17:18 MDT",
       "pm25": {
         "value": "3.50",
         "unit": "ug/m3",
@@ -84,7 +84,7 @@
       "notes": "Coordinates place this monitor in the Duchesne/Myton corridor.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-03 16:28 MDT",
+      "updated": "2026-06-03 17:18 MDT",
       "pm25": null,
       "pm10": null,
       "ozone": {
@@ -111,13 +111,22 @@
       "notes": "Coordinates place this monitor near South Ouray / Ouray National Wildlife Refuge.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-03 16:28 MDT",
+      "updated": "2026-06-03 17:18 MDT",
       "pm25": null,
       "pm10": null,
-      "ozone": null,
-      "lat": null,
-      "lng": null,
-      "data_status": "current"
+      "ozone": {
+        "value": "45.00",
+        "unit": "ppbv",
+        "timeLocal": "2026-05-30 13:00:00 MDT",
+        "timeUTC": "2026-05-30 19:00:00 UTC",
+        "lat": "40.05485",
+        "lng": "-109.68737",
+        "color": "#006600",
+        "source_pollutant_key": "OZNE"
+      },
+      "lat": "40.05485",
+      "lng": "-109.68737",
+      "data_status": "using_verified_fallback_chpc_reading"
     },
     {
       "station_code": "A1386",
@@ -129,7 +138,7 @@
       "notes": "Coordinates place this monitor north of Fort Duchesne / Whiterocks area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-03 16:28 MDT",
+      "updated": "2026-06-03 17:18 MDT",
       "pm25": null,
       "pm10": null,
       "ozone": {
@@ -156,13 +165,22 @@
       "notes": "Possible eastern Uintah Basin research site related to Horsepool / Red Wash area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-03 16:28 MDT",
+      "updated": "2026-06-03 17:18 MDT",
       "pm25": null,
       "pm10": null,
-      "ozone": null,
-      "lat": null,
-      "lng": null,
-      "data_status": "current"
+      "ozone": {
+        "value": "55.00",
+        "unit": "ppbv",
+        "timeLocal": "2026-05-30 13:00:00 MDT",
+        "timeUTC": "2026-05-30 19:00:00 UTC",
+        "lat": "40.20443",
+        "lng": "-109.35321",
+        "color": "#FFFF00",
+        "source_pollutant_key": "OZNE"
+      },
+      "lat": "40.20443",
+      "lng": "-109.35321",
+      "data_status": "using_verified_fallback_chpc_reading"
     }
   ],
   "note": "CHPC values are pollutant concentrations, not AirNow AQI values. Station labels are based on coordinate matching and should retain confidence notes."
