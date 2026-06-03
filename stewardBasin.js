@@ -2,7 +2,10 @@
 // MAP SETUP
 // =======================
 
-const map = L.map("map").setView([40.1633, -110.4029], 9);
+const map = L.map("map", {
+  zoomControl: true,
+  tap: true,
+}).setView([40.1633, -110.4029], 9);
 
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors",
