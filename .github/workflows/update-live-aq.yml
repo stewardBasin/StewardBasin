@@ -1,0 +1,43 @@
+name: Update live AQ data
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-live-aq:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run live AQ updater
+        env:
+          AIRNOW_API_KEY: ${{ secrets.AIRNOW_API_KEY }}
+        run: |
+          python archive/scripts/update_live_aq.py
+
+      - name: Commit updated AQ data
+        run: |
+          git config user.name "Steward Basin Bot"
+          git config user.email "actions@github.com"
+          git add archive/data/live_air_quality.json
+          git add archive/data/live_air_quality_history.json
+          git add archive/data/chpc_live_air_quality.json
+          git commit -m "Update live AQ data" || echo "No AQ changes to commit"
+          git push
