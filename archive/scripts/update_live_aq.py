@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # =========================
 # CONFIG
@@ -26,6 +27,12 @@ NWS_HEADERS = {
     "User-Agent": "StewardBasin/1.0 ruthjanegibson@gmail.com",
     "Accept": "application/geo+json",
 }
+UTAH_TZ = ZoneInfo("America/Denver")
+
+
+def utah_now():
+    return datetime.now(UTAH_TZ)
+
 
 MONITOR_POINTS = [
     {"name": "Fruitland", "lat": 40.2144, "lng": -110.8413, "distance": 35},
@@ -121,6 +128,7 @@ LAST_VALID_CHPC_FALLBACKS = {
 # AIRNOW + NWS
 # =========================
 
+
 def fetch_airnow_for_point(point):
     params = {
         "format": "application/json",
@@ -143,7 +151,9 @@ def find_pollutant(records, pollutant_name):
 
 
 def get_highest_aqi(records):
-    values = [record.get("AQI") for record in records if isinstance(record.get("AQI"), int)]
+    values = [
+        record.get("AQI") for record in records if isinstance(record.get("AQI"), int)
+    ]
     return max(values) if values else "--"
 
 
@@ -211,6 +221,7 @@ def fetch_nws_fire_risk(point):
 # =========================
 # CHPC
 # =========================
+
 
 def fetch_chpc_data():
     response = requests.get(CHPC_UT_URL, timeout=30)
@@ -310,7 +321,7 @@ def update_chpc_live_file():
         updated = (
             raw_chpc.get("OZNE", {}).get("LastUpdateLocal")
             or raw_chpc.get("PM25", {}).get("LastUpdateLocal")
-            or datetime.now().strftime("%Y-%m-%d %I:%M %p")
+            or utah_now().strftime("%Y-%m-%d %I:%M %p MDT")
         )
 
         previous_chpc = load_previous_chpc()
@@ -348,6 +359,7 @@ def update_chpc_live_file():
 # HISTORY
 # =========================
 
+
 def append_history_snapshot(output):
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as file:
@@ -360,7 +372,7 @@ def append_history_snapshot(output):
 
     history.append(
         {
-            "timestamp": datetime.now().isoformat(),
+            "timestamp": utah_now().isoformat(),
             "updated": output.get("updated"),
             "aqi": output.get("aqi"),
             "ozone": output.get("ozone"),
@@ -378,6 +390,7 @@ def append_history_snapshot(output):
 # =========================
 # MAIN
 # =========================
+
 
 def main():
     stations = []
@@ -431,7 +444,7 @@ def main():
         "pm10": highest_station.get("pm10", "--") if highest_station else "--",
         "fireRisk": fire_risk,
         "fireAlerts": all_fire_alerts,
-        "updated": datetime.now().strftime("%Y-%m-%d %I:%M %p"),
+        "updated": utah_now().strftime("%Y-%m-%d %I:%M %p MDT"),
         "source": "AirNow API + NWS API",
         "location": "Eastern Utah / Uinta Basin monitor points",
         "stations": stations,
