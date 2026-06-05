@@ -1,60 +1,36 @@
 {
-  "aqi": 74,
-  "ozone": 74,
-  "pm25": 41,
-  "pm10": 32,
+  "aqi": 34,
+  "ozone": 34,
+  "pm25": 29,
+  "pm10": "--",
   "fireRisk": "Fire Weather Watch",
   "fireAlerts": [
     {
       "location": "Fort Duchesne",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 4 at 11:25AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
-      "severity": "Severe"
-    },
-    {
-      "location": "Fort Duchesne",
-      "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 4 at 11:25AM MDT until June 4 at 7:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 4 at 10:01PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Vernal",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 4 at 11:25AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
-      "severity": "Severe"
-    },
-    {
-      "location": "Vernal",
-      "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 4 at 11:25AM MDT until June 4 at 7:00PM MDT by NWS Grand Junction CO",
-      "severity": "Severe"
-    },
-    {
-      "location": "Horsepool",
-      "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 4 at 11:25AM MDT until June 4 at 7:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 4 at 10:01PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Horsepool",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 4 at 11:25AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
-      "severity": "Severe"
-    },
-    {
-      "location": "South Ouray",
-      "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 4 at 11:25AM MDT until June 4 at 7:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 4 at 10:01PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "South Ouray",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 4 at 11:25AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 4 at 10:01PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     }
   ],
-  "updated": "2026-06-04 05:57 PM MDT",
+  "updated": "2026-06-05 05:53 AM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -82,51 +58,51 @@
       "name": "Roosevelt",
       "lat": 40.2994,
       "lng": -109.9887,
-      "aqi": 74,
-      "ozone": 74,
-      "pm25": 41,
-      "pm10": 32,
+      "aqi": 25,
+      "ozone": 25,
+      "pm25": 23,
+      "pm10": 13,
       "raw_airnow_records": [
         {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "O3",
-          "AQI": 74,
-          "Category": {
-            "Number": 2,
-            "Name": "Moderate"
-          }
-        },
-        {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
-          "LocalTimeZone": "MST",
-          "ReportingArea": "Roosevelt",
-          "StateCode": "UT",
-          "Latitude": 40.2943,
-          "Longitude": -110.009,
-          "ParameterName": "PM2.5",
-          "AQI": 41,
+          "AQI": 25,
           "Category": {
             "Number": 1,
             "Name": "Good"
           }
         },
         {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM2.5",
+          "AQI": 23,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM10",
-          "AQI": 32,
+          "AQI": 13,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -138,51 +114,51 @@
       "name": "Fort Duchesne",
       "lat": 40.2889,
       "lng": -109.8618,
-      "aqi": 74,
-      "ozone": 74,
-      "pm25": 41,
-      "pm10": 32,
+      "aqi": 25,
+      "ozone": 25,
+      "pm25": 23,
+      "pm10": 13,
       "raw_airnow_records": [
         {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "O3",
-          "AQI": 74,
-          "Category": {
-            "Number": 2,
-            "Name": "Moderate"
-          }
-        },
-        {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
-          "LocalTimeZone": "MST",
-          "ReportingArea": "Roosevelt",
-          "StateCode": "UT",
-          "Latitude": 40.2943,
-          "Longitude": -110.009,
-          "ParameterName": "PM2.5",
-          "AQI": 41,
+          "AQI": 25,
           "Category": {
             "Number": 1,
             "Name": "Good"
           }
         },
         {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM2.5",
+          "AQI": 23,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM10",
-          "AQI": 32,
+          "AQI": 13,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -194,36 +170,36 @@
       "name": "Vernal",
       "lat": 40.4555,
       "lng": -109.5287,
-      "aqi": 61,
-      "ozone": 61,
-      "pm25": 19,
+      "aqi": 34,
+      "ozone": 34,
+      "pm25": 29,
       "pm10": "--",
       "raw_airnow_records": [
         {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "O3",
-          "AQI": 61,
+          "AQI": 34,
           "Category": {
-            "Number": 2,
-            "Name": "Moderate"
+            "Number": 1,
+            "Name": "Good"
           }
         },
         {
-          "DateObserved": "2026-06-04",
-          "HourObserved": 16,
+          "DateObserved": "2026-06-05",
+          "HourObserved": 4,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "PM2.5",
-          "AQI": 19,
+          "AQI": 29,
           "Category": {
             "Number": 1,
             "Name": "Good"
