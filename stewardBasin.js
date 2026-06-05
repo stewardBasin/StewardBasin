@@ -1197,21 +1197,33 @@ setInterval(loadLiveAQ, 300000);
 
 //===MAP KEY LEGEND===//
 
-const mapLegend = L.control({ position: "topright" });
+const mapLegend = L.control({ position: "bottomright" });
 
 mapLegend.onAdd = function () {
-  const div = L.DomUtil.create("div", "map-legend");
+  const div = L.DomUtil.create("div", "map-legend collapsed");
 
   div.innerHTML = `
-    <strong>Map Key</strong>
-    <div><span class="legend-dot complaint-dot"></span> Complaint</div>
-    <div><span class="legend-dot monitor-low"></span> Low / Connected monitor</div>
-    <div><span class="legend-dot monitor-watch"></span> Moderate / Watch</div>
-    <div><span class="legend-dot monitor-high"></span> High ozone / concern</div>
-    <div><span class="legend-dot monitor-gap"></span> Data gap / research site</div>
-    <div><span class="legend-dot well-dot"></span> Well</div>
-    <div><span class="legend-dot h2s-dot"></span> H₂S report</div>
+    <button class="legend-toggle" type="button">Map Key</button>
+
+    <div class="legend-content">
+      <div><span class="legend-dot complaint-dot"></span> Complaints</div>
+      <div><span class="legend-dot monitor-dot"></span> AQ / Water Monitors</div>
+      <div><span class="legend-dot well-dot"></span> Wells</div>
+      <div><span class="legend-dot facility-dot"></span> Facilities</div>
+      <div><span class="legend-dot h2s-dot"></span> H₂S Reports</div>
+      <div><span class="legend-dot deq-dot"></span> DEQ Incidents</div>
+      <div><span class="legend-dot historical-deq-dot"></span> Historical DEQ</div>
+    </div>
   `;
+
+  L.DomEvent.disableClickPropagation(div);
+  L.DomEvent.disableScrollPropagation(div);
+
+  const toggle = div.querySelector(".legend-toggle");
+
+  toggle.addEventListener("click", function () {
+    div.classList.toggle("collapsed");
+  });
 
   return div;
 };
