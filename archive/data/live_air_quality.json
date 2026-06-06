@@ -1,84 +1,84 @@
 {
-  "aqi": "--",
-  "ozone": "--",
-  "pm25": "--",
+  "aqi": 37,
+  "ozone": 37,
+  "pm25": 25,
   "pm10": "--",
   "fireRisk": "Fire Weather Watch",
   "fireAlerts": [
     {
       "location": "Fort Duchesne",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 5 at 10:47AM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 5 at 9:55PM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Fort Duchesne",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Fort Duchesne",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Vernal",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 5 at 10:47AM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 5 at 9:55PM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Vernal",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Vernal",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Horsepool",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 5 at 10:47AM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 5 at 9:55PM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Horsepool",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Horsepool",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "South Ouray",
       "event": "Fire Weather Watch",
-      "headline": "Fire Weather Watch issued June 5 at 10:47AM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Fire Weather Watch issued June 5 at 9:55PM MDT until June 9 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "South Ouray",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 6 at 9:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "South Ouray",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 5 at 10:47AM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 5 at 9:55PM MDT until June 7 at 10:00PM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     }
   ],
-  "updated": "2026-06-05 05:53 PM MDT",
+  "updated": "2026-06-06 03:14 AM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -106,31 +106,154 @@
       "name": "Roosevelt",
       "lat": 40.2994,
       "lng": -109.9887,
-      "aqi": "--",
-      "ozone": "--",
-      "pm25": "--",
-      "pm10": "--",
-      "raw_airnow_records": []
+      "aqi": 31,
+      "ozone": 29,
+      "pm25": 31,
+      "pm10": 10,
+      "raw_airnow_records": [
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "O3",
+          "AQI": 29,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM2.5",
+          "AQI": 31,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM10",
+          "AQI": 10,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        }
+      ]
     },
     {
       "name": "Fort Duchesne",
       "lat": 40.2889,
       "lng": -109.8618,
-      "aqi": "--",
-      "ozone": "--",
-      "pm25": "--",
-      "pm10": "--",
-      "raw_airnow_records": []
+      "aqi": 31,
+      "ozone": 29,
+      "pm25": 31,
+      "pm10": 10,
+      "raw_airnow_records": [
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "O3",
+          "AQI": 29,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM2.5",
+          "AQI": 31,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM10",
+          "AQI": 10,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        }
+      ]
     },
     {
       "name": "Vernal",
       "lat": 40.4555,
       "lng": -109.5287,
-      "aqi": "--",
-      "ozone": "--",
-      "pm25": "--",
+      "aqi": 37,
+      "ozone": 37,
+      "pm25": 25,
       "pm10": "--",
-      "raw_airnow_records": []
+      "raw_airnow_records": [
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Vernal",
+          "StateCode": "UT",
+          "Latitude": 40.4555,
+          "Longitude": -109.5288,
+          "ParameterName": "O3",
+          "AQI": 37,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        },
+        {
+          "DateObserved": "2026-06-06",
+          "HourObserved": 2,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Vernal",
+          "StateCode": "UT",
+          "Latitude": 40.4555,
+          "Longitude": -109.5288,
+          "ParameterName": "PM2.5",
+          "AQI": 25,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        }
+      ]
     },
     {
       "name": "Horsepool",
