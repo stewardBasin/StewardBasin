@@ -41,14 +41,7 @@ const complaintMarkers = [];
 const wellMarkers = [];
 const h2sMarkers = [];
 const monitoringMarkers = [];
-
-//Colors for Markers by 3 years//
-
 const deqIncidentMarkers = [];
-const deq2016to2019Markers = [];
-const deq2020to2023Markers = [];
-const deq2024to2026Markers = [];
-
 const historicalDEQMarkers = [];
 
 // ==============
@@ -582,38 +575,17 @@ safeFetchJson(
         incident.type ||
         "DEQ Environmental Incident";
 
-      let color = "#6f4058";
-      let radius = 5;
-      let targetArray = deqIncidentMarkers;
-
-      if (year >= 2024) {
-        color = "#00bcd4"; // bright cyan for 2024-2026
-        radius = 8;
-        targetArray = deq2024to2026Markers;
-      } else if (year >= 2020) {
-        color = "#c96f3d"; // orange/red-rock for 2020-2023
-        radius = 7;
-        targetArray = deq2020to2023Markers;
-      } else {
-        color = "#6f4058"; // mauve/purple for 2016-2019
-        radius = 5;
-        targetArray = deq2016to2019Markers;
-      }
+      const color = getDEQIncidentColor(category);
 
       const marker = L.circleMarker([lat, lng], {
-        radius,
+        radius: 5,
         color,
         fillColor: color,
-        fillOpacity: 0.75,
-        weight: 2,
+        fillOpacity: 0.55,
+        weight: 1,
       }).addTo(map);
 
       deqIncidentMarkers.push(marker);
-      targetArray.push(marker);
-
-      if (year >= 2024) {
-        marker.bringToFront();
-      }
 
       marker.bindPopup(`
         <strong>DEQ Incident 2016-present: ${getValue(category)}</strong><br><br>
@@ -1306,24 +1278,6 @@ function toggleDEQIncidents() {
 
   deqIncidentMarkers.forEach((marker) => {
     deqIncidentsVisible ? marker.addTo(map) : map.removeLayer(marker);
-  });
-}
-
-function toggleDEQ2016to2019() {
-  deq2016to2019Markers.forEach((marker) => {
-    map.hasLayer(marker) ? map.removeLayer(marker) : marker.addTo(map);
-  });
-}
-
-function toggleDEQ2020to2023() {
-  deq2020to2023Markers.forEach((marker) => {
-    map.hasLayer(marker) ? map.removeLayer(marker) : marker.addTo(map);
-  });
-}
-
-function toggleDEQ2024to2026() {
-  deq2024to2026Markers.forEach((marker) => {
-    map.hasLayer(marker) ? map.removeLayer(marker) : marker.addTo(map);
   });
 }
 

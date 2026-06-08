@@ -17,3 +17,38 @@ stewardBasinBACKUP_*.js
 archive/raw/**
 *.log
 scheduler_log.txt
+
+# Existing
+*.zip
+stewardBasinBACKUP_*.js
+*.docx
+archive/raw/**
+*.log
+scheduler_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/settings.json
+
+# Local backup files
+archive/backups/
+
+# Generated backup JSONs
+archive/data/*backup*
+archive/data/*before*
+archive/data/*SAFE*
+archive/data/*WORKING*
+archive/data/debug_*
+
+# Debug exports
+debug_*.png
+debug_*.html
+debug_*.txt
+
+# Temporary test files
+test_*.json
