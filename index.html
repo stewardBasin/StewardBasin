@@ -24,14 +24,14 @@
   </header>
 
   <nav class="navbar-custom">
-    <button onclick="toggleComplaints()">Complaints</button>
+    <button id="complaintsButton" onclick="toggleComplaints()">Complaints</button>
     <button onclick="toggleMonitoring()">AQ / Water Monitors</button>
     <button onclick="toggleWells()">Wells</button>
     <button onclick="toggleFacilities()">Facilities</button>
     <button onclick="toggleH2S()">H₂S Reports</button>
-    <button onclick="toggleDEQ2016to2019()">DEQ 2016–2019</button>
+    <button onclick="toggleDEQ2024to2026()">DEQ 2024–Present</button>
     <button onclick="toggleDEQ2020to2023()">DEQ 2020–2023</button>
-    <button onclick="toggleDEQ2024to2026()">DEQ 2024–2026</button>
+    <button onclick="toggleDEQ2016to2019()">DEQ 2016–2019</button>
     <button onclick="toggleHistoricalDEQ()">DEQ 2006–2015</button>
     <button onclick="toggleParcels()">Parcels</button>
     <button onclick="toggleGraphs()">Graphs</button>
@@ -95,8 +95,41 @@
 
   </section>
 
+  <section class="map-filter-bar">
+    <label for="yearFilter">Filter map by year:</label>
+    <input id="yearFilter" type="number" min="2000" max="2030" placeholder="Example: 2024">
+    <button onclick="applyYearFilter()">Apply</button>
+    <button onclick="clearYearFilter()">Clear</button>
+  </section>
+
+  <div class="map-help">
+    Press <strong>Shift + scroll</strong> to zoom with a mouse. On phones/tablets, pinch or use + / −.
+  </div>
+
   <section id="mapSection">
-    <div id="map"></div>
+    <div class="map-layout">
+      <div id="map"></div>
+
+      <aside class="map-side-panel">
+        <button class="legend-panel-toggle" type="button" onclick="toggleMapLegendPanel()">
+          Map Key
+        </button>
+
+        <div id="mapLegendPanel" class="legend-panel">
+          <h4>Map Key</h4>
+          <div>📢 Complaints</div>
+          <div>🌤️ AQ / Water Monitors</div>
+          <div>⛽ Fuel / Petroleum Release</div>
+          <div>💧 Produced Water / Wastewater</div>
+          <div>☣️ H₂S / Chemical Release</div>
+          <div>🔥 Fire / Flaring Event</div>
+          <div>⚠️ Environmental Incident</div>
+          <div>🦠 Harmful Algal Bloom</div>
+          <div>🏭 Industrial Facilities</div>
+          <div>🏗️ Wells</div>
+        </div>
+      </aside>
+    </div>
   </section>
 
   <section id="graphSection" class="container mt-5">

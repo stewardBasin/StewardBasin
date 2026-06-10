@@ -1,0 +1,222 @@
+UINTAH PUBLIC RECORD CRAWL
+
+
+SCANNED: https://www.uintah.utah.gov/
+KEYWORD: planning commission | https://www.uintah.utah.gov/
+KEYWORD: county commission | https://www.uintah.utah.gov/
+KEYWORD: minutes | https://www.uintah.utah.gov/
+KEYWORD: agenda | https://www.uintah.utah.gov/
+https://www.uintah.utah.gov/
+https://www.uintah.utah.gov/index.php
+
+SCANNED: https://www.uintah.utah.gov/index.php
+KEYWORD: planning commission | https://www.uintah.utah.gov/index.php
+KEYWORD: county commission | https://www.uintah.utah.gov/index.php
+KEYWORD: minutes | https://www.uintah.utah.gov/index.php
+KEYWORD: agenda | https://www.uintah.utah.gov/index.php
+https://www.uintah.utah.gov/visitors/index.php
+
+SCANNED: https://www.uintah.utah.gov/visitors/index.php
+KEYWORD: planning commission | https://www.uintah.utah.gov/visitors/index.php
+KEYWORD: minutes | https://www.uintah.utah.gov/visitors/index.php
+KEYWORD: agenda | https://www.uintah.utah.gov/visitors/index.php
+https://www.uintah.utah.gov/visitors/
+
+SCANNED: https://www.uintah.utah.gov/visitors/
+KEYWORD: planning commission | https://www.uintah.utah.gov/visitors/
+KEYWORD: minutes | https://www.uintah.utah.gov/visitors/
+KEYWORD: agenda | https://www.uintah.utah.gov/visitors/
+https://www.uintah.utah.gov/visitors/visitors/index.php
+
+SCANNED: https://www.uintah.utah.gov/visitors/visitors/index.php
+KEYWORD: planning commission | https://www.uintah.utah.gov/visitors/visitors/index.php
+KEYWORD: minutes | https://www.uintah.utah.gov/visitors/visitors/index.php
+KEYWORD: agenda | https://www.uintah.utah.gov/visitors/visitors/index.php
+https://www.uintah.utah.gov/visitors/visitors/
+https://www.uintah.utah.gov/visitors/visitors/visitors/index.php
+https://www.uintah.utah.gov/visitors/visitors/document_center/Visitors/Uintah_County_history.pdf
+https://www.uintah.utah.gov/visitors/visitors/departments/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/assessor/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/attorney/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/cemetery/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/clerk_auditor/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/community_development/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/commissioners/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/emergency_management/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/f_-_p_departments/facilities_management/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/f_-_p_departments/gis/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/f_-_p_departments/human_resources/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/public_defender.php
+https://www.uintah.utah.gov/visitors/visitors/departments/f_-_p_departments/public_lands/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/purchasing_and_grants/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/q_-_z_departments/recorder/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/q_-_z_departments/roads/index.php
+https://www.uintah.utah.gov/visitors/visitors/residents/sheriff_s_office.php
+https://www.uintah.utah.gov/visitors/visitors/departments/q_-_z_departments/surveyor/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/q_-_z_departments/treasurer/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/weed_control/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/f_-_p_departments/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/f_-_p_departments/landfill/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/q_-_z_departments/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/special_service_districts.php
+https://www.uintah.utah.gov/visitors/visitors/departments/transportation_district.php
+https://www.uintah.utah.gov/visitors/visitors/departments/recreation.php
+https://www.uintah.utah.gov/visitors/visitors/departments/impact_mitigation.php
+https://www.uintah.utah.gov/visitors/visitors/departments/fire_district.php
+https://www.uintah.utah.gov/visitors/visitors/departments/health_district.php
+https://www.uintah.utah.gov/visitors/visitors/i_want_to/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/community_development/business_licenses.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/clerk_auditor/passport_information.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/community_development/building_applications_updated.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/clerk_auditor/marriage_license_information.php
+https://www.uintah.utah.gov/visitors/visitors/document_center/CommunityDevelopment/File_a_complaint_for_non_compliance.pdf
+https://www.uintah.utah.gov/visitors/visitors/public_notices/new_open_bids.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/commissioners/board_openings.php
+https://www.uintah.utah.gov/visitors/visitors/residents/index.php
+https://www.uintah.utah.gov/visitors/visitors/residents/uintah_county_jail.php
+https://www.uintah.utah.gov/visitors/visitors/residents/western_park.php
+https://www.uintah.utah.gov/visitors/visitors/calendar.php
+https://www.uintah.utah.gov/visitors/visitors/public_notices/index.php
+https://www.uintah.utah.gov/visitors/visitors/departments/a_-_e_departments/clerk_auditor/election_information.php
+https://www.uintah.utah.gov/visitors/visitors/county_fair/index.php
+https://www.uintah.utah.gov/visitors/visitors/travel_and_tourism/index.php
+https://www.uintah.utah.gov/visitors/visitors/conference_center/index.php
+https://www.uintah.utah.gov/visitors/visitors/not_found/index.php
+https://www.uintah.utah.gov/visitors/document_center/Visitors/Uintah_County_history.pdf
+https://www.uintah.utah.gov/visitors/departments/index.php
+
+SCANNED: https://www.uintah.utah.gov/visitors/departments/index.php
+KEYWORD: planning commission | https://www.uintah.utah.gov/visitors/departments/index.php
+KEYWORD: minutes | https://www.uintah.utah.gov/visitors/departments/index.php
+KEYWORD: agenda | https://www.uintah.utah.gov/visitors/departments/index.php
+https://www.uintah.utah.gov/visitors/departments/
+https://www.uintah.utah.gov/visitors/departments/visitors/index.php
+https://www.uintah.utah.gov/visitors/departments/document_center/Visitors/Uintah_County_history.pdf
+https://www.uintah.utah.gov/visitors/departments/departments/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/assessor/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/attorney/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/cemetery/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/clerk_auditor/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/community_development/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/commissioners/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/emergency_management/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/f_-_p_departments/facilities_management/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/f_-_p_departments/gis/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/f_-_p_departments/human_resources/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/public_defender.php
+https://www.uintah.utah.gov/visitors/departments/departments/f_-_p_departments/public_lands/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/purchasing_and_grants/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/q_-_z_departments/recorder/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/q_-_z_departments/roads/index.php
+https://www.uintah.utah.gov/visitors/departments/residents/sheriff_s_office.php
+https://www.uintah.utah.gov/visitors/departments/departments/q_-_z_departments/surveyor/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/q_-_z_departments/treasurer/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/weed_control/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/f_-_p_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/f_-_p_departments/landfill/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/q_-_z_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/special_service_districts.php
+https://www.uintah.utah.gov/visitors/departments/departments/transportation_district.php
+https://www.uintah.utah.gov/visitors/departments/departments/recreation.php
+https://www.uintah.utah.gov/visitors/departments/departments/impact_mitigation.php
+https://www.uintah.utah.gov/visitors/departments/departments/fire_district.php
+https://www.uintah.utah.gov/visitors/departments/departments/health_district.php
+https://www.uintah.utah.gov/visitors/departments/i_want_to/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/community_development/business_licenses.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/clerk_auditor/passport_information.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/community_development/building_applications_updated.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/clerk_auditor/marriage_license_information.php
+https://www.uintah.utah.gov/visitors/departments/document_center/CommunityDevelopment/File_a_complaint_for_non_compliance.pdf
+https://www.uintah.utah.gov/visitors/departments/public_notices/new_open_bids.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/commissioners/board_openings.php
+https://www.uintah.utah.gov/visitors/departments/residents/index.php
+https://www.uintah.utah.gov/visitors/departments/residents/uintah_county_jail.php
+https://www.uintah.utah.gov/visitors/departments/residents/western_park.php
+https://www.uintah.utah.gov/visitors/departments/calendar.php
+https://www.uintah.utah.gov/visitors/departments/public_notices/index.php
+https://www.uintah.utah.gov/visitors/departments/departments/a_-_e_departments/clerk_auditor/election_information.php
+https://www.uintah.utah.gov/visitors/departments/county_fair/index.php
+https://www.uintah.utah.gov/visitors/departments/travel_and_tourism/index.php
+https://www.uintah.utah.gov/visitors/departments/conference_center/index.php
+https://www.uintah.utah.gov/visitors/departments/not_found/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/index.php
+
+SCANNED: https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/index.php
+KEYWORD: planning commission | https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/index.php
+KEYWORD: minutes | https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/index.php
+KEYWORD: agenda | https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/visitors/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/document_center/Visitors/Uintah_County_history.pdf
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/assessor/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/attorney/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/cemetery/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/clerk_auditor/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/community_development/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/commissioners/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/emergency_management/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/f_-_p_departments/facilities_management/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/f_-_p_departments/gis/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/f_-_p_departments/human_resources/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/public_defender.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/f_-_p_departments/public_lands/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/purchasing_and_grants/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/q_-_z_departments/recorder/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/q_-_z_departments/roads/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/residents/sheriff_s_office.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/q_-_z_departments/surveyor/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/q_-_z_departments/treasurer/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/weed_control/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/f_-_p_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/f_-_p_departments/landfill/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/q_-_z_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/special_service_districts.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/transportation_district.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/recreation.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/impact_mitigation.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/fire_district.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/health_district.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/i_want_to/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/community_development/business_licenses.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/clerk_auditor/passport_information.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/community_development/building_applications_updated.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/clerk_auditor/marriage_license_information.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/document_center/CommunityDevelopment/File_a_complaint_for_non_compliance.pdf
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/public_notices/new_open_bids.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/commissioners/board_openings.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/residents/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/residents/uintah_county_jail.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/residents/western_park.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/calendar.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/public_notices/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/departments/a_-_e_departments/clerk_auditor/election_information.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/county_fair/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/travel_and_tourism/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/conference_center/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/not_found/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/index.php
+
+SCANNED: https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/index.php
+KEYWORD: minutes | https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/index.php
+KEYWORD: agenda | https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/visitors/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/document_center/Visitors/Uintah_County_history.pdf
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/assessor/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/attorney/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/cemetery/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/clerk_auditor/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/community_development/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/commissioners/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/emergency_management/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/f_-_p_departments/facilities_management/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/f_-_p_departments/gis/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/f_-_p_departments/human_resources/index.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/a_-_e_departments/public_defender.php
+https://www.uintah.utah.gov/visitors/departments/a_-_e_departments/assessor/departments/f_-_p_departments/public_lands/index.php

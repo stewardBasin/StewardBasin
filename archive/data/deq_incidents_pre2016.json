@@ -47,7 +47,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Treated Injection Water - Newfield - Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.337340"
+    "classified_at": "2026-06-01T19:06:43.337340",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_2.html"
   },
   {
     "id": "deq_incident_3",
@@ -95,7 +96,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "QEP Injection well"
     },
-    "classified_at": "2026-06-01T19:06:43.337362"
+    "classified_at": "2026-06-01T19:06:43.337362",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_3.html"
   },
   {
     "id": "deq_incident_5",
@@ -144,7 +146,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Duchesne H2S Release"
     },
-    "classified_at": "2026-06-01T19:06:43.337387"
+    "classified_at": "2026-06-01T19:06:43.337387",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_5.html"
   },
   {
     "id": "deq_incident_6",
@@ -194,7 +197,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Duchesne Co - Crude Oil - 60 bbls"
     },
-    "classified_at": "2026-06-01T19:06:43.337406"
+    "classified_at": "2026-06-01T19:06:43.337406",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_6.html"
   },
   {
     "id": "deq_incident_10",
@@ -244,7 +248,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Roosevelt City Airport - Fuel Release"
     },
-    "classified_at": "2026-06-01T19:06:43.337467"
+    "classified_at": "2026-06-01T19:06:43.337467",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_10.html"
   },
   {
     "id": "deq_incident_11",
@@ -294,7 +299,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newfield Water release"
     },
-    "classified_at": "2026-06-01T19:06:43.337496"
+    "classified_at": "2026-06-01T19:06:43.337496",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_11.html"
   },
   {
     "id": "deq_incident_12",
@@ -342,7 +348,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co. - Two injection water spills"
     },
-    "classified_at": "2026-06-01T19:06:43.337526"
+    "classified_at": "2026-06-01T19:06:43.337526",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_12.html"
   },
   {
     "id": "deq_incident_14",
@@ -392,7 +399,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Corrosion Inhibitor Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.337565"
+    "classified_at": "2026-06-01T19:06:43.337565",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_14.html"
   },
   {
     "id": "deq_incident_17",
@@ -440,7 +448,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Produced water spill near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.337640"
+    "classified_at": "2026-06-01T19:06:43.337640",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_17.html"
   },
   {
     "id": "deq_incident_18",
@@ -490,7 +499,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Simplot Phosphate Diesel Spill Uintah County"
     },
-    "classified_at": "2026-06-01T19:06:43.337656"
+    "classified_at": "2026-06-01T19:06:43.337656",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_18.html"
   },
   {
     "id": "deq_incident_22",
@@ -538,7 +548,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton Lift Station Release"
     },
-    "classified_at": "2026-06-01T19:06:43.339271"
+    "classified_at": "2026-06-01T19:06:43.339271",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_22.html"
   },
   {
     "id": "deq_incident_25",
@@ -588,7 +599,8 @@
       "nearest_city": "ALTAMONT",
       "title_eventname": "Production Water Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.339389"
+    "classified_at": "2026-06-01T19:06:43.339389",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_25.html"
   },
   {
     "id": "deq_incident_26",
@@ -638,7 +650,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Hydrochloric Acid 28% Mix at Commercial Yard"
     },
-    "classified_at": "2026-06-01T19:06:43.339431"
+    "classified_at": "2026-06-01T19:06:43.339431",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_26.html"
   },
   {
     "id": "deq_incident_34",
@@ -686,7 +699,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Production Water Spill in Duchesne County"
     },
-    "classified_at": "2026-06-01T19:06:43.339598"
+    "classified_at": "2026-06-01T19:06:43.339598",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_34.html"
   },
   {
     "id": "deq_incident_35",
@@ -736,7 +750,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Duchesne County Complaint Call"
     },
-    "classified_at": "2026-06-01T19:06:43.339638"
+    "classified_at": "2026-06-01T19:06:43.339638",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_35.html"
   },
   {
     "id": "deq_incident_36",
@@ -786,7 +801,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Injection Water Release near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.339668"
+    "classified_at": "2026-06-01T19:06:43.339668",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_36.html"
   },
   {
     "id": "deq_incident_37",
@@ -836,7 +852,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah Co - Ethylene Glycol 1000 Gallons"
     },
-    "classified_at": "2026-06-01T19:06:43.339713"
+    "classified_at": "2026-06-01T19:06:43.339713",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_37.html"
   },
   {
     "id": "deq_incident_39",
@@ -884,7 +901,8 @@
       "nearest_city": "WHITEROCKS",
       "title_eventname": "Uintah Co - Condensate 25 Gal"
     },
-    "classified_at": "2026-06-01T19:06:43.339759"
+    "classified_at": "2026-06-01T19:06:43.339759",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_39.html"
   },
   {
     "id": "deq_incident_42",
@@ -932,7 +950,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "K & M Semi (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.339808"
+    "classified_at": "2026-06-01T19:06:43.339808",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_42.html"
   },
   {
     "id": "deq_incident_44",
@@ -982,7 +1001,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Injection water spill"
     },
-    "classified_at": "2026-06-01T19:06:43.339843"
+    "classified_at": "2026-06-01T19:06:43.339843",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_44.html"
   },
   {
     "id": "deq_incident_46",
@@ -1032,7 +1052,8 @@
       "nearest_city": "Gusher",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.339898"
+    "classified_at": "2026-06-01T19:06:43.339898",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_46.html"
   },
   {
     "id": "deq_incident_48",
@@ -1082,7 +1103,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.339948"
+    "classified_at": "2026-06-01T19:06:43.339948",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_48.html"
   },
   {
     "id": "deq_incident_50",
@@ -1132,7 +1154,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Joseph Michael/Newfield Exploration (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.340012"
+    "classified_at": "2026-06-01T19:06:43.340012",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_50.html"
   },
   {
     "id": "deq_incident_52",
@@ -1182,7 +1205,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newfield 13-27-8-17 - Treated Inj. Water"
     },
-    "classified_at": "2026-06-01T19:06:43.340052"
+    "classified_at": "2026-06-01T19:06:43.340052",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_52.html"
   },
   {
     "id": "deq_incident_53",
@@ -1230,7 +1254,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Duchesne Co - Truck in River"
     },
-    "classified_at": "2026-06-01T19:06:43.340120"
+    "classified_at": "2026-06-01T19:06:43.340120",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_53.html"
   },
   {
     "id": "deq_incident_55",
@@ -1280,7 +1305,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "LCL Oil Co. (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.340214"
+    "classified_at": "2026-06-01T19:06:43.340214",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_55.html"
   },
   {
     "id": "deq_incident_62",
@@ -1328,7 +1354,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Treated Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.340468"
+    "classified_at": "2026-06-01T19:06:43.340468",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_62.html"
   },
   {
     "id": "deq_incident_64",
@@ -1376,7 +1403,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Treated water spill"
     },
-    "classified_at": "2026-06-01T19:06:43.340560"
+    "classified_at": "2026-06-01T19:06:43.340560",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_64.html"
   },
   {
     "id": "deq_incident_72",
@@ -1426,7 +1454,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.340847"
+    "classified_at": "2026-06-01T19:06:43.340847",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_72.html"
   },
   {
     "id": "deq_incident_73",
@@ -1474,7 +1503,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.340889"
+    "classified_at": "2026-06-01T19:06:43.340889",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_73.html"
   },
   {
     "id": "deq_incident_77",
@@ -1522,7 +1552,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Weatherford Wireline Transporting"
     },
-    "classified_at": "2026-06-01T19:06:43.340985"
+    "classified_at": "2026-06-01T19:06:43.340985",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_77.html"
   },
   {
     "id": "deq_incident_78",
@@ -1572,7 +1603,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.341015"
+    "classified_at": "2026-06-01T19:06:43.341015",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_78.html"
   },
   {
     "id": "deq_incident_79",
@@ -1622,7 +1654,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton Trailer Roll over"
     },
-    "classified_at": "2026-06-01T19:06:43.341047"
+    "classified_at": "2026-06-01T19:06:43.341047",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_79.html"
   },
   {
     "id": "deq_incident_83",
@@ -1670,7 +1703,8 @@
       "nearest_city": "NAPLES",
       "title_eventname": "Vegetation Kill Hydrochloric Acid"
     },
-    "classified_at": "2026-06-01T19:06:43.341181"
+    "classified_at": "2026-06-01T19:06:43.341181",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_83.html"
   },
   {
     "id": "deq_incident_87",
@@ -1720,7 +1754,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.341271"
+    "classified_at": "2026-06-01T19:06:43.341271",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_87.html"
   },
   {
     "id": "deq_incident_89",
@@ -1770,7 +1805,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "THIS IS A DRILL...Crude oil spill threatening Lake Fort River in Duchesne County"
     },
-    "classified_at": "2026-06-01T19:06:43.341318"
+    "classified_at": "2026-06-01T19:06:43.341318",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_89.html"
   },
   {
     "id": "deq_incident_93",
@@ -1820,7 +1856,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newfield - 13-16-9-17 Crude Oil"
     },
-    "classified_at": "2026-06-01T19:06:43.341406"
+    "classified_at": "2026-06-01T19:06:43.341406",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_93.html"
   },
   {
     "id": "deq_incident_97",
@@ -1870,7 +1907,8 @@
       "nearest_city": "ALTAMONT",
       "title_eventname": "El Paso E&P (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.341498"
+    "classified_at": "2026-06-01T19:06:43.341498",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_97.html"
   },
   {
     "id": "deq_incident_104",
@@ -1920,7 +1958,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "RNI Trucking (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.341631"
+    "classified_at": "2026-06-01T19:06:43.341631",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_104.html"
   },
   {
     "id": "deq_incident_106",
@@ -1970,7 +2009,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Injection water release near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.341699"
+    "classified_at": "2026-06-01T19:06:43.341699",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_106.html"
   },
   {
     "id": "deq_incident_108",
@@ -2018,7 +2058,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.341734"
+    "classified_at": "2026-06-01T19:06:43.341734",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_108.html"
   },
   {
     "id": "deq_incident_109",
@@ -2068,7 +2109,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.341750"
+    "classified_at": "2026-06-01T19:06:43.341750",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_109.html"
   },
   {
     "id": "deq_incident_111",
@@ -2118,7 +2160,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Rick Norton (owner) (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.341803"
+    "classified_at": "2026-06-01T19:06:43.341803",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_111.html"
   },
   {
     "id": "deq_incident_112",
@@ -2168,7 +2211,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Carman Hoyt (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.341846"
+    "classified_at": "2026-06-01T19:06:43.341846",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_112.html"
   },
   {
     "id": "deq_incident_115",
@@ -2218,7 +2262,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal Used Oil Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.341918"
+    "classified_at": "2026-06-01T19:06:43.341918",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_115.html"
   },
   {
     "id": "deq_incident_116",
@@ -2268,7 +2313,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Injection Water Release SE of Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.341949"
+    "classified_at": "2026-06-01T19:06:43.341949",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_116.html"
   },
   {
     "id": "deq_incident_118",
@@ -2318,7 +2364,8 @@
       "nearest_city": "JENSEN",
       "title_eventname": "Production Water Release Uintah Co."
     },
-    "classified_at": "2026-06-01T19:06:43.341979"
+    "classified_at": "2026-06-01T19:06:43.341979",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_118.html"
   },
   {
     "id": "deq_incident_120",
@@ -2368,7 +2415,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal Used Oil Release"
     },
-    "classified_at": "2026-06-01T19:06:43.342038"
+    "classified_at": "2026-06-01T19:06:43.342038",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_120.html"
   },
   {
     "id": "deq_incident_121",
@@ -2418,7 +2466,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah Co QEP Tank Overflow"
     },
-    "classified_at": "2026-06-01T19:06:43.342058"
+    "classified_at": "2026-06-01T19:06:43.342058",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_121.html"
   },
   {
     "id": "deq_incident_124",
@@ -2468,7 +2517,8 @@
       "nearest_city": "BLUEBELL",
       "title_eventname": "Chevron (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.342162"
+    "classified_at": "2026-06-01T19:06:43.342162",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_124.html"
   },
   {
     "id": "deq_incident_129",
@@ -2518,7 +2568,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton - Newfield Exploration diesel release"
     },
-    "classified_at": "2026-06-01T19:06:43.342260"
+    "classified_at": "2026-06-01T19:06:43.342260",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_129.html"
   },
   {
     "id": "deq_incident_134",
@@ -2568,7 +2619,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Nine Mile Crude-130 bls"
     },
-    "classified_at": "2026-06-01T19:06:43.342396"
+    "classified_at": "2026-06-01T19:06:43.342396",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_134.html"
   },
   {
     "id": "deq_incident_137",
@@ -2617,7 +2669,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Duchesne Co - Sewage"
     },
-    "classified_at": "2026-06-01T19:06:43.342474"
+    "classified_at": "2026-06-01T19:06:43.342474",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_137.html"
   },
   {
     "id": "deq_incident_138",
@@ -2667,7 +2720,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Diesel spill in Uintah County"
     },
-    "classified_at": "2026-06-01T19:06:43.342506"
+    "classified_at": "2026-06-01T19:06:43.342506",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_138.html"
   },
   {
     "id": "deq_incident_141",
@@ -2717,7 +2771,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah County (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.342605"
+    "classified_at": "2026-06-01T19:06:43.342605",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_141.html"
   },
   {
     "id": "deq_incident_145",
@@ -2767,7 +2822,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton Produced Water leak"
     },
-    "classified_at": "2026-06-01T19:06:43.342689"
+    "classified_at": "2026-06-01T19:06:43.342689",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_145.html"
   },
   {
     "id": "deq_incident_146",
@@ -2817,7 +2873,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah - Production water spill"
     },
-    "classified_at": "2026-06-01T19:06:43.342709"
+    "classified_at": "2026-06-01T19:06:43.342709",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_146.html"
   },
   {
     "id": "deq_incident_148",
@@ -2867,7 +2924,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Hydraulic Fluid"
     },
-    "classified_at": "2026-06-01T19:06:43.342757"
+    "classified_at": "2026-06-01T19:06:43.342757",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_148.html"
   },
   {
     "id": "deq_incident_151",
@@ -2915,7 +2973,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Production Water"
     },
-    "classified_at": "2026-06-01T19:06:43.342810"
+    "classified_at": "2026-06-01T19:06:43.342810",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_151.html"
   },
   {
     "id": "deq_incident_152",
@@ -2965,7 +3024,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Crude oil spill in Duchesne County"
     },
-    "classified_at": "2026-06-01T19:06:43.342838"
+    "classified_at": "2026-06-01T19:06:43.342838",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_152.html"
   },
   {
     "id": "deq_incident_154",
@@ -3015,7 +3075,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Diesel Fuel Spill in Duchesne County"
     },
-    "classified_at": "2026-06-01T19:06:43.342900"
+    "classified_at": "2026-06-01T19:06:43.342900",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_154.html"
   },
   {
     "id": "deq_incident_156",
@@ -3065,7 +3126,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Sodium Hypochlorite 12.5% 1200 Gals"
     },
-    "classified_at": "2026-06-01T19:06:43.342968"
+    "classified_at": "2026-06-01T19:06:43.342968",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_156.html"
   },
   {
     "id": "deq_incident_157",
@@ -3115,7 +3177,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Haliburton (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.343010"
+    "classified_at": "2026-06-01T19:06:43.343010",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_157.html"
   },
   {
     "id": "deq_incident_158",
@@ -3165,7 +3228,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Duchesne Diesel Release"
     },
-    "classified_at": "2026-06-01T19:06:43.343041"
+    "classified_at": "2026-06-01T19:06:43.343041",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_158.html"
   },
   {
     "id": "deq_incident_161",
@@ -3215,7 +3279,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co. - Injection water spill"
     },
-    "classified_at": "2026-06-01T19:06:43.343141"
+    "classified_at": "2026-06-01T19:06:43.343141",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_161.html"
   },
   {
     "id": "deq_incident_163",
@@ -3265,7 +3330,8 @@
       "nearest_city": "NAPLES",
       "title_eventname": "Uintah Co - Used Oil Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.343189"
+    "classified_at": "2026-06-01T19:06:43.343189",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_163.html"
   },
   {
     "id": "deq_incident_164",
@@ -3315,7 +3381,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Duchesne Co - HCL 15% 150 Gals"
     },
-    "classified_at": "2026-06-01T19:06:43.343219"
+    "classified_at": "2026-06-01T19:06:43.343219",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_164.html"
   },
   {
     "id": "deq_incident_166",
@@ -3365,7 +3432,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Wetherford Fracturing (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.343284"
+    "classified_at": "2026-06-01T19:06:43.343284",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_166.html"
   },
   {
     "id": "deq_incident_167",
@@ -3415,7 +3483,8 @@
       "nearest_city": "TALMAGE",
       "title_eventname": "Duchesne Co - Crude & Produced Water"
     },
-    "classified_at": "2026-06-01T19:06:43.343306"
+    "classified_at": "2026-06-01T19:06:43.343306",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_167.html"
   },
   {
     "id": "deq_incident_168",
@@ -3465,7 +3534,8 @@
       "nearest_city": "NAPLES",
       "title_eventname": "Joseph Weyerman (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.343335"
+    "classified_at": "2026-06-01T19:06:43.343335",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_168.html"
   },
   {
     "id": "deq_incident_169",
@@ -3515,7 +3585,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Adler Hot Oil (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.343397"
+    "classified_at": "2026-06-01T19:06:43.343397",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_169.html"
   },
   {
     "id": "deq_incident_170",
@@ -3563,7 +3634,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Uintah Co- Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.343434"
+    "classified_at": "2026-06-01T19:06:43.343434",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_170.html"
   },
   {
     "id": "deq_incident_171",
@@ -3613,7 +3685,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.343476"
+    "classified_at": "2026-06-01T19:06:43.343476",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_171.html"
   },
   {
     "id": "deq_incident_174",
@@ -3663,7 +3736,8 @@
       "nearest_city": "TALMAGE",
       "title_eventname": "Produced Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.343534"
+    "classified_at": "2026-06-01T19:06:43.343534",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_174.html"
   },
   {
     "id": "deq_incident_176",
@@ -3713,7 +3787,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Fish Kill"
     },
-    "classified_at": "2026-06-01T19:06:43.343596"
+    "classified_at": "2026-06-01T19:06:43.343596",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_176.html"
   },
   {
     "id": "deq_incident_177",
@@ -3763,7 +3838,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah Co - Diesel Spill White River 4 gallons"
     },
-    "classified_at": "2026-06-01T19:06:43.343626"
+    "classified_at": "2026-06-01T19:06:43.343626",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_177.html"
   },
   {
     "id": "deq_incident_178",
@@ -3813,7 +3889,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Produced water spill near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.343642"
+    "classified_at": "2026-06-01T19:06:43.343642",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_178.html"
   },
   {
     "id": "deq_incident_189",
@@ -3861,7 +3938,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newfield Ethylene Glycol Spill - Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.343890"
+    "classified_at": "2026-06-01T19:06:43.343890",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_189.html"
   },
   {
     "id": "deq_incident_193",
@@ -3911,7 +3989,8 @@
       "nearest_city": "JENSEN",
       "title_eventname": "Uintah QEP Injection Line Break"
     },
-    "classified_at": "2026-06-01T19:06:43.343979"
+    "classified_at": "2026-06-01T19:06:43.343979",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_193.html"
   },
   {
     "id": "deq_incident_195",
@@ -3959,7 +4038,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah County Oil Release"
     },
-    "classified_at": "2026-06-01T19:06:43.344035"
+    "classified_at": "2026-06-01T19:06:43.344035",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_195.html"
   },
   {
     "id": "deq_incident_196",
@@ -4009,7 +4089,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Crude Oil Release north of Vernal"
     },
-    "classified_at": "2026-06-01T19:06:43.344054"
+    "classified_at": "2026-06-01T19:06:43.344054",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_196.html"
   },
   {
     "id": "deq_incident_199",
@@ -4059,7 +4140,8 @@
       "nearest_city": "Duchesne",
       "title_eventname": "Tracy Williams (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.344158"
+    "classified_at": "2026-06-01T19:06:43.344158",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_199.html"
   },
   {
     "id": "deq_incident_200",
@@ -4109,7 +4191,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Roosevelt Manure Truck wahsout to creek"
     },
-    "classified_at": "2026-06-01T19:06:43.344289"
+    "classified_at": "2026-06-01T19:06:43.344289",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_200.html"
   },
   {
     "id": "deq_incident_201",
@@ -4159,7 +4242,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal - Hydrochloric Acid Solution"
     },
-    "classified_at": "2026-06-01T19:06:43.344326"
+    "classified_at": "2026-06-01T19:06:43.344326",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_201.html"
   },
   {
     "id": "deq_incident_202",
@@ -4209,7 +4293,8 @@
       "nearest_city": "Gusher",
       "title_eventname": "Quality Inspection & Testing, Inc. (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.344393"
+    "classified_at": "2026-06-01T19:06:43.344393",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_202.html"
   },
   {
     "id": "deq_incident_203",
@@ -4257,7 +4342,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County Treated Water Leak"
     },
-    "classified_at": "2026-06-01T19:06:43.344455"
+    "classified_at": "2026-06-01T19:06:43.344455",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_203.html"
   },
   {
     "id": "deq_incident_204",
@@ -4305,7 +4391,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newfield Treated Inj Water - Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.344475"
+    "classified_at": "2026-06-01T19:06:43.344475",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_204.html"
   },
   {
     "id": "deq_incident_207",
@@ -4355,7 +4442,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton Injection Water Release Newfield"
     },
-    "classified_at": "2026-06-01T19:06:43.344545"
+    "classified_at": "2026-06-01T19:06:43.344545",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_207.html"
   },
   {
     "id": "deq_incident_208",
@@ -4403,7 +4491,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Production Water Release in Duchesne County"
     },
-    "classified_at": "2026-06-01T19:06:43.344564"
+    "classified_at": "2026-06-01T19:06:43.344564",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_208.html"
   },
   {
     "id": "deq_incident_212",
@@ -4453,7 +4542,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Roosevelt Oil Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.344637"
+    "classified_at": "2026-06-01T19:06:43.344637",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_212.html"
   },
   {
     "id": "deq_incident_213",
@@ -4501,7 +4591,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.344662"
+    "classified_at": "2026-06-01T19:06:43.344662",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_213.html"
   },
   {
     "id": "deq_incident_215",
@@ -4551,7 +4642,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.344902"
+    "classified_at": "2026-06-01T19:06:43.344902",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_215.html"
   },
   {
     "id": "deq_incident_216",
@@ -4601,7 +4693,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Diesel spill in Roosevelt"
     },
-    "classified_at": "2026-06-01T19:06:43.344923"
+    "classified_at": "2026-06-01T19:06:43.344923",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_216.html"
   },
   {
     "id": "deq_incident_218",
@@ -4651,7 +4744,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.344984"
+    "classified_at": "2026-06-01T19:06:43.344984",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_218.html"
   },
   {
     "id": "deq_incident_223",
@@ -4699,7 +4793,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.345102"
+    "classified_at": "2026-06-01T19:06:43.345102",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_223.html"
   },
   {
     "id": "deq_incident_224",
@@ -4749,7 +4844,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "/// DRILL /// - Starvation Reservoir - /// DRILL"
     },
-    "classified_at": "2026-06-01T19:06:43.345124"
+    "classified_at": "2026-06-01T19:06:43.345124",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_224.html"
   },
   {
     "id": "deq_incident_228",
@@ -4797,7 +4893,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Tri-County - Newfield Pipeline release"
     },
-    "classified_at": "2026-06-01T19:06:43.345195"
+    "classified_at": "2026-06-01T19:06:43.345195",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_228.html"
   },
   {
     "id": "deq_incident_229",
@@ -4847,7 +4944,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "JD Strickland & Assoc. (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.345218"
+    "classified_at": "2026-06-01T19:06:43.345218",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_229.html"
   },
   {
     "id": "deq_incident_230",
@@ -4897,7 +4995,8 @@
       "nearest_city": "Duchesne",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.345244"
+    "classified_at": "2026-06-01T19:06:43.345244",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_230.html"
   },
   {
     "id": "deq_incident_233",
@@ -4947,7 +5046,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "New Field - Release of Production Water"
     },
-    "classified_at": "2026-06-01T19:06:43.345324"
+    "classified_at": "2026-06-01T19:06:43.345324",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_233.html"
   },
   {
     "id": "deq_incident_238",
@@ -4995,7 +5095,8 @@
       "nearest_city": "MT EMMONS",
       "title_eventname": "EP Energy, Brine Release,"
     },
-    "classified_at": "2026-06-01T19:06:43.345421"
+    "classified_at": "2026-06-01T19:06:43.345421",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_238.html"
   },
   {
     "id": "deq_incident_240",
@@ -5045,7 +5146,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Mine Reclaim Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.345471"
+    "classified_at": "2026-06-01T19:06:43.345471",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_240.html"
   },
   {
     "id": "deq_incident_241",
@@ -5095,7 +5197,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Weatherford International (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.345493"
+    "classified_at": "2026-06-01T19:06:43.345493",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_241.html"
   },
   {
     "id": "deq_incident_242",
@@ -5143,7 +5246,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.345506"
+    "classified_at": "2026-06-01T19:06:43.345506",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_242.html"
   },
   {
     "id": "deq_incident_246",
@@ -5193,7 +5297,8 @@
       "nearest_city": "OURAY",
       "title_eventname": "Production Water Release near Ouray"
     },
-    "classified_at": "2026-06-01T19:06:43.345599"
+    "classified_at": "2026-06-01T19:06:43.345599",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_246.html"
   },
   {
     "id": "deq_incident_247",
@@ -5243,7 +5348,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Delta Trucking, L.L.C. (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.345619"
+    "classified_at": "2026-06-01T19:06:43.345619",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_247.html"
   },
   {
     "id": "deq_incident_252",
@@ -5291,7 +5397,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah County Acid Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.345738"
+    "classified_at": "2026-06-01T19:06:43.345738",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_252.html"
   },
   {
     "id": "deq_incident_255",
@@ -5341,7 +5448,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Simplot Phosphate (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.345791"
+    "classified_at": "2026-06-01T19:06:43.345791",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_255.html"
   },
   {
     "id": "deq_incident_259",
@@ -5389,7 +5497,8 @@
       "nearest_city": "BLUEBELL",
       "title_eventname": "Duchesne County - Production Water"
     },
-    "classified_at": "2026-06-01T19:06:43.345892"
+    "classified_at": "2026-06-01T19:06:43.345892",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_259.html"
   },
   {
     "id": "deq_incident_270",
@@ -5439,7 +5548,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Roosevelt Soil Contamination"
     },
-    "classified_at": "2026-06-01T19:06:43.346161"
+    "classified_at": "2026-06-01T19:06:43.346161",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_270.html"
   },
   {
     "id": "deq_incident_273",
@@ -5487,7 +5597,8 @@
       "nearest_city": "TALMAGE",
       "title_eventname": "Duchesne County - Production Water"
     },
-    "classified_at": "2026-06-01T19:06:43.346215"
+    "classified_at": "2026-06-01T19:06:43.346215",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_273.html"
   },
   {
     "id": "deq_incident_276",
@@ -5535,7 +5646,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Book Cliffs Pipeline Release"
     },
-    "classified_at": "2026-06-01T19:06:43.346315"
+    "classified_at": "2026-06-01T19:06:43.346315",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_276.html"
   },
   {
     "id": "deq_incident_277",
@@ -5585,7 +5697,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Questar (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.346349"
+    "classified_at": "2026-06-01T19:06:43.346349",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_277.html"
   },
   {
     "id": "deq_incident_279",
@@ -5633,7 +5746,8 @@
       "nearest_city": "RANDLETT",
       "title_eventname": "Uintah County Crude Oil Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.346385"
+    "classified_at": "2026-06-01T19:06:43.346385",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_279.html"
   },
   {
     "id": "deq_incident_281",
@@ -5681,7 +5795,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Treated Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.346437"
+    "classified_at": "2026-06-01T19:06:43.346437",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_281.html"
   },
   {
     "id": "deq_incident_285",
@@ -5731,7 +5846,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Warner Enterprises (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.346515"
+    "classified_at": "2026-06-01T19:06:43.346515",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_285.html"
   },
   {
     "id": "deq_incident_286",
@@ -5781,7 +5897,8 @@
       "nearest_city": "OURAY",
       "title_eventname": "Uinta County - Condensate release"
     },
-    "classified_at": "2026-06-01T19:06:43.346535"
+    "classified_at": "2026-06-01T19:06:43.346535",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_286.html"
   },
   {
     "id": "deq_incident_288",
@@ -5829,7 +5946,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Rabbit Gulch Produced Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.346584"
+    "classified_at": "2026-06-01T19:06:43.346584",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_288.html"
   },
   {
     "id": "deq_incident_296",
@@ -5879,7 +5997,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Chevron Pipeline Co. (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.346759"
+    "classified_at": "2026-06-01T19:06:43.346759",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_296.html"
   },
   {
     "id": "deq_incident_297",
@@ -5929,7 +6048,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Rocky Mountain Power (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.346793"
+    "classified_at": "2026-06-01T19:06:43.346793",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_297.html"
   },
   {
     "id": "deq_incident_301",
@@ -5979,7 +6099,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "West Wing Oil (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.346881"
+    "classified_at": "2026-06-01T19:06:43.346881",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_301.html"
   },
   {
     "id": "deq_incident_303",
@@ -6029,7 +6150,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah High School (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.346930"
+    "classified_at": "2026-06-01T19:06:43.346930",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_303.html"
   },
   {
     "id": "deq_incident_304",
@@ -6079,7 +6201,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Savage crude oil/diesel"
     },
-    "classified_at": "2026-06-01T19:06:43.346952"
+    "classified_at": "2026-06-01T19:06:43.346952",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_304.html"
   },
   {
     "id": "deq_incident_306",
@@ -6129,7 +6252,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.347003"
+    "classified_at": "2026-06-01T19:06:43.347003",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_306.html"
   },
   {
     "id": "deq_incident_308",
@@ -6178,7 +6302,8 @@
       "nearest_city": "CEDARVIEW",
       "title_eventname": "EP Energy Production Water"
     },
-    "classified_at": "2026-06-01T19:06:43.347033"
+    "classified_at": "2026-06-01T19:06:43.347033",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_308.html"
   },
   {
     "id": "deq_incident_309",
@@ -6226,7 +6351,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton - Newfield Collection Line  Release"
     },
-    "classified_at": "2026-06-01T19:06:43.347093"
+    "classified_at": "2026-06-01T19:06:43.347093",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_309.html"
   },
   {
     "id": "deq_incident_310",
@@ -6276,7 +6402,8 @@
       "nearest_city": "ALTAMONT",
       "title_eventname": "Elpaso Energy (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347173"
+    "classified_at": "2026-06-01T19:06:43.347173",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_310.html"
   },
   {
     "id": "deq_incident_313",
@@ -6324,7 +6451,8 @@
       "nearest_city": "OURAY",
       "title_eventname": "QEP Energy (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347244"
+    "classified_at": "2026-06-01T19:06:43.347244",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_313.html"
   },
   {
     "id": "deq_incident_315",
@@ -6374,7 +6502,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Kent Hadlock and Dennis Judd (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347295"
+    "classified_at": "2026-06-01T19:06:43.347295",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_315.html"
   },
   {
     "id": "deq_incident_316",
@@ -6424,7 +6553,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal - Hydraulic oil spill"
     },
-    "classified_at": "2026-06-01T19:06:43.347312"
+    "classified_at": "2026-06-01T19:06:43.347312",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_316.html"
   },
   {
     "id": "deq_incident_318",
@@ -6474,7 +6604,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347356"
+    "classified_at": "2026-06-01T19:06:43.347356",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_318.html"
   },
   {
     "id": "deq_incident_324",
@@ -6524,7 +6655,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347497"
+    "classified_at": "2026-06-01T19:06:43.347497",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_324.html"
   },
   {
     "id": "deq_incident_326",
@@ -6572,7 +6704,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.347535"
+    "classified_at": "2026-06-01T19:06:43.347535",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_326.html"
   },
   {
     "id": "deq_incident_332",
@@ -6622,7 +6755,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newfield - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.347655"
+    "classified_at": "2026-06-01T19:06:43.347655",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_332.html"
   },
   {
     "id": "deq_incident_334",
@@ -6672,7 +6806,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Outback Rentals (Tim Crow) (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347707"
+    "classified_at": "2026-06-01T19:06:43.347707",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_334.html"
   },
   {
     "id": "deq_incident_347",
@@ -6722,7 +6857,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Ned Mitchell Construction Company (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.347997"
+    "classified_at": "2026-06-01T19:06:43.347997",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_347.html"
   },
   {
     "id": "deq_incident_361",
@@ -6772,7 +6908,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Production Water Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.348325"
+    "classified_at": "2026-06-01T19:06:43.348325",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_361.html"
   },
   {
     "id": "deq_incident_364",
@@ -6822,7 +6959,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Produced Water Spill Near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.348372"
+    "classified_at": "2026-06-01T19:06:43.348372",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_364.html"
   },
   {
     "id": "deq_incident_366",
@@ -6872,7 +7010,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Potential Crude Oil Release"
     },
-    "classified_at": "2026-06-01T19:06:43.348410"
+    "classified_at": "2026-06-01T19:06:43.348410",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_366.html"
   },
   {
     "id": "deq_incident_367",
@@ -6920,7 +7059,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Duchesne County Production Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.348428"
+    "classified_at": "2026-06-01T19:06:43.348428",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_367.html"
   },
   {
     "id": "deq_incident_368",
@@ -6970,7 +7110,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Unknown (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.348460"
+    "classified_at": "2026-06-01T19:06:43.348460",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_368.html"
   },
   {
     "id": "deq_incident_378",
@@ -7020,7 +7161,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Raw Sewage"
     },
-    "classified_at": "2026-06-01T19:06:43.348683"
+    "classified_at": "2026-06-01T19:06:43.348683",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_378.html"
   },
   {
     "id": "deq_incident_387",
@@ -7070,7 +7212,8 @@
       "nearest_city": "ALTAMONT",
       "title_eventname": "EP Energy 80 bbl production water"
     },
-    "classified_at": "2026-06-01T19:06:43.348848"
+    "classified_at": "2026-06-01T19:06:43.348848",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_387.html"
   },
   {
     "id": "deq_incident_396",
@@ -7118,7 +7261,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County Produced Water Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.349034"
+    "classified_at": "2026-06-01T19:06:43.349034",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_396.html"
   },
   {
     "id": "deq_incident_399",
@@ -7168,7 +7312,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.349123"
+    "classified_at": "2026-06-01T19:06:43.349123",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_399.html"
   },
   {
     "id": "deq_incident_401",
@@ -7218,7 +7363,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Howell Trucking (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.349159"
+    "classified_at": "2026-06-01T19:06:43.349159",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_401.html"
   },
   {
     "id": "deq_incident_408",
@@ -7268,7 +7414,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Production Water Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.349316"
+    "classified_at": "2026-06-01T19:06:43.349316",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_408.html"
   },
   {
     "id": "deq_incident_410",
@@ -7318,7 +7465,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "80 Barrel Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.349359"
+    "classified_at": "2026-06-01T19:06:43.349359",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_410.html"
   },
   {
     "id": "deq_incident_411",
@@ -7368,7 +7516,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton - Newfield Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.349406"
+    "classified_at": "2026-06-01T19:06:43.349406",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_411.html"
   },
   {
     "id": "deq_incident_412",
@@ -7418,7 +7567,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Produced water release near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.349418"
+    "classified_at": "2026-06-01T19:06:43.349418",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_412.html"
   },
   {
     "id": "deq_incident_413",
@@ -7466,7 +7616,8 @@
       "nearest_city": "OURAY",
       "title_eventname": "Foundation Energy Management - Uintah - Crude Oil"
     },
-    "classified_at": "2026-06-01T19:06:43.349438"
+    "classified_at": "2026-06-01T19:06:43.349438",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_413.html"
   },
   {
     "id": "deq_incident_415",
@@ -7516,7 +7667,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Condensate Spill near Myton"
     },
-    "classified_at": "2026-06-01T19:06:43.349469"
+    "classified_at": "2026-06-01T19:06:43.349469",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_415.html"
   },
   {
     "id": "deq_incident_416",
@@ -7566,7 +7718,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Savage Suites Trucking (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.349490"
+    "classified_at": "2026-06-01T19:06:43.349490",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_416.html"
   },
   {
     "id": "deq_incident_417",
@@ -7616,7 +7769,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Hydraulic Fluid Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.349514"
+    "classified_at": "2026-06-01T19:06:43.349514",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_417.html"
   },
   {
     "id": "deq_incident_424",
@@ -7664,7 +7818,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Duchesne County - Process Breakdown"
     },
-    "classified_at": "2026-06-01T19:06:43.349636"
+    "classified_at": "2026-06-01T19:06:43.349636",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_424.html"
   },
   {
     "id": "deq_incident_425",
@@ -7712,7 +7867,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Pipeline leak in Book Cliffs"
     },
-    "classified_at": "2026-06-01T19:06:43.349677"
+    "classified_at": "2026-06-01T19:06:43.349677",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_425.html"
   },
   {
     "id": "deq_incident_427",
@@ -7762,7 +7918,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "CGGVeritas (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.349732"
+    "classified_at": "2026-06-01T19:06:43.349732",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_427.html"
   },
   {
     "id": "deq_incident_461",
@@ -7812,7 +7969,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "El Paso E&P Company (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.350346"
+    "classified_at": "2026-06-01T19:06:43.350346",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_461.html"
   },
   {
     "id": "deq_incident_465",
@@ -7862,7 +8020,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Anadarko Petroleum Corp. (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.350445"
+    "classified_at": "2026-06-01T19:06:43.350445",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_465.html"
   },
   {
     "id": "deq_incident_466",
@@ -7912,7 +8071,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Injection water spill in Duchesne County"
     },
-    "classified_at": "2026-06-01T19:06:43.350462"
+    "classified_at": "2026-06-01T19:06:43.350462",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_466.html"
   },
   {
     "id": "deq_incident_469",
@@ -7960,7 +8120,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton - Injection water spill"
     },
-    "classified_at": "2026-06-01T19:06:43.350507"
+    "classified_at": "2026-06-01T19:06:43.350507",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_469.html"
   },
   {
     "id": "deq_incident_470",
@@ -8008,7 +8169,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Myton - Fresh water spill"
     },
-    "classified_at": "2026-06-01T19:06:43.350537"
+    "classified_at": "2026-06-01T19:06:43.350537",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_470.html"
   },
   {
     "id": "deq_incident_474",
@@ -8058,7 +8220,8 @@
       "nearest_city": "Vernal",
       "title_eventname": "Rosewood Resources (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.350623"
+    "classified_at": "2026-06-01T19:06:43.350623",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_474.html"
   },
   {
     "id": "deq_incident_475",
@@ -8108,7 +8271,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal Production Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.350635"
+    "classified_at": "2026-06-01T19:06:43.350635",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_475.html"
   },
   {
     "id": "deq_incident_476",
@@ -8158,7 +8322,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.350666"
+    "classified_at": "2026-06-01T19:06:43.350666",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_476.html"
   },
   {
     "id": "deq_incident_477",
@@ -8208,7 +8373,8 @@
       "nearest_city": "TALMAGE",
       "title_eventname": "EP Energy - 1500 bbls Production Water"
     },
-    "classified_at": "2026-06-01T19:06:43.350679"
+    "classified_at": "2026-06-01T19:06:43.350679",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_477.html"
   },
   {
     "id": "deq_incident_478",
@@ -8258,7 +8424,8 @@
       "nearest_city": "MONARCH",
       "title_eventname": "Production Water Release - Monarch"
     },
-    "classified_at": "2026-06-01T19:06:43.350694"
+    "classified_at": "2026-06-01T19:06:43.350694",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_478.html"
   },
   {
     "id": "deq_incident_479",
@@ -8308,7 +8475,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal - Hydrochloric acid spill"
     },
-    "classified_at": "2026-06-01T19:06:43.350722"
+    "classified_at": "2026-06-01T19:06:43.350722",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_479.html"
   },
   {
     "id": "deq_incident_481",
@@ -8356,7 +8524,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesene County Treated Production Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.350751"
+    "classified_at": "2026-06-01T19:06:43.350751",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_481.html"
   },
   {
     "id": "deq_incident_482",
@@ -8404,7 +8573,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Roosevelt Stockwater Release"
     },
-    "classified_at": "2026-06-01T19:06:43.350786"
+    "classified_at": "2026-06-01T19:06:43.350786",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_482.html"
   },
   {
     "id": "deq_incident_483",
@@ -8452,7 +8622,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County Diesel Release"
     },
-    "classified_at": "2026-06-01T19:06:43.350809"
+    "classified_at": "2026-06-01T19:06:43.350809",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_483.html"
   },
   {
     "id": "deq_incident_484",
@@ -8502,7 +8673,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Vernal - Release of \"OB Breaker\""
     },
-    "classified_at": "2026-06-01T19:06:43.350840"
+    "classified_at": "2026-06-01T19:06:43.350840",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_484.html"
   },
   {
     "id": "deq_incident_485",
@@ -8550,7 +8722,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Production Water Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.350854"
+    "classified_at": "2026-06-01T19:06:43.350854",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_485.html"
   },
   {
     "id": "deq_incident_488",
@@ -8598,7 +8771,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Ethylene Glycol Release"
     },
-    "classified_at": "2026-06-01T19:06:43.350968"
+    "classified_at": "2026-06-01T19:06:43.350968",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_488.html"
   },
   {
     "id": "deq_incident_491",
@@ -8646,7 +8820,8 @@
       "nearest_city": "DUCHESNE",
       "title_eventname": "Duchesne Diesel Release"
     },
-    "classified_at": "2026-06-01T19:06:43.351022"
+    "classified_at": "2026-06-01T19:06:43.351022",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_491.html"
   },
   {
     "id": "deq_incident_498",
@@ -8696,7 +8871,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Uintah Co - Diesel Spill 50 Gallons"
     },
-    "classified_at": "2026-06-01T19:06:43.351134"
+    "classified_at": "2026-06-01T19:06:43.351134",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_498.html"
   },
   {
     "id": "deq_incident_499",
@@ -8746,7 +8922,8 @@
       "nearest_city": "Roosevelt",
       "title_eventname": "Western Petroleum (Joey Cupp) (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.351157"
+    "classified_at": "2026-06-01T19:06:43.351157",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_499.html"
   },
   {
     "id": "deq_incident_500",
@@ -8794,7 +8971,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Roosevelt ITL Production Water Dumping."
     },
-    "classified_at": "2026-06-01T19:06:43.351172"
+    "classified_at": "2026-06-01T19:06:43.351172",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_500.html"
   },
   {
     "id": "deq_incident_501",
@@ -8844,7 +9022,8 @@
       "nearest_city": "MAESER",
       "title_eventname": "Uintah County/sump sludge"
     },
-    "classified_at": "2026-06-01T19:06:43.351199"
+    "classified_at": "2026-06-01T19:06:43.351199",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_501.html"
   },
   {
     "id": "deq_incident_502",
@@ -8894,7 +9073,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Used Engine Gear Oil Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.351328"
+    "classified_at": "2026-06-01T19:06:43.351328",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_502.html"
   },
   {
     "id": "deq_incident_505",
@@ -8944,7 +9124,8 @@
       "nearest_city": "BONANZA",
       "title_eventname": "Roosevelt - Condensate release"
     },
-    "classified_at": "2026-06-01T19:06:43.351375"
+    "classified_at": "2026-06-01T19:06:43.351375",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_505.html"
   },
   {
     "id": "deq_incident_510",
@@ -8994,7 +9175,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Levi Smuin (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.351458"
+    "classified_at": "2026-06-01T19:06:43.351458",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_510.html"
   },
   {
     "id": "deq_incident_511",
@@ -9044,7 +9226,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.351481"
+    "classified_at": "2026-06-01T19:06:43.351481",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_511.html"
   },
   {
     "id": "deq_incident_512",
@@ -9092,7 +9275,8 @@
       "nearest_city": "UINTAH",
       "title_eventname": "Natural Gas Release - Uintah Co."
     },
-    "classified_at": "2026-06-01T19:06:43.351509"
+    "classified_at": "2026-06-01T19:06:43.351509",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_512.html"
   },
   {
     "id": "deq_incident_513",
@@ -9140,7 +9324,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Uintah County Production Water Spill"
     },
-    "classified_at": "2026-06-01T19:06:43.351521"
+    "classified_at": "2026-06-01T19:06:43.351521",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_513.html"
   },
   {
     "id": "deq_incident_515",
@@ -9188,7 +9373,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne County - Treated Injection Water Release"
     },
-    "classified_at": "2026-06-01T19:06:43.351549"
+    "classified_at": "2026-06-01T19:06:43.351549",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_515.html"
   },
   {
     "id": "deq_incident_516",
@@ -9236,7 +9422,8 @@
       "nearest_city": "HANNA",
       "title_eventname": "Duchesne Co - Diesel 30 Gallons"
     },
-    "classified_at": "2026-06-01T19:06:43.351564"
+    "classified_at": "2026-06-01T19:06:43.351564",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_516.html"
   },
   {
     "id": "deq_incident_517",
@@ -9286,7 +9473,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.351576"
+    "classified_at": "2026-06-01T19:06:43.351576",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_517.html"
   },
   {
     "id": "deq_incident_518",
@@ -9336,7 +9524,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Newton Gas (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.351605"
+    "classified_at": "2026-06-01T19:06:43.351605",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_518.html"
   },
   {
     "id": "deq_incident_519",
@@ -9386,7 +9575,8 @@
       "nearest_city": "VERNAL",
       "title_eventname": "Kerr-McGee (c/o haul Contractor to be determined) (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.351626"
+    "classified_at": "2026-06-01T19:06:43.351626",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_519.html"
   },
   {
     "id": "deq_incident_520",
@@ -9434,7 +9624,8 @@
       "nearest_city": "MYTON",
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
-    "classified_at": "2026-06-01T19:06:43.351636"
+    "classified_at": "2026-06-01T19:06:43.351636",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_520.html"
   },
   {
     "id": "deq_incident_523",
@@ -9484,7 +9675,8 @@
       "nearest_city": "ROOSEVELT",
       "title_eventname": "Rosevelt Top Stop Release"
     },
-    "classified_at": "2026-06-01T19:06:43.351698"
+    "classified_at": "2026-06-01T19:06:43.351698",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_523.html"
   },
   {
     "id": "deq_incident_524",
@@ -9534,6 +9726,7 @@
       "nearest_city": "Vernal",
       "title_eventname": "Utah Power & Light (Null RP Substituted)"
     },
-    "classified_at": "2026-06-01T19:06:43.351725"
+    "classified_at": "2026-06-01T19:06:43.351725",
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_524.html"
   }
 ]

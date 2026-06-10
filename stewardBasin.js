@@ -11,6 +11,16 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors",
 }).addTo(map);
 
+map.scrollWheelZoom.disable();
+
+map.on("click", function () {
+  map.scrollWheelZoom.enable();
+});
+
+map.on("mouseout", function () {
+  map.scrollWheelZoom.disable();
+});
+
 // =======================
 // PARCEL LAYER
 // =======================
@@ -426,12 +436,8 @@ safeFetchJson("geoJson/facilities.geojson", "Facilities GeoJSON")
   .then((data) => {
     facilitiesGeoJsonLayer = L.geoJSON(data, {
       pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, {
-          radius: 8,
-          color: "purple",
-          fillColor: "yellow",
-          fillOpacity: 0.8,
-          weight: 2,
+        return L.marker(latlng, {
+          icon: makeFacilityIcon(),
         });
       },
 
@@ -452,29 +458,283 @@ safeFetchJson("geoJson/facilities.geojson", "Facilities GeoJSON")
   })
   .catch((error) => console.error("Facilities loading error:", error));
 
-// =======================
+function makeNumberedComplaintIcon(count) {
+  return L.divIcon({
+    className: "complaint-count-icon",
+    html: `<div>${count}</div>`,
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -14],
+  });
+}
+
+function makeComplaintGroupIcon(count) {
+  return L.divIcon({
+    className: "complaint-group-icon",
+    html: `
+      <div class="complaint-group-button">
+        <span class="complaint-group-symbol">📢</span>
+        <span class="complaint-group-count">${count}</span>
+      </div>
+    `,
+    iconSize: [58, 58],
+    iconAnchor: [29, 29],
+    popupAnchor: [0, -26],
+  });
+}
+
+function makeAQMonitorIcon() {
+  return L.divIcon({
+    className: "map-emoji-icon",
+    html: `<div>🌤️</div>`,
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -12],
+  });
+}
+
+function makeComplaintIcon() {
+  return L.divIcon({
+    className: "map-emoji-icon",
+    html: `<div>📢</div>`,
+    iconSize: [22, 22],
+    iconAnchor: [11, 11],
+    popupAnchor: [0, -10],
+  });
+}
+
+function makeH2SIcon() {
+  return L.divIcon({
+    className: "map-emoji-icon",
+    html: `<div>☣️</div>`,
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -12],
+  });
+}
+
+function makeWellIcon() {
+  return L.divIcon({
+    className: "map-emoji-icon",
+    html: `<div>🏗️</div>`,
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -12],
+  });
+}
+
+function makeFacilityIcon() {
+  return L.divIcon({
+    className: "map-emoji-icon",
+    html: `<div>🏭</div>`,
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -12],
+  });
+}
+
+function getIncidentEmoji(category, summary = "", title = "") {
+  const text =
+    `${category || ""} ${summary || ""} ${title || ""}`.toLowerCase();
+
+  if (text.includes("h2s") || text.includes("hydrogen sulfide")) return "☣️";
+  if (
+    text.includes("cyanobacteria") ||
+    text.includes("harmful algal") ||
+    text.includes("algal bloom")
+  )
+    return "🦠";
+
+  if (
+    text.includes("produced water") ||
+    text.includes("brine") ||
+    text.includes("wastewater") ||
+    text.includes("sewage")
+  )
+    return "💧";
+
+  if (
+    text.includes("oil") ||
+    text.includes("petroleum") ||
+    text.includes("diesel") ||
+    text.includes("fuel") ||
+    text.includes("burner fuel")
+  )
+    return "⛽";
+
+  if (text.includes("flare") || text.includes("flaring")) return "🔥";
+  if (text.includes("fire") && !text.includes("fuel spill")) return "🔥";
+
+  if (
+    text.includes("chemical") ||
+    text.includes("glycol") ||
+    text.includes("solvent") ||
+    text.includes("contamination")
+  )
+    return "☣️";
+
+  if (text.includes("noncompliance") || text.includes("violation")) return "⛔";
+  if (
+    text.includes("accident") ||
+    text.includes("crash") ||
+    text.includes("failure")
+  )
+    return "💥";
+
+  return "⚠️";
+}
+
+function makeIncidentIcon(emoji = "⚠️") {
+  return L.divIcon({
+    className: "map-emoji-icon",
+    html: `<div>${emoji}</div>`,
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -12],
+  });
+}
+
+// ===========
 // COMPLAINTS
-// =======================
+// County-level complaints are represented by the Duchesne (44)
+// and Uintah (6) archive markers rather than exact map points.
+// Do not exclude needs_location_review records unless duplicate
+// markers begin appearing.
+// ===========
 
 safeFetchJson("archive/data/complaints.json", "Complaints")
-  .then((complaints) => {
+  .then((loadedComplaints) => {
+    let complaints = loadedComplaints.filter(
+      (complaint) => !complaint.exclude_from_map,
+    );
+
     console.log("Complaints loaded:", complaints);
+
+    const complaintsButton = document.getElementById("complaintsButton");
+    if (complaintsButton) {
+      complaintsButton.textContent = `Complaints (${complaints.length})`;
+    }
+
+    const countyComplaintGroups = {};
+
+    complaints.forEach((complaint) => {
+      const county = (complaint.county || "Unknown").toUpperCase();
+
+      if (!countyComplaintGroups[county]) {
+        countyComplaintGroups[county] = [];
+      }
+
+      countyComplaintGroups[county].push(complaint);
+    });
+
+    const countyComplaintMarkers = {
+      DUCHESNE: {
+        lat: 40.255,
+        lng: -110.72,
+        label: "Duchesne County Reported Complaints",
+      },
+      UINTAH: {
+        lat: 40.62,
+        lng: -109.42,
+        label: "Uintah County Reported Complaints",
+      },
+    };
+
+    Object.entries(countyComplaintGroups).forEach(([county, records]) => {
+      records.sort((a, b) => {
+        const yearA = Number(getYearFromDate(a.date || a.year) || 0);
+        const yearB = Number(getYearFromDate(b.date || b.year) || 0);
+        return yearB - yearA;
+      });
+
+      const markerInfo = countyComplaintMarkers[county];
+      if (!markerInfo) return;
+
+      const complaintList = records
+        .map((c, index) => {
+          return `
+            <details style="margin-bottom:8px;">
+              <summary><strong>${index + 1}. ${getValue(c.type, "Environmental Complaint")}</strong> — ${getValue(c.date || c.year)}</summary>
+              <p><strong>Category:</strong> ${getValue(c.category || c.complaint_type)}</p>
+              <p><strong>Location:</strong> ${getValue(c.location_label, "County-level record; no address provided")}</p>
+              <p><strong>Source:</strong> ${getValue(c.source, "Parsed public record")}</p>
+              <p>${c.description || "No description available."}</p>
+
+${
+  c.local_source_path
+    ? `<p><a href="${c.local_source_path}" target="_blank" rel="noopener">Open complaint source record</a></p>`
+    : ""
+}
+            </details>
+          `;
+        })
+        .join("");
+
+      const popupHtml = `
+        <div style="max-width:420px; max-height:420px; overflow-y:auto;">
+          <h3>${markerInfo.label}</h3>
+          <p><strong>Total complaints:</strong> ${records.length}</p>
+          <p><em>Some records are county-level reports with no exact address provided.</em></p>
+          ${complaintList}
+        </div>
+      `;
+
+      const marker = L.marker([markerInfo.lat, markerInfo.lng], {
+        icon: makeComplaintGroupIcon(records.length),
+      }).addTo(map);
+
+      complaintMarkers.push(marker);
+      marker.stewardYear = null;
+
+      marker.bindPopup(popupHtml, { maxWidth: 460 });
+    });
+
+    const usedComplaintCoords = {};
 
     complaints.forEach((complaint) => {
       if (!complaint.lat || !complaint.lng) return;
+      if (complaint.location_confidence === "county_level_no_address_provided")
+        return;
 
-      const marker = L.marker([complaint.lat, complaint.lng]).addTo(map);
+      const key = `${complaint.lat},${complaint.lng}`;
+      usedComplaintCoords[key] = (usedComplaintCoords[key] || 0) + 1;
+
+      const offsetIndex = usedComplaintCoords[key] - 1;
+      const offsetAmount = 0.006;
+
+      const latOffset = Math.sin(offsetIndex * 2.1) * offsetAmount;
+      const lngOffset = Math.cos(offsetIndex * 2.1) * offsetAmount;
+
+      const marker = L.marker(
+        [Number(complaint.lat) + latOffset, Number(complaint.lng) + lngOffset],
+        { icon: makeComplaintIcon() },
+      ).addTo(map);
+
       complaintMarkers.push(marker);
+      marker.stewardYear = getYearFromDate(complaint.date || complaint.year);
 
       marker.bindPopup(`
-        <strong>${getValue(complaint.type, "Complaint")}</strong><br><br>
-        ${complaint.description || ""}<br><br>
-        <strong>Date:</strong> ${getValue(complaint.date)}<br>
-        <strong>County:</strong> ${getValue(complaint.county)}<br>
-        <strong>Source:</strong> ${getValue(complaint.source)}<br>
-        <strong>Category:</strong> ${getValue(complaint.category)}<br>
-        <strong>Industry:</strong> ${getValue(complaint.industry)}
-      `);
+  <strong>${getValue(complaint.type, "Complaint")}</strong><br><br>
+
+  <strong>Date:</strong> ${getValue(complaint.date || complaint.year)}<br>
+
+  <strong>County:</strong> ${getValue(complaint.county)}<br>
+
+  <strong>Source:</strong> ${getValue(complaint.source)}<br>
+
+  <strong>Category:</strong> ${getValue(complaint.category)}<br>
+
+  <strong>Location:</strong> ${getValue(
+    complaint.location_label,
+    "Approximate location",
+  )}<br><br>
+
+  ${
+    complaint.local_source_path
+      ? `<a href="${complaint.local_source_path}" target="_blank" rel="noopener">Open complaint source record</a>`
+      : ""
+  }
+`);
     });
 
     buildComplaintChart(complaints);
@@ -487,17 +747,18 @@ safeFetchJson("archive/data/complaints.json", "Complaints")
 // HISTORICAL DEQ INCIDENTS 2006-2015
 // =======================
 
-function getHistoricalDEQColor(type) {
-  if (type === "Produced Water Release") return "#b084cc";
-  if (type === "Oil Spill") return "#8d6e63";
-  if (type === "H2S Release") return "#d98880";
-  if (type === "Chemical Release") return "#bb8fce";
-  if (type === "Hydraulic Oil Leak") return "#a29bfe";
-  if (type === "Wastewater Release") return "#85c1e9";
-  if (type === "Mercury Incident") return "#95a5a6";
-  if (type === "Fuel Spill") return "#f5b041";
-  return "#c39bd3";
-}
+//====Changed oncce favicons were added======
+// function getHistoricalDEQColor(type) {
+//  if (type === "Produced Water Release") return "#b084cc";
+//  if (type === "Oil Spill") return "#8d6e63";
+//  if (type === "H2S Release") return "#d98880";
+//  if (type === "Chemical Release") return "#bb8fce";
+//  if (type === "Hydraulic Oil Leak") return "#a29bfe";
+//  if (type === "Wastewater Release") return "#85c1e9";
+//  if (type === "Mercury Incident") return "#95a5a6";
+//  if (type === "Fuel Spill") return "#f5b041";
+//  return "#c39bd3";
+//}
 
 safeFetchJson(
   "archive/data/deq_incidents_pre2016.json",
@@ -509,28 +770,37 @@ safeFetchJson(
     incidents.forEach((incident) => {
       if (!incident.lat || !incident.lng) return;
 
-      const color = getHistoricalDEQColor(incident.type);
-
-      const marker = L.circleMarker([incident.lat, incident.lng], {
-        radius: 4,
-        color,
-        fillColor: color,
-        fillOpacity: 0.4,
-        weight: 1,
-      });
+      const marker = L.marker([incident.lat, incident.lng], {
+        icon: makeIncidentIcon(
+          getIncidentEmoji(incident.type, incident.description, incident.title),
+        ),
+      }).addTo(map);
 
       historicalDEQMarkers.push(marker);
+      marker.stewardYear = getYearFromDate(incident.date);
 
       marker.bindPopup(`
         <strong>DEQ Incident 2006-2015: ${getValue(incident.type, "DEQ Incident")}</strong><br><br>
         <strong>Title:</strong> ${getValue(incident.title)}<br>
         <strong>Date:</strong> ${getValue(incident.date)}<br>
         <strong>County:</strong> ${getValue(incident.county)}<br>
-        <strong>Company:</strong> ${getValue(incident.company)}<br>
-        <strong>Nearest City:</strong> ${getValue(incident.nearest_city)}<br>
-        <strong>Address/Location:</strong> ${getValue(incident.address)}<br><br>
+        <strong>Company:</strong> ${getValue(
+          incident.company || incident.responsible_party || "Unknown",
+        )}<br>
+        <strong>Nearest City:</strong> ${getValue(
+          incident.nearest_city || incident.city || "Unknown",
+        )}<br>
+        ${
+          incident.lat && incident.lng
+            ? `<strong>Coordinates:</strong> ${Number(incident.lat).toFixed(5)}, ${Number(incident.lng).toFixed(5)}<br>`
+            : ""
+        }
         ${incident.description || ""}<br><br>
-        <strong>Source:</strong> ${getValue(incident.source)}
+        ${
+          getDEQSourceLink(incident)
+            ? `<br><a href="${getDEQSourceLink(incident)}" target="_blank" rel="noopener">${getDEQSourceLabel(incident)}</a>`
+            : ""
+        }
       `);
     });
   })
@@ -538,7 +808,41 @@ safeFetchJson(
     console.error("DEQ historical incident loading error:", error),
   );
 
-// =======================
+function getDEQSourceLabel(incident) {
+  if (incident.source_pdf_url) return "Open DEQ report PDF";
+  if (incident.archive_pdf_path) return "Open archived DEQ details";
+  if (incident.local_source_path) return "Open local archive source";
+  if (incident.map_url) return "Open DEQ map location";
+  if (incident.source_url) return "Open DEQ source record";
+  return "Open source record";
+}
+
+function getDEQSourceLink(incident) {
+  const reportId = String(
+    incident.derrid ||
+      incident.raw_record?.derrid ||
+      incident.raw_record?.id ||
+      "",
+  );
+
+  if (incident.source_pdf_url) return incident.source_pdf_url;
+  if (incident.archive_pdf_path) return incident.archive_pdf_path;
+  if (incident.local_source_path) return incident.local_source_path;
+  if (incident.map_url) return incident.map_url;
+
+  if (
+    incident.source_url &&
+    reportId &&
+    /^\d+$/.test(reportId) &&
+    incident.source_url.includes("opendata.utah.gov/resource/sce7-b7au.json")
+  ) {
+    return `${incident.source_url}?id=${reportId}`;
+  }
+
+  return incident.source_url || "";
+}
+
+//=======================
 // DEQ INCIDENTS 2016-PRESENT
 // Includes 2016-2020 archive + 2020-2024 rebuild when promoted + 2024-2026 PDF imports
 // =======================
@@ -582,56 +886,56 @@ safeFetchJson(
         incident.type ||
         "DEQ Environmental Incident";
 
-      let color = "#6f4058";
-      let radius = 5;
       let targetArray = deqIncidentMarkers;
 
       if (year >= 2024) {
-        color = "#00bcd4"; // bright cyan for 2024-2026
-        radius = 8;
         targetArray = deq2024to2026Markers;
       } else if (year >= 2020) {
-        color = "#c96f3d"; // orange/red-rock for 2020-2023
-        radius = 7;
         targetArray = deq2020to2023Markers;
       } else {
-        color = "#6f4058"; // mauve/purple for 2016-2019
-        radius = 5;
         targetArray = deq2016to2019Markers;
       }
 
-      const marker = L.circleMarker([lat, lng], {
-        radius,
-        color,
-        fillColor: color,
-        fillOpacity: 0.75,
-        weight: 2,
+      const marker = L.marker([lat, lng], {
+        icon: makeIncidentIcon(
+          getIncidentEmoji(
+            category,
+            incident.incident_summary || incident.description,
+            incident.title_eventname || incident.name || incident.title,
+          ),
+        ),
       }).addTo(map);
 
       deqIncidentMarkers.push(marker);
       targetArray.push(marker);
 
-      if (year >= 2024) {
-        marker.bringToFront();
-      }
+      marker.stewardYear = year;
+
+      const coordsLine = incident.the_geom?.coordinates
+        ? `<strong>Coordinates:</strong> ${incident.the_geom.coordinates[1].toFixed(5)}, ${incident.the_geom.coordinates[0].toFixed(5)}<br>`
+        : "";
 
       marker.bindPopup(`
-        <strong>DEQ Incident 2016-present: ${getValue(category)}</strong><br><br>
-        <strong>Title:</strong> ${getValue(incident.title_eventname || incident.name || incident.title)}<br>
-        <strong>Report #:</strong> ${getValue(incident.derrid || incident.id)}<br>
-        <strong>Date:</strong> ${getValue(incident.date_discovered_iso || incident.date_discovered || incident.date)}<br>
-        <strong>County:</strong> ${getValue(incident.county)}<br>
-        <strong>Company:</strong> ${getValue(incident.responsible_party || incident.company)}<br>
-        <strong>Nearest City:</strong> ${getValue(incident.nearest_city)}<br>
-        <strong>Location:</strong> ${getValue(incident.address_location || incident.address)}<br><br>
-        ${incident.display_summary || incident.incident_summary || incident.description || ""}<br><br>
-        <strong>Source:</strong> ${getValue(incident.source || "Utah DEQ")}
-        ${
-          incident.source_pdf_url
-            ? `<br><a href="${incident.source_pdf_url}" target="_blank" rel="noopener">Open DEQ report PDF</a>`
-            : ""
-        }
-      `);
+  <strong>DEQ Incident 2016-present: ${getValue(category)}</strong><br><br>
+  <strong>Title:</strong> ${getValue(incident.title_eventname || incident.name || incident.title || incident.pdf_title)}<br>
+  <strong>Report #:</strong> ${getValue(incident.derrid || incident.id)}<br>
+  <strong>Date:</strong> ${getValue(incident.date_discovered_iso || incident.date_discovered || incident.date)}<br>
+  <strong>County:</strong> ${getValue(incident.county)}<br>
+  <strong>Company:</strong> ${getValue(
+    incident.responsible_party ||
+      incident.company ||
+      incident.pdf_responsible_party ||
+      incident.pdf_company ||
+      "Unknown",
+  )}<br>
+  <strong>Nearest City:</strong> ${getValue(incident.nearest_city || incident.city)}<br>
+  ${coordsLine}<br>
+  ${
+    getDEQSourceLink(incident)
+      ? `<a href="${getDEQSourceLink(incident)}" target="_blank" rel="noopener">${getDEQSourceLabel(incident)}</a>`
+      : ""
+  }
+`);
     });
   })
   .catch((error) => console.error("DEQ basin incident loading error:", error));
@@ -695,18 +999,16 @@ function buildComplaintChart(complaints) {
   });
 
   new Chart(complaintChart, {
-    type: "line",
+    type: "bar",
     data: {
       labels: labels,
       datasets: [
         {
           label: "Environmental Complaints",
           data: counts,
-          borderColor: "#ff4444",
-          backgroundColor: "rgba(255,68,68,0.2)",
-          tension: 0.3,
-          fill: true,
-          spanGaps: false,
+          backgroundColor: "rgba(201, 111, 61, 0.65)",
+          borderColor: "#c96f3d",
+          borderWidth: 1,
         },
       ],
     },
@@ -902,11 +1204,8 @@ safeFetchJson("archive/data/wells.json", "Wells")
     wells.forEach((well) => {
       if (!well.lat || !well.lng) return;
 
-      const marker = L.circleMarker([well.lat, well.lng], {
-        radius: 6,
-        color: "black",
-        fillColor: "orange",
-        fillOpacity: 0.8,
+      const marker = L.marker([well.lat, well.lng], {
+        icon: makeWellIcon(),
       }).addTo(map);
 
       wellMarkers.push(marker);
@@ -933,11 +1232,8 @@ safeFetchJson("archive/data/h2s.json", "H2S")
     reports.forEach((report) => {
       if (!report.lat || !report.lng) return;
 
-      const marker = L.circleMarker([report.lat, report.lng], {
-        radius: 10,
-        color: "darkred",
-        fillColor: "red",
-        fillOpacity: 0.8,
+      const marker = L.marker([report.lat, report.lng], {
+        icon: makeH2SIcon(),
       }).addTo(map);
 
       h2sMarkers.push(marker);
@@ -1016,12 +1312,8 @@ Promise.all([
           </div>
         `;
 
-      const marker = L.circleMarker([site.lat, site.lng], {
-        radius: 9,
-        color: markerColor,
-        fillColor: markerColor,
-        fillOpacity: 0.85,
-        weight: 2,
+      const marker = L.marker([site.lat, site.lng], {
+        icon: makeAQMonitorIcon(),
       }).addTo(map);
 
       monitoringMarkers.push(marker);
@@ -1264,38 +1556,90 @@ setInterval(loadLiveAQ, 300000);
 
 //===MAP KEY LEGEND===//
 
-const mapLegend = L.control({ position: "bottomright" });
+//const mapLegend = L.control({ position: "bottomright" });
 
-mapLegend.onAdd = function () {
-  const div = L.DomUtil.create("div", "map-legend collapsed");
+//mapLegend.onAdd = function () {
+//  const div = L.DomUtil.create("div", "map-legend collapsed");
+//
+//  div.innerHTML = `
+//    <button class="legend-toggle" type="button">Map Key</button>
 
-  div.innerHTML = `
-    <button class="legend-toggle" type="button">Map Key</button>
+//    <div class="legend-content">
+//      <div><span class="legend-dot complaint-dot"></span> Complaints</div>
+//      <div><span class="legend-dot monitor-dot"></span> AQ / Water Monitors</div>
+//      <div><span class="legend-dot well-dot"></span> Wells</div>
+//      <div><span class="legend-dot facility-dot"></span> Facilities</div>
+//      <div><span class="legend-dot h2s-dot"></span> H₂S Reports</div>
+//      <div><span class="legend-dot deq-dot"></span> DEQ Incidents</div>
+//      <div><span class="legend-dot historical-deq-dot"></span> Historical DEQ</div>
+//    </div>
+//  `;
 
-    <div class="legend-content">
-      <div><span class="legend-dot complaint-dot"></span> Complaints</div>
-      <div><span class="legend-dot monitor-dot"></span> AQ / Water Monitors</div>
-      <div><span class="legend-dot well-dot"></span> Wells</div>
-      <div><span class="legend-dot facility-dot"></span> Facilities</div>
-      <div><span class="legend-dot h2s-dot"></span> H₂S Reports</div>
-      <div><span class="legend-dot deq-dot"></span> DEQ Incidents</div>
-      <div><span class="legend-dot historical-deq-dot"></span> Historical DEQ</div>
-    </div>
-  `;
+//  L.DomEvent.disableClickPropagation(div);
+//  L.DomEvent.disableScrollPropagation(div);
 
-  L.DomEvent.disableClickPropagation(div);
-  L.DomEvent.disableScrollPropagation(div);
+//  const toggle = div.querySelector(".legend-toggle");
 
-  const toggle = div.querySelector(".legend-toggle");
+//  toggle.addEventListener("click", function () {
+//div.classList.toggle("collapsed");
+//  });
 
-  toggle.addEventListener("click", function () {
-    div.classList.toggle("collapsed");
+// return div;
+//};
+
+//mapLegend.addTo(map);
+
+// =======================
+// YEAR FILTER
+// =======================
+
+function getLayerYear(marker) {
+  return marker.stewardYear || null;
+}
+
+function getAllYearFilterMarkerGroups() {
+  return [
+    complaintMarkers,
+    h2sMarkers,
+    wellMarkers,
+    monitoringMarkers,
+    deqIncidentMarkers,
+    deq2016to2019Markers,
+    deq2020to2023Markers,
+    deq2024to2026Markers,
+    historicalDEQMarkers,
+  ];
+}
+
+function applyYearFilter() {
+  const input = document.getElementById("yearFilter");
+  const selectedYear = input ? input.value.trim() : "";
+
+  if (!selectedYear) return;
+
+  getAllYearFilterMarkerGroups().forEach((group) => {
+    group.forEach((marker) => {
+      const markerYear = getLayerYear(marker);
+
+      if (!markerYear || String(markerYear) === selectedYear) {
+        marker.addTo(map);
+      } else {
+        map.removeLayer(marker);
+      }
+    });
   });
+}
 
-  return div;
-};
+function clearYearFilter() {
+  const input = document.getElementById("yearFilter");
+  if (input) input.value = "";
 
-mapLegend.addTo(map);
+  getAllYearFilterMarkerGroups().forEach((group) => {
+    group.forEach((marker) => {
+      marker.addTo(map);
+    });
+  });
+}
 
 // =======================
 // TOGGLES
@@ -1399,6 +1743,13 @@ function toggleGraphs() {
       behavior: "smooth",
     });
   }
+}
+
+function toggleMapLegendPanel() {
+  const panel = document.getElementById("mapLegendPanel");
+  if (!panel) return;
+
+  panel.classList.toggle("open");
 }
 
 // =======================
