@@ -1409,7 +1409,7 @@ function loadLiveAQ() {
       }
 
       if (aqUpdated) {
-        aqUpdated.textContent = data.updated ?? "Not updated";
+        aqUpdated.textContent = `Last updated: ${data.updated ?? "Not updated"}`;
       }
 
       if (stationReadings && monitoringSites) {
