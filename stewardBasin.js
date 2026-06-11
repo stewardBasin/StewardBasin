@@ -820,6 +820,7 @@ function getDEQSourceLabel(incident) {
 function getDEQSourceLink(incident) {
   const reportId = String(
     incident.derrid ||
+      incident.id ||
       incident.raw_record?.derrid ||
       incident.raw_record?.id ||
       "",

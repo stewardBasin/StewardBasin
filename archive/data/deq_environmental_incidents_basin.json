@@ -28,7 +28,9 @@
     "derrid": "13059",
     "nearest_city": "MYTON",
     "title_eventname": "Tri-County - Newfield treated injection water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13059.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -117,7 +119,9 @@
     "derrid": "12795",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne Treated Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12795.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -209,7 +213,9 @@
     "derrid": "12770",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal mercury",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12770.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -240,7 +246,9 @@
     "derrid": "13213",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13213.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -271,7 +279,9 @@
     "derrid": "13200",
     "nearest_city": "MYTON",
     "title_eventname": "38 Barrel Injection Water Release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13200.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -391,7 +401,9 @@
     "derrid": "12699",
     "nearest_city": "VERNAL",
     "title_eventname": "Tri County - Production water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12699.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -451,7 +463,9 @@
     "derrid": "13580",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County Gycol Leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13580.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -480,7 +494,9 @@
     "derrid": "13247",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah - Dumping Limestone",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13247.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -569,7 +585,9 @@
     "derrid": "12878",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County - Flash Fire",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12878.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -693,7 +711,9 @@
     "derrid": "12756",
     "nearest_city": "MYTON",
     "title_eventname": "Injection water spill near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12756.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -724,7 +744,9 @@
     "derrid": "13613",
     "nearest_city": "BONANZA",
     "title_eventname": "Produced water release near Bonanza",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13613.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -817,7 +839,9 @@
     "derrid": "13006",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Injection water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13006.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -848,7 +872,9 @@
     "derrid": "13792",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne County -- Glycol release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13792.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -879,7 +905,9 @@
     "derrid": "13335",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13335.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -908,7 +936,9 @@
     "derrid": "12982",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne County - Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12982.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -939,7 +969,9 @@
     "derrid": "13903",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13903.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -970,7 +1002,9 @@
     "derrid": "13248",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Uintah County -- Illegal disposal of drilling mud",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13248.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1001,7 +1035,9 @@
     "derrid": "13055",
     "nearest_city": "TALMAGE",
     "title_eventname": "Duchesne County -- Production Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13055.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1152,7 +1188,9 @@
     "derrid": "13689",
     "nearest_city": "MYTON",
     "title_eventname": "Uintah County - Production Water/Crude",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13689.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1212,7 +1250,9 @@
     "derrid": "13800",
     "nearest_city": "IOKA",
     "title_eventname": "Duchesne -- Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13800.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1243,7 +1283,9 @@
     "derrid": "13726",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13726.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1303,7 +1345,9 @@
     "derrid": "13236",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Production Water Spill Hwy 40 Roosevelt",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13236.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1365,7 +1409,9 @@
     "derrid": "13286",
     "nearest_city": "MYTON",
     "title_eventname": "2nd Injection Water Water Spill in Duchesne Co.",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13286.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1427,7 +1473,9 @@
     "derrid": "12595",
     "nearest_city": "MYTON",
     "title_eventname": "Production Water Release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12595.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1487,7 +1535,9 @@
     "derrid": "12539",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt Production Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12539.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1547,7 +1597,9 @@
     "derrid": "13619",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt -- Crude oil spill of unknown origin",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13619.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1638,7 +1690,9 @@
     "derrid": "13834",
     "nearest_city": "OURAY",
     "title_eventname": "Ouray - Condensate Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13834.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1700,7 +1754,9 @@
     "derrid": "13292",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Diesel fuel spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13292.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1731,7 +1787,9 @@
     "derrid": "13053",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13053.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1760,7 +1818,9 @@
     "derrid": "13315",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13315.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1789,7 +1849,9 @@
     "derrid": "13042",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13042.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1820,7 +1882,9 @@
     "derrid": "13534",
     "nearest_city": "VERNAL",
     "title_eventname": "Hydraulic oil spill to soil near Vernal",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13534.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1851,7 +1915,9 @@
     "derrid": "13227",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Crude oil discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13227.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1911,7 +1977,9 @@
     "derrid": "13400",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Produced water and Crude Oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13400.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -1971,7 +2039,9 @@
     "derrid": "13285",
     "nearest_city": "MYTON",
     "title_eventname": "Injection water spill in Duchesne Co.",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13285.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2000,7 +2070,9 @@
     "derrid": "12712",
     "nearest_city": "MYTON",
     "title_eventname": "Myton Injection Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12712.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2031,7 +2103,9 @@
     "derrid": "13237",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Produced Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13237.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2060,7 +2134,9 @@
     "derrid": "13317",
     "nearest_city": "MYTON",
     "title_eventname": "Uintah County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13317.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2091,7 +2167,9 @@
     "derrid": "13616",
     "nearest_city": "VERNAL",
     "title_eventname": "Unitah Co - Hydraulic Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13616.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2122,7 +2200,9 @@
     "derrid": "13309",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13309.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2153,7 +2233,9 @@
     "derrid": "13482",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic fluid spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13482.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2244,7 +2326,9 @@
     "derrid": "13488",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Produced water release near Bluebell",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13488.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2275,7 +2359,9 @@
     "derrid": "12943",
     "nearest_city": "DUCHESNE",
     "title_eventname": "H2S Gas Odor - Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12943.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2304,7 +2390,9 @@
     "derrid": "13861",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne County Produced Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13861.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2426,7 +2514,9 @@
     "derrid": "12818",
     "nearest_city": "VERNAL",
     "title_eventname": "Anadarko NBU 922-31N",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12818.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2457,7 +2547,9 @@
     "derrid": "13373",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13373.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2486,7 +2578,9 @@
     "derrid": "12927",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Uintah County - Motor Oil",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12927.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2544,7 +2638,9 @@
     "derrid": "12857",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Production Water, Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12857.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2573,7 +2669,9 @@
     "derrid": "13440",
     "nearest_city": "VERNAL",
     "title_eventname": "191 Potassium Hydroxide",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13440.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2604,7 +2702,9 @@
     "derrid": "12850",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12850.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2664,7 +2764,9 @@
     "derrid": "13930",
     "nearest_city": "VERNAL",
     "title_eventname": "Produced Water & Oil - Vernal",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13930.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2724,7 +2826,9 @@
     "derrid": "12906",
     "nearest_city": "MYTON",
     "title_eventname": "Injection Water Release, Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12906.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2755,7 +2859,9 @@
     "derrid": "13088",
     "nearest_city": "VERNAL",
     "title_eventname": "Simplot Phosphates used oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13088.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2786,7 +2892,9 @@
     "derrid": "13340",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Injection water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13340.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2846,7 +2954,9 @@
     "derrid": "12973",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne Cnty - Production water leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12973.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2906,7 +3016,9 @@
     "derrid": "13590",
     "nearest_city": "OURAY",
     "title_eventname": "Ouray - Treated Injection Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13590.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2968,7 +3080,9 @@
     "derrid": "12772",
     "nearest_city": "MYTON",
     "title_eventname": "Newfield - #2 Treated Injection Line Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12772.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -2997,7 +3111,9 @@
     "derrid": "12625",
     "nearest_city": "VERNAL",
     "title_eventname": "Roosevelt Oily Production Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12625.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3028,7 +3144,9 @@
     "derrid": "13007",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Crude Oil Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13007.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3059,7 +3177,9 @@
     "derrid": "13495",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne County - Production Water/Crude Oil",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13495.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3090,7 +3210,9 @@
     "derrid": "13153",
     "nearest_city": "VERNAL",
     "title_eventname": "hydraulic oil spill near Vernal",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13153.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3119,7 +3241,9 @@
     "derrid": "13526",
     "nearest_city": "ALTAMONT",
     "title_eventname": "Duchesne Co - Produced Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13526.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3181,7 +3305,9 @@
     "derrid": "12980",
     "nearest_city": "JENSEN",
     "title_eventname": "Natural gas release in Uintah County",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12980.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3241,7 +3367,9 @@
     "derrid": "12650",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12650.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3332,7 +3460,9 @@
     "derrid": "13788",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt -- Fracking mixture spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13788.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3423,7 +3553,9 @@
     "derrid": "12938",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12938.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3454,7 +3586,9 @@
     "derrid": "13799",
     "nearest_city": "MONARCH",
     "title_eventname": "Duchesne County - Crude Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13799.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3547,7 +3681,9 @@
     "derrid": "13344",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13344.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3609,7 +3745,9 @@
     "derrid": "13262",
     "nearest_city": "MONARCH",
     "title_eventname": "Duchesne County - Crude Oil",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13262.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3702,7 +3840,9 @@
     "derrid": "12875",
     "nearest_city": "MOUNTAIN HOME",
     "title_eventname": "Duchesne County - Release of drilling fluid",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12875.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3733,7 +3873,9 @@
     "derrid": "12771",
     "nearest_city": "MYTON",
     "title_eventname": "Newfield - #1 Treated Injection Line Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12771.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3795,7 +3937,9 @@
     "derrid": "12758",
     "nearest_city": "MYTON",
     "title_eventname": "Second Injection water spill near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12758.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3824,7 +3968,9 @@
     "derrid": "12817",
     "nearest_city": "VERNAL",
     "title_eventname": "Produced/Condensate Water - Vernal",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12817.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3855,7 +4001,9 @@
     "derrid": "12958",
     "nearest_city": "VERNAL",
     "title_eventname": "Unitah Co - Hydraulic Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12958.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3886,7 +4034,9 @@
     "derrid": "13211",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County -- Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13211.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3948,7 +4098,9 @@
     "derrid": "13732",
     "nearest_city": "MT EMMONS",
     "title_eventname": "Duchesne County -- Produced Water and Glycol Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13732.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -3979,7 +4131,9 @@
     "derrid": "13739",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne - Release of Ethylene glycol",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13739.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4010,7 +4164,9 @@
     "derrid": "12568",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Release of Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12568.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4041,7 +4197,9 @@
     "derrid": "13676",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Tri-County - Treated Injection Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13676.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4101,7 +4259,9 @@
     "derrid": "13653",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Starvation Reservoir -- Possible Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13653.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4132,7 +4292,9 @@
     "derrid": "13209",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Produced water release from pipeline",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13209.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4224,7 +4386,9 @@
     "derrid": "13089",
     "nearest_city": "VERNAL",
     "title_eventname": "Matt Warner Reservoir -- Harmful Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13089.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4315,7 +4479,9 @@
     "derrid": "13210",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County -- Crude oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13210.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4346,7 +4512,9 @@
     "derrid": "12683",
     "nearest_city": "MYTON",
     "title_eventname": "NewField Treated Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12683.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4377,7 +4545,9 @@
     "derrid": "13113",
     "nearest_city": "TABIONA",
     "title_eventname": "Tabiona - Illegal construction debris dumping",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13113.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4470,7 +4640,9 @@
     "derrid": "13177",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13177.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4530,7 +4702,9 @@
     "derrid": "12989",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated injection water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12989.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4561,7 +4735,9 @@
     "derrid": "13160",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne - Treated Injection water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13160.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4652,7 +4828,9 @@
     "derrid": "12573",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt - Diesel release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12573.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4712,7 +4890,9 @@
     "derrid": "13723",
     "nearest_city": "VERNAL",
     "title_eventname": "Naples Top Stop",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13723.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4834,7 +5014,9 @@
     "derrid": "12575",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Injection Water Line",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12575.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4863,7 +5045,9 @@
     "derrid": "13024",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County Produced Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13024.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -4925,7 +5109,9 @@
     "derrid": "12569",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah Co - Treated Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12569.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5016,7 +5202,9 @@
     "derrid": "13401",
     "nearest_city": "MYTON",
     "title_eventname": "Uintah County - Produced Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13401.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5229,7 +5417,9 @@
     "derrid": "12607",
     "nearest_city": "NEOLA",
     "title_eventname": "Production water spill, Neola",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12607.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5258,7 +5448,9 @@
     "derrid": "12859",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water Release, Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12859.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5318,7 +5510,9 @@
     "derrid": "12738",
     "nearest_city": "MYTON",
     "title_eventname": "Myton treated water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12738.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5442,7 +5636,9 @@
     "derrid": "13308",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Duchesne Co - Diesel Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13308.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5473,7 +5669,9 @@
     "derrid": "13014",
     "nearest_city": "ALTAMONT",
     "title_eventname": "Duchesne County - Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13014.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5504,7 +5702,9 @@
     "derrid": "12962",
     "nearest_city": "DUCHESNE",
     "title_eventname": "25 Barrels Produced Water near Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12962.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5535,7 +5735,9 @@
     "derrid": "13297",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13297.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5566,7 +5768,9 @@
     "derrid": "13527",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne Co - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13527.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5597,7 +5801,9 @@
     "derrid": "13300",
     "nearest_city": "JENSEN",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13300.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5626,7 +5832,9 @@
     "derrid": "13617",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13617.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5657,7 +5865,9 @@
     "derrid": "13547",
     "nearest_city": "VERNAL",
     "title_eventname": "Matt Warner Reservoir -- Harmful Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13547.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5688,7 +5898,9 @@
     "derrid": "13052",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Sewage",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13052.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5719,7 +5931,9 @@
     "derrid": "13461",
     "nearest_city": "BONANZA",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13461.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5779,7 +5993,9 @@
     "derrid": "13067",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13067.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5808,7 +6024,9 @@
     "derrid": "13267",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13267.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5839,7 +6057,9 @@
     "derrid": "13047",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County - Diesel",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13047.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5901,7 +6121,9 @@
     "derrid": "13415",
     "nearest_city": "MYTON",
     "title_eventname": "30 barrels water to pond",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13415.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -5992,7 +6214,9 @@
     "derrid": "13620",
     "nearest_city": "VERNAL",
     "title_eventname": "Unitah Co - Hydraulic Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13620.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6021,7 +6245,9 @@
     "derrid": "12840",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County Produced Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12840.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6234,7 +6460,9 @@
     "derrid": "13734",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt - Diesel Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13734.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6265,7 +6493,9 @@
     "derrid": "13159",
     "nearest_city": "BONETA",
     "title_eventname": "Duchesne County -- Produced Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13159.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6356,7 +6586,9 @@
     "derrid": "12676",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duschesne Co. - Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12676.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6385,7 +6617,9 @@
     "derrid": "13015",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Water Release, Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13015.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6416,7 +6650,9 @@
     "derrid": "12985",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12985.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6507,7 +6743,9 @@
     "derrid": "12632",
     "nearest_city": "LAPOINT",
     "title_eventname": "Uintah Co - Waxy Crude",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12632.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6658,7 +6896,9 @@
     "derrid": "13284",
     "nearest_city": "TALMAGE",
     "title_eventname": "UPDATE altamont -- Diesel Fuel spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13284.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6689,7 +6929,9 @@
     "derrid": "13181",
     "nearest_city": "MYTON",
     "title_eventname": "Myton -Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13181.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6718,7 +6960,9 @@
     "derrid": "12778",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12778.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6749,7 +6993,9 @@
     "derrid": "13342",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Oil release to flare - Rooselvelt",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13342.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6838,7 +7084,9 @@
     "derrid": "13134",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13134.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6869,7 +7117,9 @@
     "derrid": "12834",
     "nearest_city": "NAPLES",
     "title_eventname": "Uintah Co. - QEP Produced Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12834.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -6900,7 +7150,9 @@
     "derrid": "13009",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13009.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7022,7 +7274,9 @@
     "derrid": "13773",
     "nearest_city": "BALLARD",
     "title_eventname": "Uintah County -- Crude oil discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13773.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7113,7 +7367,9 @@
     "derrid": "13626",
     "nearest_city": "TALMAGE",
     "title_eventname": "Talmage -- Produced Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13626.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7144,7 +7400,9 @@
     "derrid": "13376",
     "nearest_city": "JENSEN",
     "title_eventname": "Uintah county - Produced Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13376.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7175,7 +7433,9 @@
     "derrid": "13093",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Hallaburton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13093.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7206,7 +7466,9 @@
     "derrid": "13299",
     "nearest_city": "JENSEN",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13299.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7264,7 +7526,9 @@
     "derrid": "12536",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County Treated Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12536.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7386,7 +7650,9 @@
     "derrid": "13343",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13343.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7417,7 +7683,9 @@
     "derrid": "13367",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13367.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7445,7 +7713,9 @@
     "derrid": "13756",
     "nearest_city": "TABIONA",
     "title_eventname": "Tabiona Propane",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13756.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7538,7 +7808,9 @@
     "derrid": "12649",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah Co. - Crude Oil from Tanker Truck",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12649.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7569,7 +7841,9 @@
     "derrid": "13567",
     "nearest_city": "OURAY",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13567.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7600,7 +7874,9 @@
     "derrid": "13250",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Tri-County - Ethylene Glycol release from pipeline",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13250.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7629,7 +7905,9 @@
     "derrid": "13656",
     "nearest_city": "MYTON",
     "title_eventname": "Injection water spill near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13656.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7689,7 +7967,9 @@
     "derrid": "13298",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13298.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7720,7 +8000,9 @@
     "derrid": "13855",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County - Produced Water Discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13855.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7782,7 +8064,9 @@
     "derrid": "13793",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne County - Glycol release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13793.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7813,7 +8097,9 @@
     "derrid": "12611",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated injection water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12611.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7844,7 +8130,9 @@
     "derrid": "13591",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated Injection Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13591.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7902,7 +8190,9 @@
     "derrid": "13524",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Tri-County - Production water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13524.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7933,7 +8223,9 @@
     "derrid": "13588",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Oil buried in the ground",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13588.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7964,7 +8256,9 @@
     "derrid": "12612",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated water line leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12612.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -7993,7 +8287,9 @@
     "derrid": "12606",
     "nearest_city": "TALMAGE",
     "title_eventname": "Production Water Leak, Altamont",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12606.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8022,7 +8318,9 @@
     "derrid": "13568",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13568.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8051,7 +8349,9 @@
     "derrid": "13225",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County - Ethylene Glycol",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13225.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8111,7 +8411,9 @@
     "derrid": "13312",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County -- Condensate release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13312.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8142,7 +8444,9 @@
     "derrid": "13203",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Release of treated injection water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13203.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8173,7 +8477,9 @@
     "derrid": "12856",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12856.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8235,7 +8541,9 @@
     "derrid": "13110",
     "nearest_city": "VERNAL",
     "title_eventname": "Jones Hole sewage",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13110.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8266,7 +8574,9 @@
     "derrid": "13354",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13354.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8324,7 +8634,9 @@
     "derrid": "13021",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County Produced Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13021.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8355,7 +8667,9 @@
     "derrid": "13366",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13366.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8444,7 +8758,9 @@
     "derrid": "13111",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13111.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8504,7 +8820,9 @@
     "derrid": "13243",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal -- Liquid waste dumping",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13243.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8564,7 +8882,9 @@
     "derrid": "12937",
     "nearest_city": "VERNAL",
     "title_eventname": "Unitah Co - Hydraulic Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12937.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8595,7 +8915,9 @@
     "derrid": "13858",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13858.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8626,7 +8948,9 @@
     "derrid": "13890",
     "nearest_city": "TALMAGE",
     "title_eventname": "Produced water release near Talmage",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13890.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8719,7 +9043,9 @@
     "derrid": "13887",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County -- Natural gas release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13887.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8777,7 +9103,9 @@
     "derrid": "13409",
     "nearest_city": "MAESER",
     "title_eventname": "Recycled Burner Fuel Spill, near Maeser",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13409.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8808,7 +9136,9 @@
     "derrid": "13338",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13338.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8837,7 +9167,9 @@
     "derrid": "13769",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Unknown vapor discharge to air",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13769.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8866,7 +9198,9 @@
     "derrid": "13161",
     "nearest_city": "MYTON",
     "title_eventname": "Production Water Release, Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13161.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8897,7 +9231,9 @@
     "derrid": "13044",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duchesne County  -- Produced Water Discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13044.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8926,7 +9262,9 @@
     "derrid": "12636",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water Line",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12636.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -8957,7 +9295,9 @@
     "derrid": "12845",
     "nearest_city": "DUCHESNE",
     "title_eventname": "300 Barrels Produced Water Near Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12845.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9048,7 +9388,9 @@
     "derrid": "13659",
     "nearest_city": "TALMAGE",
     "title_eventname": "Produced water release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13659.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9077,7 +9419,9 @@
     "derrid": "13141",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13141.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9108,7 +9452,9 @@
     "derrid": "12971",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County Hydraulic Oil Leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12971.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9170,7 +9516,9 @@
     "derrid": "13017",
     "nearest_city": "BALLARD",
     "title_eventname": "Filtered Water Release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13017.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9263,7 +9611,9 @@
     "derrid": "13914",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic Oil",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13914.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9323,7 +9673,9 @@
     "derrid": "13444",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Salt water spill in Duchesne County",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13444.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9442,7 +9794,9 @@
     "derrid": "12629",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Roosevelt - Newfield Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12629.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9471,7 +9825,9 @@
     "derrid": "12810",
     "nearest_city": "MYTON",
     "title_eventname": "Injection Water Spill, Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12810.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9531,7 +9887,9 @@
     "derrid": "13743",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13743.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9624,7 +9982,9 @@
     "derrid": "13665",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Produced water spill near Bluebell",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13665.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9684,7 +10044,9 @@
     "derrid": "12874",
     "nearest_city": "NAPLES",
     "title_eventname": "Uintah Co. - Produced Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12874.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9715,7 +10077,9 @@
     "derrid": "13205",
     "nearest_city": "BONETA",
     "title_eventname": "Duschene County -- Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13205.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9744,7 +10108,9 @@
     "derrid": "13277",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13277.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9775,7 +10141,9 @@
     "derrid": "12546",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated Injection Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12546.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -9806,7 +10174,9 @@
     "derrid": "13353",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13353.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10124,7 +10494,9 @@
     "derrid": "12883",
     "nearest_city": "FRUITLAND",
     "title_eventname": "Mt Pacific Diesel",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12883.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10186,7 +10558,9 @@
     "derrid": "13393",
     "nearest_city": "JENSEN",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13393.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10217,7 +10591,9 @@
     "derrid": "13943",
     "nearest_city": "VERNAL",
     "title_eventname": "Zelph Calder Reservior -- Harmful Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13943.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10248,7 +10624,9 @@
     "derrid": "13953",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Pipeline leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13953.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10279,7 +10657,9 @@
     "derrid": "13952",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Pipeline leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13952.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10341,7 +10721,9 @@
     "derrid": "14254",
     "nearest_city": "JENSEN",
     "title_eventname": "UPDATE:  Jensen -- Produced water/crude oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14254.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10372,7 +10754,9 @@
     "derrid": "14045",
     "nearest_city": "VERNAL",
     "title_eventname": "HAB Warning at Matt Warner Reservoir",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14045.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10401,7 +10785,9 @@
     "derrid": "14004",
     "nearest_city": "MYTON",
     "title_eventname": "Myton -- Discharge of treated injection water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14004.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10432,7 +10818,9 @@
     "derrid": "14186",
     "nearest_city": "MYTON",
     "title_eventname": "Myton Silage",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14186.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10463,7 +10851,9 @@
     "derrid": "13958",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Diesel detected in GW above ISLs",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13958.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10492,7 +10882,9 @@
     "derrid": "13133",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13133.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10523,7 +10915,9 @@
     "derrid": "12718",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Diesel Fuel Spill 300 gal",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12718.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10616,7 +11010,9 @@
     "derrid": "14158",
     "nearest_city": "MYTON",
     "title_eventname": "Myton -- Injection Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14158.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10647,7 +11043,9 @@
     "derrid": "12524",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12524.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10678,7 +11076,9 @@
     "derrid": "14040",
     "nearest_city": "VERNAL",
     "title_eventname": "Hydraulic Fluid - Vernal",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14040.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10738,7 +11138,9 @@
     "derrid": "14007",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Pipeline leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14007.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10769,7 +11171,9 @@
     "derrid": "13971",
     "nearest_city": "UPALCO",
     "title_eventname": "UPALCO -- Produced water line leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13971.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10800,7 +11204,9 @@
     "derrid": "13226",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County -- Crude oil discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13226.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10831,7 +11237,9 @@
     "derrid": "13960",
     "nearest_city": "VERNAL",
     "title_eventname": "Unitah County Diesel Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13960.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10860,7 +11268,9 @@
     "derrid": "12872",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne Co - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12872.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10891,7 +11301,9 @@
     "derrid": "13135",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County - Hydraulic Fluid",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13135.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -10951,7 +11363,9 @@
     "derrid": "13888",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Duschene County Production Water Leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13888.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11042,7 +11456,9 @@
     "derrid": "13207",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13207.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11102,7 +11518,9 @@
     "derrid": "13112",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13112.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11224,7 +11642,9 @@
     "derrid": "14259",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County Hydraulic Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14259.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11255,7 +11675,9 @@
     "derrid": "13961",
     "nearest_city": "VERNAL",
     "title_eventname": "Matt Warner Reservoir -- Suspected Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13961.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11286,7 +11708,9 @@
     "derrid": "14035",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydrualic Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14035.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11315,7 +11739,9 @@
     "derrid": "13951",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Bluebell -- Unpermitted oil waste land farm",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13951.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11346,7 +11772,9 @@
     "derrid": "14205",
     "nearest_city": "MT EMMONS",
     "title_eventname": "Mt. Emmons -- Produced water line leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14205.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11410,7 +11838,9 @@
     "derrid": "12986",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12986.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11439,7 +11869,9 @@
     "derrid": "13683",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Duchesne County - Production Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13683.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11470,7 +11902,9 @@
     "derrid": "13889",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Produced water release near Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13889.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11530,7 +11964,9 @@
     "derrid": "14020",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14020.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11561,7 +11997,9 @@
     "derrid": "14100",
     "nearest_city": "ALTAMONT",
     "title_eventname": "Altamont - Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14100.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11592,7 +12030,9 @@
     "derrid": "12848",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12848.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11623,7 +12063,9 @@
     "derrid": "14023",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14023.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11652,7 +12094,9 @@
     "derrid": "13986",
     "nearest_city": "MYTON",
     "title_eventname": "Injection water release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13986.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11683,7 +12127,9 @@
     "derrid": "13931",
     "nearest_city": "TALMAGE",
     "title_eventname": "*DRILL ONLY*  Duchesne -- Crude oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13931.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11712,7 +12158,9 @@
     "derrid": "12876",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12876.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11743,7 +12191,9 @@
     "derrid": "13751",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13751.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11838,7 +12288,9 @@
     "derrid": "13368",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Treated effluent discharge",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13368.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11867,7 +12319,9 @@
     "derrid": "13881",
     "nearest_city": "BLUEBELL",
     "title_eventname": "Produced water spill near Bluebell",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13881.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11898,7 +12352,9 @@
     "derrid": "13563",
     "nearest_city": "ALTAMONT",
     "title_eventname": "Produced Water - Altamont",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13563.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11927,7 +12383,9 @@
     "derrid": "13785",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13785.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11956,7 +12414,9 @@
     "derrid": "12747",
     "nearest_city": "MYTON",
     "title_eventname": "Treated Injection Water - Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12747.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -11985,7 +12445,9 @@
     "derrid": "13157",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13157.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12016,7 +12478,9 @@
     "derrid": "13438",
     "nearest_city": "OURAY",
     "title_eventname": "Injection water release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13438.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12074,7 +12538,9 @@
     "derrid": "12690",
     "nearest_city": "ALTAMONT",
     "title_eventname": "HCL Spill - Atlamont",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12690.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12169,7 +12635,9 @@
     "derrid": "13215",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13215.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12229,7 +12697,9 @@
     "derrid": "13987",
     "nearest_city": "MYTON",
     "title_eventname": "2nd injection water release near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13987.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12293,7 +12763,9 @@
     "derrid": "14243",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Produced Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14243.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12322,7 +12794,9 @@
     "derrid": "14224",
     "nearest_city": "DUCHESNE",
     "title_eventname": "oil on Highway 87 near Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14224.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12353,7 +12827,9 @@
     "derrid": "14119",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14119.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12384,7 +12860,9 @@
     "derrid": "14178",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Natural gas pipeline leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14178.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12444,7 +12922,9 @@
     "derrid": "12489",
     "nearest_city": "VERNAL",
     "title_eventname": "JNT production water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12489.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12597,7 +13077,9 @@
     "derrid": "13670",
     "nearest_city": "MYTON",
     "title_eventname": "Tri-County - Treated Injection Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13670.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12721,7 +13203,9 @@
     "derrid": "13980",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Produced Water and Crude Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13980.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12752,7 +13236,9 @@
     "derrid": "13166",
     "nearest_city": "MYTON",
     "title_eventname": "treated injection water spill near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13166.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12783,7 +13269,9 @@
     "derrid": "13536",
     "nearest_city": "NAPLES",
     "title_eventname": "Oil spill in Napels",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13536.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12844,7 +13332,9 @@
     "derrid": "12787",
     "nearest_city": "VERNAL",
     "title_eventname": "Duchesne County - Produced Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12787.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12875,7 +13365,9 @@
     "derrid": "13831",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13831.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -12964,7 +13456,9 @@
     "derrid": "13322",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13322.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13026,7 +13520,9 @@
     "derrid": "13525",
     "nearest_city": "VERNAL",
     "title_eventname": "Unitah Co - Hydraulic Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13525.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13055,7 +13551,9 @@
     "derrid": "12497",
     "nearest_city": "OURAY",
     "title_eventname": "Basin Condensate Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12497.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13086,7 +13584,9 @@
     "derrid": "14208",
     "nearest_city": "RANDLETT",
     "title_eventname": "Randlett -- Produced Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14208.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13150,7 +13650,9 @@
     "derrid": "13954",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Historic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13954.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13181,7 +13683,9 @@
     "derrid": "14211",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Produced Water and Crude Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14211.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13241,7 +13745,9 @@
     "derrid": "14042",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County Produced Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14042.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13305,7 +13811,9 @@
     "derrid": "14108",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne -- Injection Water Line Leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14108.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13334,7 +13842,9 @@
     "derrid": "14172",
     "nearest_city": "TABIONA",
     "title_eventname": "Tabiona Car",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14172.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13365,7 +13875,9 @@
     "derrid": "14239",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County -- Hydraulic Fluid Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14239.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13396,7 +13908,9 @@
     "derrid": "14231",
     "nearest_city": "JENSEN",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14231.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13427,7 +13941,9 @@
     "derrid": "14151",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Starvation Reservoir -- Harmful Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14151.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13491,7 +14007,9 @@
     "derrid": "14051",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Simplot Hydraulic Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14051.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13522,7 +14040,9 @@
     "derrid": "14174",
     "nearest_city": "FRUITLAND",
     "title_eventname": "Patton Diesel",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14174.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13553,7 +14073,9 @@
     "derrid": "14200",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne - Production water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14200.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13584,7 +14106,9 @@
     "derrid": "13937",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Injection water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13937.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13646,7 +14170,9 @@
     "derrid": "14219",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Production Water Release - Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14219.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13677,7 +14203,9 @@
     "derrid": "14156",
     "nearest_city": "MYTON",
     "title_eventname": "Myton -- Injection Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14156.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13708,7 +14236,9 @@
     "derrid": "14197",
     "nearest_city": "MYTON",
     "title_eventname": "Myton -- Crude oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14197.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13739,7 +14269,9 @@
     "derrid": "14152",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic fluid spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14152.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13770,7 +14302,9 @@
     "derrid": "14084",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Starvation Reservoir -- Suspected Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14084.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13801,7 +14335,9 @@
     "derrid": "14168",
     "nearest_city": "RANDLETT",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14168.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -13832,7 +14368,9 @@
     "derrid": "14095",
     "nearest_city": "UPALCO",
     "title_eventname": "Big Sand Wash Reservoir -- Suspected Algal Bloom",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_14095.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14028,7 +14566,9 @@
     "derrid": "13202",
     "nearest_city": "MYTON",
     "title_eventname": "73 barrels injection water lost near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13202.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14090,7 +14630,9 @@
     "derrid": "12668",
     "nearest_city": "MYTON",
     "title_eventname": "Newfield Exploration - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12668.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14121,7 +14663,9 @@
     "derrid": "13222",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13222.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14152,7 +14696,9 @@
     "derrid": "13679",
     "nearest_city": "MYTON",
     "title_eventname": "Small Oil Spill Near Myton",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13679.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14245,7 +14791,9 @@
     "derrid": "13063",
     "nearest_city": "MYTON",
     "title_eventname": "Tri-County - Treated injection water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13063.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14274,7 +14822,9 @@
     "derrid": "12932",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Injection water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12932.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14363,7 +14913,9 @@
     "derrid": "13316",
     "nearest_city": "VERNAL",
     "title_eventname": "Uintah County -- Gas condensate release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13316.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14392,7 +14944,9 @@
     "derrid": "12773",
     "nearest_city": "FRUITLAND",
     "title_eventname": "Soldier Creek Marina - Fuel Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12773.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14421,7 +14975,9 @@
     "derrid": "12970",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County Treated Injection Water Leak",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12970.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14638,7 +15194,9 @@
     "derrid": "12945",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne - Release of Production water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12945.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14845,7 +15403,9 @@
     "derrid": "13603",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne -- Produced water spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13603.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14905,7 +15465,9 @@
     "derrid": "13876",
     "nearest_city": "ROOSEVELT",
     "title_eventname": "Oil Production Produced Water Spill - Roosevelt",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13876.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14936,7 +15498,9 @@
     "derrid": "13776",
     "nearest_city": "BONANZA",
     "title_eventname": "Uintah County -- Methanol release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13776.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -14996,7 +15560,9 @@
     "derrid": "13574",
     "nearest_city": "JENSEN",
     "title_eventname": "Uintah County -- Produced water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13574.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15025,7 +15591,9 @@
     "derrid": "13103",
     "nearest_city": "OURAY",
     "title_eventname": "Uintah County Produced Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13103.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15056,7 +15624,9 @@
     "derrid": "13596",
     "nearest_city": "MYTON",
     "title_eventname": "Myton - Treated Injection Water release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13596.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15087,7 +15657,9 @@
     "derrid": "13266",
     "nearest_city": "CEDARVIEW",
     "title_eventname": "UPDATE Duchesne County -- Crude oil mist",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13266.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15118,7 +15690,9 @@
     "derrid": "13857",
     "nearest_city": "OURAY",
     "title_eventname": "Randlett --Crude Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13857.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15149,7 +15723,9 @@
     "derrid": "13341",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13341.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15333,7 +15909,9 @@
     "derrid": "12913",
     "nearest_city": "VERNAL",
     "title_eventname": "50 Gallons Hydraulic Spill at Simplot",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12913.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15362,7 +15940,9 @@
     "derrid": "13842",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County Treated Injection Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13842.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15424,7 +16004,9 @@
     "derrid": "13369",
     "nearest_city": "VERNAL",
     "title_eventname": "Uinta County - Hydraulic Oil Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13369.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15455,7 +16037,9 @@
     "derrid": "13695",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil release at Simplot",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13695.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15484,7 +16068,9 @@
     "derrid": "13558",
     "nearest_city": "ALTAMONT",
     "title_eventname": "Altamont - Used oil release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13558.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15513,7 +16099,9 @@
     "derrid": "13050",
     "nearest_city": "MYTON",
     "title_eventname": "Duchesne County - Treated Injection Water",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13050.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15664,7 +16252,9 @@
     "derrid": "13808",
     "nearest_city": "VERNAL",
     "title_eventname": "Vernal - Hydraulic oil at Simplot",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13808.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15873,7 +16463,9 @@
     "derrid": "12911",
     "nearest_city": "DUCHESNE",
     "title_eventname": "EP EnergyRelease, near Duchesne",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12911.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
@@ -15902,7 +16494,9 @@
     "derrid": "12852",
     "nearest_city": "ALTAMONT",
     "title_eventname": "Altamont - Propylene glycol spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_12852.html",
+    "source_url_status": "local_archive_from_deq_open_data"
   },
   {
     "the_geom": {
