@@ -685,6 +685,12 @@ ${
 
       complaintMarkers.push(marker);
       marker.stewardYear = null;
+      marker.stewardRecord = {
+        county: county,
+        type: "County Complaint Archive",
+      };
+
+      marker.stewardLayer = "complaint";
 
       marker.bindPopup(popupHtml, { maxWidth: 460 });
     });
@@ -713,7 +719,11 @@ ${
       complaintMarkers.push(marker);
       marker.stewardYear = getYearFromDate(complaint.date || complaint.year);
 
+      marker.stewardRecord = complaint;
+      marker.stewardLayer = "complaint";
+
       marker.bindPopup(`
+
   <strong>${getValue(complaint.type, "Complaint")}</strong><br><br>
 
   <strong>Date:</strong> ${getValue(complaint.date || complaint.year)}<br>
@@ -779,6 +789,9 @@ safeFetchJson(
       historicalDEQMarkers.push(marker);
       marker.stewardYear = getYearFromDate(incident.date);
 
+      marker.stewardRecord = incident;
+      marker.stewardLayer = "historical_deq";
+
       marker.bindPopup(`
         <strong>DEQ Incident 2006-2015: ${getValue(incident.type, "DEQ Incident")}</strong><br><br>
         <strong>Title:</strong> ${getValue(incident.title)}<br>
@@ -809,8 +822,8 @@ safeFetchJson(
   );
 
 function getDEQSourceLabel(incident) {
-  if (incident.source_pdf_url) return "Open DEQ report PDF";
-  if (incident.archive_pdf_path) return "Open archived DEQ details";
+  if (incident.source_pdf_url) return "Open DEQ report PDF report";
+  if (incident.archive_pdf_path) return "Open archived DEQ report PDF";
   if (incident.local_source_path) return "Open local archive source";
   if (incident.map_url) return "Open DEQ map location";
   if (incident.source_url) return "Open DEQ source record";
@@ -911,6 +924,8 @@ safeFetchJson(
       targetArray.push(marker);
 
       marker.stewardYear = year;
+      marker.stewardRecord = incident;
+      marker.stewardLayer = "deq_incident";
 
       const coordsLine = incident.the_geom?.coordinates
         ? `<strong>Coordinates:</strong> ${incident.the_geom.coordinates[1].toFixed(5)}, ${incident.the_geom.coordinates[0].toFixed(5)}<br>`
@@ -1210,6 +1225,8 @@ safeFetchJson("archive/data/wells.json", "Wells")
       }).addTo(map);
 
       wellMarkers.push(marker);
+      marker.stewardRecord = well;
+      marker.stewardLayer = "well";
 
       marker.bindPopup(`
         <strong>${getValue(well.name, "Well")}</strong><br><br>
@@ -1238,6 +1255,8 @@ safeFetchJson("archive/data/h2s.json", "H2S")
       }).addTo(map);
 
       h2sMarkers.push(marker);
+      marker.stewardRecord = report;
+      marker.stewardLayer = "h2s";
 
       marker.bindPopup(`
         <strong>${getValue(report.type, "H2S Report")}</strong><br><br>
@@ -1318,6 +1337,8 @@ Promise.all([
       }).addTo(map);
 
       monitoringMarkers.push(marker);
+      marker.stewardRecord = site;
+      marker.stewardLayer = "monitoring";
 
       marker.bindPopup(`
         <strong>${getValue(site.name, "Monitoring Site")}</strong><br><br>

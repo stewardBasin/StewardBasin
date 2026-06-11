@@ -12,9 +12,10 @@
     "industry": "Oil & Gas",
     "verification": "Documented",
     "local_source_path": "archive/sources/complaint_records/001_complaint_001.html",
-    "source_file": "Steward Basin curated complaint archive",
-    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
-    "source_confidence": "needs_source_review"
+    "source_file": "5-1-24-Final-MGedits.txt",
+    "source_note": "Matched to Duchesne County Planning Commission transcript from May 1, 2024. Transcript includes Hobart Willis testimony about 50 hertz vibration and Guy Taylor testimony about 94\u201396 dB flare whistling.",
+    "source_confidence": "matched",
+    "source_url": "source_2024_05_01_duchesne_pc_transcript.html"
   },
   {
     "type": "Flare Noise Complaint",
@@ -29,9 +30,10 @@
     "industry": "Oil & Gas",
     "verification": "Documented",
     "local_source_path": "archive/sources/complaint_records/002_complaint_002.html",
-    "source_file": "Steward Basin curated complaint archive",
-    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
-    "source_confidence": "needs_source_review"
+    "source_file": "5-1-24-Final-MGedits.txt",
+    "source_note": "Matched to Duchesne County Planning Commission transcript from May 1, 2024. Transcript includes Hobart Willis testimony about 50 hertz vibration and Guy Taylor testimony about 94\u201396 dB flare whistling.",
+    "source_confidence": "matched",
+    "source_url": "source_2024_05_01_duchesne_pc_transcript.html"
   },
   {
     "type": "Air Quality Complaint",
@@ -270,9 +272,10 @@
     "location_confidence": "approximate",
     "verified": true,
     "local_source_path": "archive/sources/complaint_records/016_complaint_2024_guy_taylor_flare_noise.html",
-    "source_file": "Steward Basin curated complaint archive",
-    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
-    "source_confidence": "needs_source_review"
+    "source_file": "5-1-24-Final-MGedits.txt",
+    "source_note": "Matched to Duchesne County Planning Commission transcript from May 1, 2024. Transcript includes Hobart Willis testimony about 50 hertz vibration and Guy Taylor testimony about 94\u201396 dB flare whistling.",
+    "source_confidence": "matched",
+    "source_url": "source_2024_05_01_duchesne_pc_transcript.html"
   },
   {
     "id": "complaint_2023_higley_lamb_road_haul_route",
@@ -952,16 +955,17 @@
     "source": "Parsed public record",
     "source_file": "00003652.txt",
     "speaker": "Public record / needs review",
-    "category": "Dust / PM10",
+    "category": "Research / Policy Archive",
     "industry": "",
     "location_label": "",
     "location_confidence": "needs_location_review",
     "map_ready": false,
-    "verification": "Candidate - needs human review",
+    "verification": "Needs review - important source excerpt but not a direct complaint",
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/045_verified_candidate_0045.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://le.utah.gov/interim/2025/pdf/00003652.pdf"
+    "source_url": "https://le.utah.gov/interim/2025/pdf/00003652.pdf",
+    "source_confidence": "mismatch_review"
   },
   {
     "id": "verified_candidate_0046",
