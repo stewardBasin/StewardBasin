@@ -96,6 +96,7 @@ for i, r in enumerate(records, start=1):
   <h2>Source Information</h2>
   <p><strong>Source type:</strong> Parsed public record / public meeting record.</p>
   <p><strong>Source file:</strong> {esc(r.get("source_file"))}</p>
+  {f'<p><strong>Source note:</strong> {esc(r.get("source_note"))}</p>' if r.get("source_note") else ''}
   {original_link}
 </body>
 </html>
