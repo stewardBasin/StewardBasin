@@ -52,3 +52,22 @@ debug_*.txt
 
 # Temporary test files
 test_*.json
+
+# Steward Basin local-only generated files
+
+# Generated DEQ source archives
+archive/sources/deq_2016_2019_records/
+
+# Local source archive experiments
+archive/sources/tmp/
+archive/sources/testing/
+
+# Temporary comparison files
+old_monitoring_sites.json
+
+# Local PowerShell mistakes / temp outputs
+ongit*
+
+# Local-only crawler/import/helper scripts
+archive/scripts/local_only/
+
