@@ -11,7 +11,10 @@
     "speaker": "Hobart Willis",
     "industry": "Oil & Gas",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/001_complaint_001.html"
+    "local_source_path": "archive/sources/complaint_records/001_complaint_001.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Flare Noise Complaint",
@@ -25,7 +28,10 @@
     "speaker": "Guy Taylor",
     "industry": "Oil & Gas",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/002_complaint_002.html"
+    "local_source_path": "archive/sources/complaint_records/002_complaint_002.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Air Quality Complaint",
@@ -39,7 +45,10 @@
     "speaker": "Anonymous",
     "industry": "Oil & Gas",
     "verification": "Community Report",
-    "local_source_path": "archive/sources/complaint_records/003_complaint_003.html"
+    "local_source_path": "archive/sources/complaint_records/003_complaint_003.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Truck Traffic Complaint",
@@ -53,7 +62,10 @@
     "speaker": "Anonymous",
     "industry": "Transportation",
     "verification": "Community Report",
-    "local_source_path": "archive/sources/complaint_records/004_complaint_004.html"
+    "local_source_path": "archive/sources/complaint_records/004_complaint_004.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Road Dust Complaint",
@@ -67,7 +79,10 @@
     "speaker": "Anonymous",
     "industry": "Oil & Gas",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/005_complaint_005.html"
+    "local_source_path": "archive/sources/complaint_records/005_complaint_005.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Compressor Station Noise",
@@ -81,7 +96,10 @@
     "speaker": "Resident Testimony",
     "industry": "Oil & Gas",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/006_complaint_006.html"
+    "local_source_path": "archive/sources/complaint_records/006_complaint_006.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Flaring Complaint",
@@ -95,7 +113,10 @@
     "speaker": "Anonymous",
     "industry": "Oil & Gas",
     "verification": "Community Report",
-    "local_source_path": "archive/sources/complaint_records/007_complaint_007.html"
+    "local_source_path": "archive/sources/complaint_records/007_complaint_007.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Heavy Truck Complaint",
@@ -109,7 +130,10 @@
     "speaker": "Community Member",
     "industry": "Transportation",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/008_complaint_008.html"
+    "local_source_path": "archive/sources/complaint_records/008_complaint_008.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Sand Pit Dust Complaint",
@@ -123,7 +147,10 @@
     "speaker": "Resident Testimony",
     "industry": "Mining",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/009_complaint_009.html"
+    "local_source_path": "archive/sources/complaint_records/009_complaint_009.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Gravel Pit Truck Dust",
@@ -137,7 +164,10 @@
     "speaker": "Anonymous",
     "industry": "Aggregate Mining",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/010_complaint_010.html"
+    "local_source_path": "archive/sources/complaint_records/010_complaint_010.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Industrial Dust Complaint",
@@ -151,7 +181,10 @@
     "speaker": "Community Member",
     "industry": "Industrial Development",
     "verification": "Community Report",
-    "local_source_path": "archive/sources/complaint_records/011_complaint_011.html"
+    "local_source_path": "archive/sources/complaint_records/011_complaint_011.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Sand Mine Noise & Dust",
@@ -165,7 +198,10 @@
     "speaker": "Resident Testimony",
     "industry": "Mining",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/012_complaint_012.html"
+    "local_source_path": "archive/sources/complaint_records/012_complaint_012.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Hydrogen Sulfide Odor Complaint",
@@ -179,7 +215,10 @@
     "speaker": "Anonymous",
     "industry": "Oil & Gas",
     "verification": "Community Report",
-    "local_source_path": "archive/sources/complaint_records/013_complaint_013.html"
+    "local_source_path": "archive/sources/complaint_records/013_complaint_013.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Landfill Odor Complaint",
@@ -193,7 +232,10 @@
     "speaker": "Anonymous",
     "industry": "Waste Management",
     "verification": "Community Report",
-    "local_source_path": "archive/sources/complaint_records/014_complaint_014.html"
+    "local_source_path": "archive/sources/complaint_records/014_complaint_014.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "type": "Mosquito Abatement Chemical Complaint",
@@ -207,7 +249,10 @@
     "speaker": "Resident Testimony",
     "industry": "Mosquito Abatement",
     "verification": "Documented",
-    "local_source_path": "archive/sources/complaint_records/015_complaint_015.html"
+    "local_source_path": "archive/sources/complaint_records/015_complaint_015.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "id": "complaint_2024_guy_taylor_flare_noise",
@@ -224,7 +269,10 @@
     "industry": "Oil & Gas",
     "location_confidence": "approximate",
     "verified": true,
-    "local_source_path": "archive/sources/complaint_records/016_complaint_2024_guy_taylor_flare_noise.html"
+    "local_source_path": "archive/sources/complaint_records/016_complaint_2024_guy_taylor_flare_noise.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "id": "complaint_2023_higley_lamb_road_haul_route",
@@ -241,7 +289,10 @@
     "industry": "Sand & Gravel",
     "location_confidence": "approximate",
     "verified": true,
-    "local_source_path": "archive/sources/complaint_records/017_complaint_2023_higley_lamb_road_haul_route.html"
+    "local_source_path": "archive/sources/complaint_records/017_complaint_2023_higley_lamb_road_haul_route.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "id": "complaint_2016_quarry_dust_control",
@@ -259,7 +310,10 @@
     "location_label": "Approximate Blue Bench / quarry corridor area",
     "location_confidence": "estimated_placeholder",
     "verified": true,
-    "local_source_path": "archive/sources/complaint_records/018_complaint_2016_quarry_dust_control.html"
+    "local_source_path": "archive/sources/complaint_records/018_complaint_2016_quarry_dust_control.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "id": "complaint_2012_pleasant_valley_crusher_dust",
@@ -276,7 +330,10 @@
     "industry": "Sand & Gravel",
     "location_confidence": "approximate_named_intersection",
     "verified": true,
-    "local_source_path": "archive/sources/complaint_records/019_complaint_2012_pleasant_valley_crusher_dust.html"
+    "local_source_path": "archive/sources/complaint_records/019_complaint_2012_pleasant_valley_crusher_dust.html",
+    "source_file": "Steward Basin curated complaint archive",
+    "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
+    "source_confidence": "needs_source_review"
   },
   {
     "id": "verified_candidate_0020",
