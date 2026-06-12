@@ -3096,7 +3096,10 @@
     "derrid": "4919",
     "nearest_city": "Vernal",
     "title_eventname": "Unknown (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=4919"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=4919",
+    "local_source_path": "archive/extracted_text/legacy/s1921.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -4579,7 +4582,10 @@
     "derrid": "6928",
     "nearest_city": "VERNAL",
     "title_eventname": "Halliburton (Dave Gurney) (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=6928"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=6928",
+    "local_source_path": "archive/extracted_text/legacy/s1929.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -5538,7 +5544,10 @@
     "derrid": "4142",
     "nearest_city": "Vernal",
     "title_eventname": "Adler Hot Oil (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=4142"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=4142",
+    "local_source_path": "archive/extracted_text/legacy/00004312.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -7110,7 +7119,9 @@
     "derrid": "13919",
     "nearest_city": "ERDA",
     "title_eventname": "Produced water release near Altamont",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=13919"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=13919",
+    "source_confidence": "opendata_url_only_no_local_archive_found",
+    "source_note": "Original Utah OpenData source URL is available, but no matching local archive page or PDF was found in current Steward Basin files."
   },
   {
     "the_geom": {
@@ -7599,7 +7610,10 @@
     "derrid": "5911",
     "nearest_city": "Vernal",
     "title_eventname": "Unknown (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=5911"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=5911",
+    "local_source_path": "archive/extracted_text/legacy/s1911.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -7859,7 +7873,10 @@
     "derrid": "2062",
     "nearest_city": "VERNAL",
     "title_eventname": "Mine Reclaim Water Release",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=2062"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=2062",
+    "local_source_path": "archive/extracted_text/legacy/00004309.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -8701,7 +8718,10 @@
     "derrid": "303",
     "nearest_city": "VERNAL",
     "title_eventname": "BASIN TRANSMISSION & ENGINE CHANGE (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=303"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=303",
+    "local_source_path": "archive/extracted_text/legacy/00004303.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -9320,7 +9340,10 @@
     "derrid": "3637",
     "nearest_city": "Vernal",
     "title_eventname": "Warner Enterprises (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=3637"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=3637",
+    "local_source_path": "archive/extracted_text/legacy/s1909.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -11345,7 +11368,10 @@
     "derrid": "3574",
     "nearest_city": "Vernal",
     "title_eventname": "Ned Mitchell Construction Company (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=3574"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=3574",
+    "local_source_path": "archive/sources/deq_2016_2019_records/deq_2016_2019_13574.html",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -11504,7 +11530,10 @@
     "derrid": "14261",
     "nearest_city": "DUCHESNE",
     "title_eventname": "Duchesne County Production Water Spill",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14261"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14261",
+    "local_source_path": "archive/extracted_text/legacy/s1955.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
@@ -15880,7 +15909,10 @@
     "derrid": "7495",
     "nearest_city": "Saratoga Springs",
     "title_eventname": "Peck  Rock (Null RP Substituted)",
-    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=7495"
+    "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=7495",
+    "local_source_path": "archive/extracted_text/legacy/s1921.txt",
+    "source_label": "Steward Basin archived DEQ open-data record",
+    "source_confidence": "matched_remaining_11_by_targeted_search"
   },
   {
     "the_geom": {
