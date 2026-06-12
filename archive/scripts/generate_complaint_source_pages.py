@@ -28,7 +28,6 @@ def slugify(value):
     value = re.sub(r"[^a-z0-9]+", "_", value)
     return value.strip("_")[:80]
 
-
 updated = 0
 
 for i, r in enumerate(records, start=1):
@@ -105,12 +104,12 @@ for i, r in enumerate(records, start=1):
     out_path.write_text(page, encoding="utf-8")
     r["local_source_path"] = str(out_path.relative_to(ROOT)).replace("\\", "/")
 
-# Only set source_url to the local generated page if there is no stronger/original source_url.
-# This avoids overwriting real county PDF links.
-if not r.get("source_url"):
-    r["source_url"] = filename
-    
-updated += 1
+    # Only set source_url to the local generated page if there is no stronger/original source_url.
+    # This avoids overwriting real county PDF links.
+    if not r.get("source_url"):
+        r["source_url"] = filename
+
+    updated += 1
 
 json.dump(records, open(JSON_PATH, "w", encoding="utf-8"), indent=2)
 
