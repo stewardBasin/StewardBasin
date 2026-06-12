@@ -822,15 +822,17 @@ safeFetchJson(
   );
 
 function getDEQSourceLabel(incident) {
-  if (incident.source_pdf_url) return "Open DEQ report PDF report";
   if (incident.archive_pdf_path) return "Open archived DEQ report PDF";
   if (incident.local_source_path) return "Open local archive source";
-  if (incident.map_url) return "Open DEQ map location";
+  if (incident.source_pdf_url) return "Open DEQ report PDF report";
   if (incident.source_url) return "Open DEQ source record";
+  if (incident.map_url) return "Open DEQ map location";
   return "Open source record";
 }
 
 function getDEQSourceLink(incident) {
+  if (!incident) return "";
+
   const reportId = String(
     incident.derrid ||
       incident.id ||
@@ -839,16 +841,17 @@ function getDEQSourceLink(incident) {
       "",
   );
 
-  if (incident.source_pdf_url) return incident.source_pdf_url;
   if (incident.archive_pdf_path) return incident.archive_pdf_path;
   if (incident.local_source_path) return incident.local_source_path;
+  if (incident.source_pdf_url) return incident.source_pdf_url;
   if (incident.map_url) return incident.map_url;
 
   if (
     incident.source_url &&
     reportId &&
     /^\d+$/.test(reportId) &&
-    incident.source_url.includes("opendata.utah.gov/resource/sce7-b7au.json")
+    incident.source_url.includes("opendata.utah.gov/resource/sce7-b7au.json") &&
+    !incident.source_url.includes("?id=")
   ) {
     return `${incident.source_url}?id=${reportId}`;
   }
