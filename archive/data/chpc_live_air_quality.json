@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 12:00 PM",
+  "updated": "2026-06-12 12:28 MDT",
   "source": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
   "stations": [
     {
@@ -12,12 +12,12 @@
       "notes": "Coordinates match Roosevelt AQ monitor area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-12 12:00 PM",
+      "updated": "2026-06-12 12:28 MDT",
       "pm25": {
-        "value": "4.30",
+        "value": "5.20",
         "unit": "ug/m3",
-        "timeLocal": "2026-06-12 11:00:00 MDT",
-        "timeUTC": "2026-06-12 17:00:00 UTC",
+        "timeLocal": "2026-06-12 12:00:00 MDT",
+        "timeUTC": "2026-06-12 18:00:00 UTC",
         "lat": "40.29430",
         "lng": "-110.009",
         "color": "#0099FF",
@@ -25,17 +25,18 @@
       },
       "pm10": null,
       "ozone": {
-        "value": "43.00",
+        "value": "56.00",
         "unit": "ppbv",
-        "timeLocal": "2026-06-12 11:00:00 MDT",
-        "timeUTC": "2026-06-12 17:00:00 UTC",
+        "timeLocal": "2026-06-12 12:00:00 MDT",
+        "timeUTC": "2026-06-12 18:00:00 UTC",
         "lat": "40.29430",
         "lng": "-110.009",
-        "color": "#009900",
+        "color": "#FFFF00",
         "source_pollutant_key": "OZNE"
       },
       "lat": "40.29430",
-      "lng": "-110.009"
+      "lng": "-110.009",
+      "data_status": "current"
     },
     {
       "station_code": "QV4",
@@ -47,12 +48,12 @@
       "notes": "Coordinates match Vernal #4 monitor area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-12 12:00 PM",
+      "updated": "2026-06-12 12:28 MDT",
       "pm25": {
-        "value": "2.60",
+        "value": "2.90",
         "unit": "ug/m3",
-        "timeLocal": "2026-06-12 11:00:00 MDT",
-        "timeUTC": "2026-06-12 17:00:00 UTC",
+        "timeLocal": "2026-06-12 12:00:00 MDT",
+        "timeUTC": "2026-06-12 18:00:00 UTC",
         "lat": "40.46472",
         "lng": "-109.56083",
         "color": "#00CCFF",
@@ -60,17 +61,18 @@
       },
       "pm10": null,
       "ozone": {
-        "value": "56.00",
+        "value": "59.00",
         "unit": "ppbv",
-        "timeLocal": "2026-06-12 11:00:00 MDT",
-        "timeUTC": "2026-06-12 17:00:00 UTC",
+        "timeLocal": "2026-06-12 12:00:00 MDT",
+        "timeUTC": "2026-06-12 18:00:00 UTC",
         "lat": "40.46472",
         "lng": "-109.56083",
         "color": "#FFFF00",
         "source_pollutant_key": "OZNE"
       },
       "lat": "40.46472",
-      "lng": "-109.56083"
+      "lng": "-109.56083",
+      "data_status": "current"
     },
     {
       "station_code": "A1388",
@@ -79,10 +81,10 @@
       "station_key": "Duchesne",
       "region": "Duchesne County",
       "confidence": "likely_coordinate_match",
-      "notes": "Coordinates place this monitor in the Duchesne/Myton corridor. Use as a regional proxy for Duchesne, Myton, and Fruitland until a separate Fruitland feed is identified.",
+      "notes": "Coordinates place this monitor in the Duchesne/Myton corridor.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-12 12:00 PM",
+      "updated": "2026-06-12 12:28 MDT",
       "pm25": null,
       "pm10": null,
       "ozone": {
@@ -96,7 +98,8 @@
         "source_pollutant_key": "OZNE"
       },
       "lat": "40.21690",
-      "lng": "-110.18230"
+      "lng": "-110.18230",
+      "data_status": "current"
     },
     {
       "station_code": "A1622",
@@ -108,7 +111,7 @@
       "notes": "Coordinates place this monitor near South Ouray / Ouray National Wildlife Refuge.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-12 12:00 PM",
+      "updated": "2026-06-12 12:28 MDT",
       "pm25": null,
       "pm10": null,
       "ozone": {
@@ -122,7 +125,8 @@
         "source_pollutant_key": "OZNE"
       },
       "lat": "40.05485",
-      "lng": "-109.68737"
+      "lng": "-109.68737",
+      "data_status": "current"
     },
     {
       "station_code": "A1386",
@@ -131,24 +135,25 @@
       "station_key": "North Uintah Basin",
       "region": "Uintah County",
       "confidence": "likely_coordinate_match",
-      "notes": "Coordinates place this monitor north of Fort Duchesne, closer to the north Uintah Basin / Whiterocks area. Do not label as Fort Duchesne.",
+      "notes": "Coordinates place this monitor north of Fort Duchesne / Whiterocks area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-12 12:00 PM",
+      "updated": "2026-06-12 12:28 MDT",
       "pm25": null,
       "pm10": null,
       "ozone": {
-        "value": "54.00",
+        "value": "63.00",
         "unit": "ppbv",
-        "timeLocal": "2026-06-12 11:00:00 MDT",
-        "timeUTC": "2026-06-12 17:00:00 UTC",
+        "timeLocal": "2026-06-12 12:00:00 MDT",
+        "timeUTC": "2026-06-12 18:00:00 UTC",
         "lat": "40.48380",
         "lng": "-109.90620",
-        "color": "#006600",
+        "color": "#FFE600",
         "source_pollutant_key": "OZNE"
       },
       "lat": "40.48380",
-      "lng": "-109.90620"
+      "lng": "-109.90620",
+      "data_status": "current"
     },
     {
       "station_code": "A1633",
@@ -157,24 +162,25 @@
       "station_key": "Uintah Basin East",
       "region": "Uintah County",
       "confidence": "needs_verification",
-      "notes": "Possible eastern Uintah Basin research site. Could be related to Horsepool/Redwash-area research monitoring, but not verified yet.",
+      "notes": "Possible eastern Uintah Basin research site related to Horsepool / Red Wash area.",
       "source": "Utah CHPC FixedSiteMapData",
       "source_url": "https://utahaq.chpc.utah.edu/jsondata/FixedSiteMapData.json",
-      "updated": "2026-06-12 12:00 PM",
+      "updated": "2026-06-12 12:28 MDT",
       "pm25": null,
       "pm10": null,
       "ozone": {
-        "value": "50.00",
+        "value": "60.00",
         "unit": "ppbv",
-        "timeLocal": "2026-06-12 11:00:00 MDT",
-        "timeUTC": "2026-06-12 17:00:00 UTC",
+        "timeLocal": "2026-06-12 12:00:00 MDT",
+        "timeUTC": "2026-06-12 18:00:00 UTC",
         "lat": "40.20443",
         "lng": "-109.35321",
-        "color": "#006600",
+        "color": "#FFE600",
         "source_pollutant_key": "OZNE"
       },
       "lat": "40.20443",
-      "lng": "-109.35321"
+      "lng": "-109.35321",
+      "data_status": "current"
     }
   ],
   "note": "CHPC values are pollutant concentrations, not AirNow AQI values. Station labels are based on coordinate matching and should retain confidence notes."
