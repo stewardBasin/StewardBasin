@@ -33,7 +33,7 @@ updated = 0
 
 for i, r in enumerate(records, start=1):
     rid = r.get("id") or r.get("complaint_id") or f"complaint_{i:03d}"
-    filename = f"{i:03d}_{slugify(rid)}.html"
+    filename = f"{slugify(rid)}.html"
     out_path = OUT / filename
 
     title = (
@@ -104,7 +104,13 @@ for i, r in enumerate(records, start=1):
 
     out_path.write_text(page, encoding="utf-8")
     r["local_source_path"] = str(out_path.relative_to(ROOT)).replace("\\", "/")
-    updated += 1
+
+# Only set source_url to the local generated page if there is no stronger/original source_url.
+# This avoids overwriting real county PDF links.
+if not r.get("source_url"):
+    r["source_url"] = filename
+
+updated += 1
 
 json.dump(records, open(JSON_PATH, "w", encoding="utf-8"), indent=2)
 
