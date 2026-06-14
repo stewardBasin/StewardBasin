@@ -752,8 +752,7 @@ ${
     loadDEQIncidentCharts();
   })
   .catch((error) => console.error("Complaint loading error:", error));
-
-// =======================
+// =======================F
 // HISTORICAL DEQ INCIDENTS 2006-2015
 // =======================
 
@@ -823,8 +822,10 @@ safeFetchJson(
 
 function getDEQSourceLabel(incident) {
   if (incident.archive_pdf_path) return "Open archived DEQ report PDF";
+  if (incident.source_pdf_url) return "Open DEQ report PDF";
+  if (incident.source_url && String(incident.source_url).endsWith(".pdf"))
+    return "Open DEQ report PDF";
   if (incident.local_source_path) return "Open local archive source";
-  if (incident.source_pdf_url) return "Open DEQ report PDF report";
   if (incident.source_url) return "Open DEQ source record";
   if (incident.map_url) return "Open DEQ map location";
   return "Open source record";
@@ -841,9 +842,15 @@ function getDEQSourceLink(incident) {
       "",
   );
 
+  // PDF FIRST — this restores the 2024–2026 behavior you liked.
   if (incident.archive_pdf_path) return incident.archive_pdf_path;
-  if (incident.local_source_path) return incident.local_source_path;
   if (incident.source_pdf_url) return incident.source_pdf_url;
+  if (incident.source_url && String(incident.source_url).endsWith(".pdf"))
+    return incident.source_url;
+
+  // Then local archive fallback.
+  if (incident.local_source_path) return incident.local_source_path;
+
   if (incident.map_url) return incident.map_url;
 
   if (
