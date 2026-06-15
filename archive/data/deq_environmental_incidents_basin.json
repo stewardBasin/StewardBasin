@@ -668,7 +668,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14376",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/4123124_Report_14376.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14376.html"
   },
   {
     "the_geom": {
@@ -702,7 +703,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14384",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/4123124_Report_14384.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14384.html"
   },
   {
     "the_geom": {
@@ -7339,7 +7341,8 @@
     "source_confidence": "opendata_url_only_no_local_archive_found",
     "source_note": "Original Utah OpenData source URL is available, but no matching local archive page or PDF was found in current Steward Basin files.",
     "source_label": "Utah DEQ open-data incident record",
-    "source_url_status": "generated_from_deq_report_id"
+    "source_url_status": "generated_from_deq_report_id",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_13919.html"
   },
   {
     "the_geom": {
@@ -10976,7 +10979,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14303",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14303.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14303.html"
   },
   {
     "the_geom": {
@@ -11043,7 +11047,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14316",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14316.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14316.html"
   },
   {
     "the_geom": {
@@ -11077,7 +11082,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14323",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14323.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14323.html"
   },
   {
     "the_geom": {
@@ -11111,7 +11117,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14322",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14322.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14322.html"
   },
   {
     "the_geom": {
@@ -11145,7 +11152,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14325",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14325.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14325.html"
   },
   {
     "the_geom": {
@@ -11179,7 +11187,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14327",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14327.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14327.html"
   },
   {
     "the_geom": {
@@ -11449,7 +11458,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14293",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14293.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14293.html"
   },
   {
     "the_geom": {
@@ -11750,7 +11760,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14297",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14297.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14297.html"
   },
   {
     "the_geom": {
@@ -12119,7 +12130,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14331",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/4123124_Report_14331.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14331.html"
   },
   {
     "the_geom": {
@@ -12218,7 +12230,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14296",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14296.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14296.html"
   },
   {
     "the_geom": {
@@ -12622,7 +12635,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14287",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14287.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14287.html"
   },
   {
     "the_geom": {
@@ -13092,7 +13106,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14299",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14299.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14299.html"
   },
   {
     "the_geom": {
@@ -13421,7 +13436,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14264",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14264.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14264.html"
   },
   {
     "the_geom": {
@@ -13591,7 +13607,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14319",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14319.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14319.html"
   },
   {
     "the_geom": {
@@ -14204,7 +14221,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14349",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14349.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14349.html"
   },
   {
     "the_geom": {
@@ -14539,7 +14557,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14310",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14310.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14310.html"
   },
   {
     "the_geom": {
@@ -14639,7 +14658,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14279",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/8143590_Report_14279.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14279.html"
   },
   {
     "the_geom": {
@@ -14705,7 +14725,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14314",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14314.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14314.html"
   },
   {
     "the_geom": {
@@ -14907,7 +14928,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14346",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14346.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14346.html"
   },
   {
     "the_geom": {
@@ -15077,7 +15099,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14334",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/4123124_Report_14334.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14334.html"
   },
   {
     "the_geom": {
@@ -15347,7 +15370,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14318",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14318.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14318.html"
   },
   {
     "the_geom": {
@@ -15381,7 +15405,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14351",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3134700_Report_14351.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14351.html"
   },
   {
     "the_geom": {
@@ -15415,7 +15440,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14358",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3784777_Report_14358.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14358.html"
   },
   {
     "the_geom": {
@@ -15449,7 +15475,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14363",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3784777_Report_14363.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14363.html"
   },
   {
     "the_geom": {
@@ -15483,7 +15510,8 @@
     "source_url": "https://opendata.utah.gov/resource/sce7-b7au.json?id=14366",
     "archive_pdf_path": "archive/sources/deq_2020_2024_pdfs/3784777_Report_14366.pdf",
     "source_label": "Archived Utah DEQ incident report PDF",
-    "source_url_status": "archived_deq_pdf_available"
+    "source_url_status": "archived_deq_pdf_available",
+    "local_source_path": "archive/sources/deq_missing_local_records/deq_missing_local_14366.html"
   },
   {
     "the_geom": {
