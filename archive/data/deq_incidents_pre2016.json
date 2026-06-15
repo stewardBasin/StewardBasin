@@ -48,7 +48,12 @@
       "title_eventname": "Treated Injection Water - Newfield - Myton"
     },
     "classified_at": "2026-06-01T19:06:43.337340",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_2.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_2.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "6e7e50f99fb3bdc4a4a915da4c608529d16bfb2964d2f1954005199bbe85ad22",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_3",
@@ -97,7 +102,12 @@
       "title_eventname": "QEP Injection well"
     },
     "classified_at": "2026-06-01T19:06:43.337362",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_3.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_3.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b1d9b4726d96b9860942a92629f48d741fe0be924f59a0516a1ddb0fc4e3d539",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_5",
@@ -147,7 +157,12 @@
       "title_eventname": "Duchesne H2S Release"
     },
     "classified_at": "2026-06-01T19:06:43.337387",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_5.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_5.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "065e1f98e473de67152f73252b38b6eba4eaed51025f0cd43ffc27ef7528b9bd",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_6",
@@ -198,7 +213,12 @@
       "title_eventname": "Duchesne Co - Crude Oil - 60 bbls"
     },
     "classified_at": "2026-06-01T19:06:43.337406",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_6.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_6.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "aa763dc472328653c0f9911fbd0f8a8ff76a546dbb4a81bcbcfc7453d273a603",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_10",
@@ -249,7 +269,12 @@
       "title_eventname": "Roosevelt City Airport - Fuel Release"
     },
     "classified_at": "2026-06-01T19:06:43.337467",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_10.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_10.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "66a6682fa1bbe69ecec22cc3e7f98e8b4a5ece269030d97086c0366cc40f5295",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_11",
@@ -300,7 +325,12 @@
       "title_eventname": "Newfield Water release"
     },
     "classified_at": "2026-06-01T19:06:43.337496",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_11.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_11.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "bc235fe7b6bdff2a1f5af94b9f47c25b79bc425477bfe59e75e42a1e295d8afa",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_12",
@@ -349,7 +379,12 @@
       "title_eventname": "Duchesne Co. - Two injection water spills"
     },
     "classified_at": "2026-06-01T19:06:43.337526",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_12.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_12.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "5c97fa323c76360ac6ad5d5993287f284dacc7d13a4cf64f82f7e0b897c79f34",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_14",
@@ -400,7 +435,12 @@
       "title_eventname": "Corrosion Inhibitor Spill"
     },
     "classified_at": "2026-06-01T19:06:43.337565",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_14.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_14.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "7396a2effb1709f5bc908478309b2671898bd9c1c557d0f18094d500ed55ea52",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_17",
@@ -449,7 +489,12 @@
       "title_eventname": "Produced water spill near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.337640",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_17.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_17.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1849e70ca2437bf311e20e7dc1730dec2c3123a5b74f8f6cc1f012b66cb5eac7",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_18",
@@ -500,7 +545,12 @@
       "title_eventname": "Simplot Phosphate Diesel Spill Uintah County"
     },
     "classified_at": "2026-06-01T19:06:43.337656",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_18.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_18.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9d954c9f2333500043cbaaf6f6acfae433ec98fd00da7e83af3e5857beace726",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_22",
@@ -549,7 +599,12 @@
       "title_eventname": "Myton Lift Station Release"
     },
     "classified_at": "2026-06-01T19:06:43.339271",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_22.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_22.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "5e42f8ffcf0ab68f85e4bf38f1aa6ba0dd7d44dd784093383dc0ec0a743e9d37",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_25",
@@ -600,7 +655,12 @@
       "title_eventname": "Production Water Spill"
     },
     "classified_at": "2026-06-01T19:06:43.339389",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_25.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_25.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fc56f5089c0515fcacd397cbf1d4293edaea6bfe8793655b4ed873a9b3324082",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_26",
@@ -651,7 +711,12 @@
       "title_eventname": "Hydrochloric Acid 28% Mix at Commercial Yard"
     },
     "classified_at": "2026-06-01T19:06:43.339431",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_26.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_26.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "6a52df60b17f43856cc7da3afcbf735abade564fbc8b1c6379ccffa27705eb7d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_34",
@@ -700,7 +765,12 @@
       "title_eventname": "Production Water Spill in Duchesne County"
     },
     "classified_at": "2026-06-01T19:06:43.339598",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_34.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_34.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "23e399d09ca5c0ed987c7cd928ee5b043e282984e6ef905a0af0ed937f0f3b46",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_35",
@@ -751,7 +821,12 @@
       "title_eventname": "Duchesne County Complaint Call"
     },
     "classified_at": "2026-06-01T19:06:43.339638",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_35.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_35.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "c5dc35801a39535de8f6dde726be30bc6a6522613ed7cdf594982a2bee661a12",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_36",
@@ -802,7 +877,12 @@
       "title_eventname": "Injection Water Release near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.339668",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_36.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_36.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ed9d42d56cdaf05fedb0cc1c23f185bfa0f641735b8d436708aa8c61a7022807",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_37",
@@ -853,7 +933,12 @@
       "title_eventname": "Uintah Co - Ethylene Glycol 1000 Gallons"
     },
     "classified_at": "2026-06-01T19:06:43.339713",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_37.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_37.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "75e875a9ff7117bf9832858dfa48fb0c9a9eed3beb7dd3dfa06269522fc90d0a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_39",
@@ -902,7 +987,12 @@
       "title_eventname": "Uintah Co - Condensate 25 Gal"
     },
     "classified_at": "2026-06-01T19:06:43.339759",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_39.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_39.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "7e12519b3cd7397d45cdc34420db24f1dde83d221b5440af3ae60c08af427e8b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_42",
@@ -951,7 +1041,12 @@
       "title_eventname": "K & M Semi (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.339808",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_42.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_42.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "3ad46828b212f0d67ce3e3201a3accf63c61d7a98f8ae5fa42285ce13ce51daa",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_44",
@@ -1002,7 +1097,12 @@
       "title_eventname": "Duchesne County - Injection water spill"
     },
     "classified_at": "2026-06-01T19:06:43.339843",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_44.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_44.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "512fd73e1f9d897bbda23d4bc29d39485008fba8ee63fede1e8b45e87e55920a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_46",
@@ -1053,7 +1153,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.339898",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_46.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_46.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b71691407b9cbb8144ac6b84bb48a02820e979df25873a01d16e83d8150e9076",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_48",
@@ -1104,7 +1209,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.339948",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_48.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_48.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "50d2c38609f716d2a78e68ccf868621bb5961341eac9b5064d65b981bc0513a4",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_50",
@@ -1155,7 +1265,12 @@
       "title_eventname": "Joseph Michael/Newfield Exploration (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.340012",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_50.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_50.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "5540e4242d2cdbd8edc1d818f4d62f47132753827e26a69fa5065698533f7412",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_52",
@@ -1206,7 +1321,12 @@
       "title_eventname": "Newfield 13-27-8-17 - Treated Inj. Water"
     },
     "classified_at": "2026-06-01T19:06:43.340052",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_52.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_52.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "a29d3367da79bd67722f7c5305e72eedfcf087df24ae8545b92c3b4788c8decf",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_53",
@@ -1255,7 +1375,12 @@
       "title_eventname": "Duchesne Co - Truck in River"
     },
     "classified_at": "2026-06-01T19:06:43.340120",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_53.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_53.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ddca1ef1b48f41672c15e05497acb25157fe2b9dc6ea73158611d16c0d282016",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_55",
@@ -1306,7 +1431,12 @@
       "title_eventname": "LCL Oil Co. (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.340214",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_55.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_55.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1610ef8766ee44b028b733e2eb294b51f7d49fe8b76c5867818103bcbf29ebc9",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_62",
@@ -1355,7 +1485,12 @@
       "title_eventname": "Duchesne County - Treated Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.340468",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_62.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_62.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e7095e3e26edffee7216fb5cfe931a186e4346610c501deeca7516c106d3c352",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_64",
@@ -1404,7 +1539,12 @@
       "title_eventname": "Duchesne County - Treated water spill"
     },
     "classified_at": "2026-06-01T19:06:43.340560",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_64.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_64.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "454d8259bdc97ead2a557e6ddd80dfa12b297e8ad82081fd0227c332c73280fe",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_72",
@@ -1455,7 +1595,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.340847",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_72.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_72.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "5a8dabc0309b1010e1dc3f41430520a22b2e33881bca88f8a068e77822484178",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_73",
@@ -1504,7 +1649,12 @@
       "title_eventname": "Duchesne County - Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.340889",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_73.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_73.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ed401ade75ccceadda0257ad65a3e7f5c26981ffcbc104254b3e384d55c54ab1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_77",
@@ -1553,7 +1703,12 @@
       "title_eventname": "Weatherford Wireline Transporting"
     },
     "classified_at": "2026-06-01T19:06:43.340985",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_77.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_77.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "350fcf215b2cabcc8317916939e1a8ac7abab1ff1ab5ace63b297e586dde2f7b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_78",
@@ -1604,7 +1759,12 @@
       "title_eventname": "Duchesne Co - Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.341015",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_78.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_78.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "cffa868aaa94dc1626b438718b1a10223ad2251121452495fac0f3d6ecc36769",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_79",
@@ -1655,7 +1815,12 @@
       "title_eventname": "Myton Trailer Roll over"
     },
     "classified_at": "2026-06-01T19:06:43.341047",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_79.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_79.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "15745313991111e97ebc65b8c81ffa684906c197fcd71769f720f9cb3adb7e9f",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_83",
@@ -1704,7 +1869,12 @@
       "title_eventname": "Vegetation Kill Hydrochloric Acid"
     },
     "classified_at": "2026-06-01T19:06:43.341181",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_83.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_83.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "50612700c247ea8c9463b76fc4a7906f455b00b6a669772049276b90143fec92",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_87",
@@ -1755,7 +1925,12 @@
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.341271",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_87.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_87.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "c975c249a1ef0b821f424345d92f373d04af82b0d75ab9c98afa914cd07f4d9f",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_89",
@@ -1806,7 +1981,12 @@
       "title_eventname": "THIS IS A DRILL...Crude oil spill threatening Lake Fort River in Duchesne County"
     },
     "classified_at": "2026-06-01T19:06:43.341318",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_89.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_89.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "14de34ccde5f80fd1cab811feea9047aada317df2f206b0e08c474c47faa5a0e",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_93",
@@ -1857,7 +2037,12 @@
       "title_eventname": "Newfield - 13-16-9-17 Crude Oil"
     },
     "classified_at": "2026-06-01T19:06:43.341406",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_93.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_93.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "2094a9959828217f2951dc0f563cd10783f0dbc1f2ebef3bab4b790de6961431",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_97",
@@ -1908,7 +2093,12 @@
       "title_eventname": "El Paso E&P (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.341498",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_97.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_97.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b41787db6dc1e77ec18c969c442e61d026f0924eb3e9e0b337954166ce155bed",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_104",
@@ -1959,7 +2149,12 @@
       "title_eventname": "RNI Trucking (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.341631",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_104.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_104.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e61ef5d59118554d40a08d82997d107721e7bb64b30b0cadff9805e7a443b581",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_106",
@@ -2010,7 +2205,12 @@
       "title_eventname": "Injection water release near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.341699",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_106.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_106.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "634e10373ef8cb7dd4a5ef002fce8f37ac8170998ab74175d5797b320d27ecdf",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_108",
@@ -2059,7 +2259,12 @@
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.341734",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_108.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_108.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "bb85fb227c6ca068b22837853bd301eb0ffbed80c009ac2e7c0c6dae8193db03",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_109",
@@ -2110,7 +2315,12 @@
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.341750",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_109.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_109.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0fa9733700e9d7a77157458604fd2387e01d020487e9208d7d78bde3bea9ed69",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_111",
@@ -2161,7 +2371,12 @@
       "title_eventname": "Rick Norton (owner) (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.341803",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_111.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_111.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b5512dd40699ca69d6fee2ab7960218638c2572358d6d0fa8a24501deebd45e9",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_112",
@@ -2212,7 +2427,12 @@
       "title_eventname": "Carman Hoyt (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.341846",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_112.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_112.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "8b10b247769d77149c09375b3ffc7d05d6ead165e43345ee2bc8d02defc6959d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_115",
@@ -2263,7 +2483,12 @@
       "title_eventname": "Vernal Used Oil Spill"
     },
     "classified_at": "2026-06-01T19:06:43.341918",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_115.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_115.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "828df3742c910f65ef1aceba95a216657aa64177b97d81a7ccd3ee7d149f034d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_116",
@@ -2314,7 +2539,12 @@
       "title_eventname": "Injection Water Release SE of Myton"
     },
     "classified_at": "2026-06-01T19:06:43.341949",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_116.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_116.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "85dfa64915c301959dd5342de8534c45f9bce3c4936b3b4214e29ea0e975d441",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_118",
@@ -2365,7 +2595,12 @@
       "title_eventname": "Production Water Release Uintah Co."
     },
     "classified_at": "2026-06-01T19:06:43.341979",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_118.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_118.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "48c50c69a8cb7cf522b66c0673f4c397b6caa9950f59710bbff66965a8603808",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_120",
@@ -2416,7 +2651,12 @@
       "title_eventname": "Vernal Used Oil Release"
     },
     "classified_at": "2026-06-01T19:06:43.342038",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_120.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_120.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "073e27b5340f79a3243cfe4dc41379a5ed3ff0331104b19f05a8236776e65e70",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_121",
@@ -2467,7 +2707,12 @@
       "title_eventname": "Uintah Co QEP Tank Overflow"
     },
     "classified_at": "2026-06-01T19:06:43.342058",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_121.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_121.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "352daf2db901981f1fa84a0a9473595316cbf729b4aac4f08e8584cbed5af9f1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_124",
@@ -2518,7 +2763,12 @@
       "title_eventname": "Chevron (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.342162",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_124.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_124.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ac987a0b0afb61729dde8674533c8182963f0f134a524f81c1eb6bddfe06e732",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_129",
@@ -2569,7 +2819,12 @@
       "title_eventname": "Myton - Newfield Exploration diesel release"
     },
     "classified_at": "2026-06-01T19:06:43.342260",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_129.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_129.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "16994cfd8fe24103f0a93d6a26595e6f74092a46efffed93f53cbabf8ad90eb0",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_134",
@@ -2620,7 +2875,12 @@
       "title_eventname": "Nine Mile Crude-130 bls"
     },
     "classified_at": "2026-06-01T19:06:43.342396",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_134.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_134.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0cbe27a4b63c1b2d2a5950bf190cbbcc58b4ed658e54489010b2febe0a7377b4",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_137",
@@ -2670,7 +2930,12 @@
       "title_eventname": "Duchesne Co - Sewage"
     },
     "classified_at": "2026-06-01T19:06:43.342474",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_137.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_137.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f8e7af5d8069d309e0bc0fffa05e93eeb5025d0cd4f6c252fbebb31587673db8",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_138",
@@ -2721,7 +2986,12 @@
       "title_eventname": "Diesel spill in Uintah County"
     },
     "classified_at": "2026-06-01T19:06:43.342506",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_138.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_138.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "78f331ea276956b4960f9ab961e9c4719766e15c05687b5acc4e39fb64523d61",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_141",
@@ -2772,7 +3042,12 @@
       "title_eventname": "Uintah County (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.342605",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_141.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_141.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fd85e52b5a1a06e5cd1bca7779babcad3db4ffc112dec253d31117a65460c75c",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_145",
@@ -2823,7 +3098,12 @@
       "title_eventname": "Myton Produced Water leak"
     },
     "classified_at": "2026-06-01T19:06:43.342689",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_145.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_145.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "42cf6e6b7c45e1578a69f404aa674419065d140ad1611de378153a3b96ee0464",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_146",
@@ -2874,7 +3154,12 @@
       "title_eventname": "Uintah - Production water spill"
     },
     "classified_at": "2026-06-01T19:06:43.342709",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_146.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_146.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "2e6716c21fec275f345d70553f7bad9e7f92969f467089159d26f8c390d8a867",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_148",
@@ -2925,7 +3210,12 @@
       "title_eventname": "Hydraulic Fluid"
     },
     "classified_at": "2026-06-01T19:06:43.342757",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_148.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_148.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "29e44438ff78ce1f9591e165d5b56023d1e046d36d42261af7bf09dd6477094b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_151",
@@ -2974,7 +3264,12 @@
       "title_eventname": "Production Water"
     },
     "classified_at": "2026-06-01T19:06:43.342810",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_151.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_151.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b7962353bfbc872da1f0a544a2b22b4174f673c6aa302a5e04fb8bd18d940551",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_152",
@@ -3025,7 +3320,12 @@
       "title_eventname": "Crude oil spill in Duchesne County"
     },
     "classified_at": "2026-06-01T19:06:43.342838",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_152.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_152.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "88932a5410bda287a136ce30d478953fcd8c36f3a0fcd902c7c4bda33fa987e5",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_154",
@@ -3076,7 +3376,12 @@
       "title_eventname": "Diesel Fuel Spill in Duchesne County"
     },
     "classified_at": "2026-06-01T19:06:43.342900",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_154.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_154.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "6c71ee900ef1ac752590cf46185ab46807c2609938c8f4b5f2e165fde25fc85c",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_156",
@@ -3127,7 +3432,12 @@
       "title_eventname": "Duchesne Co - Sodium Hypochlorite 12.5% 1200 Gals"
     },
     "classified_at": "2026-06-01T19:06:43.342968",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_156.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_156.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "471727b625f944c2e58b3b48daee10d00dadb013eb7dabfb9b1fb83a4777c7a3",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_157",
@@ -3178,7 +3488,12 @@
       "title_eventname": "Haliburton (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.343010",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_157.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_157.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d5aa861c6552d7daafb975d007e7cd96ea682687f799602c80ae9b8282e12637",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_158",
@@ -3229,7 +3544,12 @@
       "title_eventname": "Duchesne Diesel Release"
     },
     "classified_at": "2026-06-01T19:06:43.343041",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_158.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_158.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "075ba31f833e6372121bc36d69937d4689fc8af967b342883259224ea5cc8428",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_161",
@@ -3280,7 +3600,12 @@
       "title_eventname": "Duchesne Co. - Injection water spill"
     },
     "classified_at": "2026-06-01T19:06:43.343141",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_161.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_161.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "c588e3dc924a4a5bcececa641879f0a03769dac8843245af12951ad4359eed54",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_163",
@@ -3331,7 +3656,12 @@
       "title_eventname": "Uintah Co - Used Oil Spill"
     },
     "classified_at": "2026-06-01T19:06:43.343189",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_163.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_163.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "504e76c1b8c686fb15fa87c8c4a8cf4698f12a987c45d9192cc27ed883c253c8",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_164",
@@ -3382,7 +3712,12 @@
       "title_eventname": "Duchesne Co - HCL 15% 150 Gals"
     },
     "classified_at": "2026-06-01T19:06:43.343219",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_164.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_164.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "3308b003edaa0b1624f7489a6bc1e9961fb515d6da201f734f8bb310cf22f5f2",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_166",
@@ -3433,7 +3768,12 @@
       "title_eventname": "Wetherford Fracturing (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.343284",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_166.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_166.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "13861eda1861ffec90b3f31619f97c360d464e9d0bcb8426f0b55ac4d6f23986",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_167",
@@ -3484,7 +3824,12 @@
       "title_eventname": "Duchesne Co - Crude & Produced Water"
     },
     "classified_at": "2026-06-01T19:06:43.343306",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_167.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_167.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "4e2a54b60fb3979f866c81e4f5636199ee22fbdf1e9ab89539dc2b2f0dcab9ab",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_168",
@@ -3535,7 +3880,12 @@
       "title_eventname": "Joseph Weyerman (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.343335",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_168.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_168.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ec9e4e418c70fc2b3c7b00bf16180d6ba66931ec56fd191665d8ab44b8057214",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_169",
@@ -3586,7 +3936,12 @@
       "title_eventname": "Adler Hot Oil (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.343397",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_169.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_169.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "4d28bf9c837582c74662c39171a32722207c31d1774c401277e1f77d95df7e1c",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_170",
@@ -3635,7 +3990,12 @@
       "title_eventname": "Uintah Co- Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.343434",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_170.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_170.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fae56260c0961e1401b38d44d03ee58221b028194ed2ae51817c62623bb6a043",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_171",
@@ -3686,7 +4046,12 @@
       "title_eventname": "Duchesne County - Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.343476",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_171.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_171.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "3f6dc42ae4396de1e26e71b1408f2dd238c0aaad3cdbf9b94bc70acd38471ffe",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_174",
@@ -3737,7 +4102,12 @@
       "title_eventname": "Produced Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.343534",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_174.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_174.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "5cc3a003470d7225909898c87eca64a18ff9dcf45fe3767e719211253d6f91d4",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_176",
@@ -3788,7 +4158,12 @@
       "title_eventname": "Fish Kill"
     },
     "classified_at": "2026-06-01T19:06:43.343596",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_176.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_176.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9d96904fbf8e459d282047ee7cfbba15a814d3d3edac4c9871fd5c82c37bd306",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_177",
@@ -3839,7 +4214,12 @@
       "title_eventname": "Uintah Co - Diesel Spill White River 4 gallons"
     },
     "classified_at": "2026-06-01T19:06:43.343626",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_177.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_177.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "6a325222d4e4427cb4d242e0891af64aaf3fb13cb4c71461c91b0eb774ce2560",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_178",
@@ -3890,7 +4270,12 @@
       "title_eventname": "Produced water spill near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.343642",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_178.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_178.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "82ef102ce1f907f1f11f943fa8aa62c3d87a0136b3a48b86f26e8ea8daa21d82",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_189",
@@ -3939,7 +4324,12 @@
       "title_eventname": "Newfield Ethylene Glycol Spill - Myton"
     },
     "classified_at": "2026-06-01T19:06:43.343890",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_189.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_189.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "602476d62ce7f5a927acb8e9270881845e672843ffb7424085f1a9bec29e7696",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_193",
@@ -3990,7 +4380,12 @@
       "title_eventname": "Uintah QEP Injection Line Break"
     },
     "classified_at": "2026-06-01T19:06:43.343979",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_193.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_193.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "8619dd9d113d8d1d14de881a49541bc586bac4e061bdbd0ddba7b4d1cc37bf3b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_195",
@@ -4039,7 +4434,12 @@
       "title_eventname": "Uintah County Oil Release"
     },
     "classified_at": "2026-06-01T19:06:43.344035",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_195.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_195.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "2864d26b509483a36bc739ae09ecac79f3919450ab589b61b429974eaf4af98d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_196",
@@ -4090,7 +4490,12 @@
       "title_eventname": "Crude Oil Release north of Vernal"
     },
     "classified_at": "2026-06-01T19:06:43.344054",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_196.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_196.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1fb8fc06a619f23188c83fb3c509b82a443d289c4e94c22c8ce057fa90bb3fa1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_199",
@@ -4141,7 +4546,12 @@
       "title_eventname": "Tracy Williams (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.344158",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_199.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_199.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "09ab046720858f648982adffe69508baddd35633cd6438a12194882fdb887117",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_200",
@@ -4192,7 +4602,12 @@
       "title_eventname": "Roosevelt Manure Truck wahsout to creek"
     },
     "classified_at": "2026-06-01T19:06:43.344289",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_200.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_200.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e6422fd77500e51b47d62b8995fdb49c728cceeaaf0e103b51637b36c4fe28ea",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_201",
@@ -4243,7 +4658,12 @@
       "title_eventname": "Vernal - Hydrochloric Acid Solution"
     },
     "classified_at": "2026-06-01T19:06:43.344326",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_201.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_201.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "550df85d836ba5ecdcd391faf23faef0451320930b03d89f6a4e64746d4b5511",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_202",
@@ -4294,7 +4714,12 @@
       "title_eventname": "Quality Inspection & Testing, Inc. (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.344393",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_202.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_202.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9fd6036470247228b508f9170497a45204c84d6d5e0df7c4d6858172b5395336",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_203",
@@ -4343,7 +4768,12 @@
       "title_eventname": "Duchesne County Treated Water Leak"
     },
     "classified_at": "2026-06-01T19:06:43.344455",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_203.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_203.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "cfa2dec9142c95ad91e4d8fa704ecf0498abb1dd9d55a2db5c94a8db440caccd",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_204",
@@ -4392,7 +4822,12 @@
       "title_eventname": "Newfield Treated Inj Water - Myton"
     },
     "classified_at": "2026-06-01T19:06:43.344475",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_204.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_204.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "8116d38293635942342409129ef42c7c245a8b8d1c28da2600c295357cb9a496",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_207",
@@ -4443,7 +4878,12 @@
       "title_eventname": "Myton Injection Water Release Newfield"
     },
     "classified_at": "2026-06-01T19:06:43.344545",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_207.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_207.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "7ef1e7e91bbf87e5323551f38d1c10760cf387da917657e75c7515ed66691232",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_208",
@@ -4492,7 +4932,12 @@
       "title_eventname": "Production Water Release in Duchesne County"
     },
     "classified_at": "2026-06-01T19:06:43.344564",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_208.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_208.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fdf70f10ae0e464d3afa8c00fbebb6f99fff1cc279ae32c3091a9459791b440a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_212",
@@ -4543,7 +4988,12 @@
       "title_eventname": "Roosevelt Oil Spill"
     },
     "classified_at": "2026-06-01T19:06:43.344637",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_212.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_212.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9c13585d5ce0ef5992d6e163a748efed796299199a8c7117aab7fc44a0cd8401",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_213",
@@ -4592,7 +5042,12 @@
       "title_eventname": "Duchesne Co - Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.344662",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_213.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_213.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "4e10c4fd5b6a58cc0a44552df6638141a432354e56992dc0e7f3ed503c0b0465",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_215",
@@ -4643,7 +5098,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.344902",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_215.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_215.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d38fc86229add361d5ee906abdf294794e2680a3c39960b6bf845440aaa95048",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_216",
@@ -4694,7 +5154,12 @@
       "title_eventname": "Diesel spill in Roosevelt"
     },
     "classified_at": "2026-06-01T19:06:43.344923",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_216.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_216.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "6e5261c0edbcbd14529b081c76f97b101ac6063f5786a0a95e4a1fb169220a79",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_218",
@@ -4745,7 +5210,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.344984",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_218.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_218.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "bc6162f116ebee75a6bc5ff2659fa017a3ab37e867843c7e21388d02838f9a56",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_223",
@@ -4794,7 +5264,12 @@
       "title_eventname": "Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.345102",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_223.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_223.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "cf7a4c7ca7db86e6c37639796b7b49cb08a6e01c86fa586c099529bfb79febd2",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_224",
@@ -4845,7 +5320,12 @@
       "title_eventname": "/// DRILL /// - Starvation Reservoir - /// DRILL"
     },
     "classified_at": "2026-06-01T19:06:43.345124",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_224.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_224.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "19023867f2b182ea7d1a7c698f67e743309f7cac8b765346868d3079f19d1d1a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_228",
@@ -4894,7 +5374,12 @@
       "title_eventname": "Tri-County - Newfield Pipeline release"
     },
     "classified_at": "2026-06-01T19:06:43.345195",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_228.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_228.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9e8bead4ab6ce6ff9e7ecb4016092caeee86a0c1767f4424d52df2fd0cea7aa6",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_229",
@@ -4945,7 +5430,12 @@
       "title_eventname": "JD Strickland & Assoc. (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.345218",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_229.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_229.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "328bfc9df50bf725882c44fdddf74755524c4f9687d2c49dfaaf74e9a63bc4d9",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_230",
@@ -4996,7 +5486,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.345244",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_230.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_230.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fa769ef746b5e0f6f7572f120accb314632c9357ade9aa5622fb9ba03f9d698a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_233",
@@ -5047,7 +5542,12 @@
       "title_eventname": "New Field - Release of Production Water"
     },
     "classified_at": "2026-06-01T19:06:43.345324",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_233.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_233.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "dcd941794d3a4db50a9c3df73a1386d0ed7e9744b0c0c3d64264beff546c13bf",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_238",
@@ -5096,7 +5596,12 @@
       "title_eventname": "EP Energy, Brine Release,"
     },
     "classified_at": "2026-06-01T19:06:43.345421",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_238.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_238.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "7d08ec936be6db304dacc92a5a657d21ac561e43f99157e679e1f9a73ea46517",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_240",
@@ -5147,7 +5652,12 @@
       "title_eventname": "Mine Reclaim Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.345471",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_240.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_240.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1ccd9aa5d447f6ac4136f0f4fff0f4d40d537d5558c5bb6750bfc02a4fce59f7",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_241",
@@ -5198,7 +5708,12 @@
       "title_eventname": "Weatherford International (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.345493",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_241.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_241.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "09907e7066cf0c226d91b667bebfdc357eb21a2520dd4a8ad712d389ca1e2a03",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_242",
@@ -5247,7 +5762,12 @@
       "title_eventname": "Duchesne County - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.345506",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_242.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_242.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "944f2757683d868360316ce45e1e1e1f4a9fcd17f44f3093e946ae0b88404d26",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_246",
@@ -5298,7 +5818,12 @@
       "title_eventname": "Production Water Release near Ouray"
     },
     "classified_at": "2026-06-01T19:06:43.345599",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_246.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_246.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0a138a9c556b5f5a3cae61282155528968c7d129e49da3342e911fbf17ad3557",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_247",
@@ -5349,7 +5874,12 @@
       "title_eventname": "Delta Trucking, L.L.C. (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.345619",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_247.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_247.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1d8024f578ff43553b5cfb26ae03c64c3800a8f62df5e378a84e1ff4b56b0bdd",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_252",
@@ -5398,7 +5928,12 @@
       "title_eventname": "Uintah County Acid Spill"
     },
     "classified_at": "2026-06-01T19:06:43.345738",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_252.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_252.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "64dca4c54b06c283345b693cbad289ace8f2125764bff6014702c2da29eca973",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_255",
@@ -5449,7 +5984,12 @@
       "title_eventname": "Simplot Phosphate (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.345791",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_255.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_255.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "bd1ef7c42f9fc62615dfb75ab3600d5ee22a2314ff097309fdc95bf581dc3f88",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_259",
@@ -5498,7 +6038,12 @@
       "title_eventname": "Duchesne County - Production Water"
     },
     "classified_at": "2026-06-01T19:06:43.345892",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_259.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_259.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "43b5250492579700a8a7adc547139294e554e37946f6a67942d82fa8420aaae5",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_270",
@@ -5549,7 +6094,12 @@
       "title_eventname": "Roosevelt Soil Contamination"
     },
     "classified_at": "2026-06-01T19:06:43.346161",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_270.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_270.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e066c976a1c7f68b821899cfe1277a2368198c63b29bd124ff0183bcec5fefb0",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_273",
@@ -5598,7 +6148,12 @@
       "title_eventname": "Duchesne County - Production Water"
     },
     "classified_at": "2026-06-01T19:06:43.346215",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_273.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_273.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e4f701145f7bfd5ac5624b2d4940acde7f2d8a76da6fdc7e2c129c8bdcebe864",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_276",
@@ -5647,7 +6202,12 @@
       "title_eventname": "Book Cliffs Pipeline Release"
     },
     "classified_at": "2026-06-01T19:06:43.346315",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_276.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_276.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fbcf9cdf0d2fca760c31aad89455ba6d80a75949a7342d77b01eaf4f0cdf00cb",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_277",
@@ -5698,7 +6258,12 @@
       "title_eventname": "Questar (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.346349",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_277.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_277.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1f1a661e45742812b2924a206986934a76f35b8c16e0b276704c738b5fe84c41",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_279",
@@ -5747,7 +6312,12 @@
       "title_eventname": "Uintah County Crude Oil Spill"
     },
     "classified_at": "2026-06-01T19:06:43.346385",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_279.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_279.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "4578a4385b950f14a59edc84217ac1111dd2c0837b48178da9b9d5a9f255bfe6",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_281",
@@ -5796,7 +6366,12 @@
       "title_eventname": "Duchesne County - Treated Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.346437",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_281.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_281.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "31b995d3b291f119a2a721de64cad31f05d35f741aa6b3c0a45d10d128332571",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_285",
@@ -5847,7 +6422,12 @@
       "title_eventname": "Warner Enterprises (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.346515",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_285.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_285.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "73b6e7c9a3c1150a566fc56eedc4dab290480a68f62bd05f4d9244eb5fbc8ab1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_286",
@@ -5898,7 +6478,12 @@
       "title_eventname": "Uinta County - Condensate release"
     },
     "classified_at": "2026-06-01T19:06:43.346535",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_286.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_286.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "174816d1339bdbf295b1d332773c2406c9c771868d78b3fd1fd87dbb8d405a22",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_288",
@@ -5947,7 +6532,12 @@
       "title_eventname": "Rabbit Gulch Produced Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.346584",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_288.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_288.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d863c37f8c9181a4ff82d4d34572c66aa78b90a85b1b69e55ff44a05e7decd85",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_296",
@@ -5998,7 +6588,12 @@
       "title_eventname": "Chevron Pipeline Co. (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.346759",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_296.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_296.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "87646d838fc4ba9b7dce04e20ca5f53bb46108693dbab01db79b12070995590d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_297",
@@ -6049,7 +6644,12 @@
       "title_eventname": "Rocky Mountain Power (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.346793",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_297.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_297.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "24bf3a333e5164f0c78f92b87e2ab88bcdd613c77e7352ef9aac70cf239e90f5",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_301",
@@ -6100,7 +6700,12 @@
       "title_eventname": "West Wing Oil (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.346881",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_301.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_301.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9bb52ab62a6501cae92f5f36546368299efe9a614dea9f2fbddbf60799647497",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_303",
@@ -6151,7 +6756,12 @@
       "title_eventname": "Uintah High School (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.346930",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_303.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_303.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d311e13a5eb0dd206e08a7a6066c8e504b4744ad33c62e77a7df7e2f8a07e2de",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_304",
@@ -6202,7 +6812,12 @@
       "title_eventname": "Savage crude oil/diesel"
     },
     "classified_at": "2026-06-01T19:06:43.346952",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_304.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_304.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "559058ec12bb13758f84c0ec9b8220447f4174785ec7dcb74f41bd76aa411798",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_306",
@@ -6253,7 +6868,12 @@
       "title_eventname": "Duchesne County - Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.347003",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_306.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_306.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0523d439538726a78ac07dce11d0665464d109006a44987d7f6d8634fb9520b5",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_308",
@@ -6303,7 +6923,12 @@
       "title_eventname": "EP Energy Production Water"
     },
     "classified_at": "2026-06-01T19:06:43.347033",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_308.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_308.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "831f74e307445807a995602ac6050b96e0b0b6034bc22403657b27835fda1924",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_309",
@@ -6352,7 +6977,12 @@
       "title_eventname": "Myton - Newfield Collection Line  Release"
     },
     "classified_at": "2026-06-01T19:06:43.347093",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_309.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_309.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "a6ea660480cd813a3bf3453ec743e10e1571e469d6797f5ac296f9fcb757990f",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_310",
@@ -6403,7 +7033,12 @@
       "title_eventname": "Elpaso Energy (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347173",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_310.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_310.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "3d7a71f687c01462493f0205e118a581e307feacc1b113c545574ceb57e20ae5",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_313",
@@ -6452,7 +7087,12 @@
       "title_eventname": "QEP Energy (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347244",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_313.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_313.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f0a1a270b348a79e3adccc4643b804ac1a26cb876392d4a4e8747d3a863d6790",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_315",
@@ -6503,7 +7143,12 @@
       "title_eventname": "Kent Hadlock and Dennis Judd (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347295",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_315.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_315.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "4691d994754809745b59d4a5dd109d8bc135a8d99484e6d62a726ac2c4b5caa7",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_316",
@@ -6554,7 +7199,12 @@
       "title_eventname": "Vernal - Hydraulic oil spill"
     },
     "classified_at": "2026-06-01T19:06:43.347312",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_316.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_316.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "a5c39775c52212b86923272363c9bfff24d1a7074400a9c03ffeeda247dbfe67",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_318",
@@ -6605,7 +7255,12 @@
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347356",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_318.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_318.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b3b5baed9179a9f8339775f7698f1ef591008251a36e9ebd9cbdeb4d26d5e380",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_324",
@@ -6656,7 +7311,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347497",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_324.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_324.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0bf194f68e8b3b9977c824ae5c77c67e3b4bc5c378b71bc3098f537929e12bbe",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_326",
@@ -6705,7 +7365,12 @@
       "title_eventname": "Duchesne County - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.347535",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_326.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_326.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e3816caa2ca1805f9d216d04267e92c07bf7a06f5060c104119a121b98913fba",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_332",
@@ -6756,7 +7421,12 @@
       "title_eventname": "Newfield - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.347655",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_332.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_332.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1d2f94898bf5916dfbdf850a2037351c4b7a0e4e761e947eca06b322cc5f8d7d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_334",
@@ -6807,7 +7477,12 @@
       "title_eventname": "Outback Rentals (Tim Crow) (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347707",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_334.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_334.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "20486d857bc42ccc94c41f5cd7aad5b0e5ff7c265814213fd5c1c13e1ae6c10b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_347",
@@ -6858,7 +7533,12 @@
       "title_eventname": "Ned Mitchell Construction Company (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.347997",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_347.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_347.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9bfc90caf878dd148a3685f9de858bfd14a8f46b142f13bea3a3a07630eb6784",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_361",
@@ -6909,7 +7589,12 @@
       "title_eventname": "Production Water Spill"
     },
     "classified_at": "2026-06-01T19:06:43.348325",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_361.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_361.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f6b9feead126369df4e772fe71cccff59b576725e21f30a8212b384031beb0e8",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_364",
@@ -6960,7 +7645,12 @@
       "title_eventname": "Produced Water Spill Near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.348372",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_364.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_364.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ec3401092b36b5a4921e7c956773f4aa10b8029b9c31b0a51fe5f9fb18166bdc",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_366",
@@ -7011,7 +7701,12 @@
       "title_eventname": "Potential Crude Oil Release"
     },
     "classified_at": "2026-06-01T19:06:43.348410",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_366.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_366.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "244d5bafa7b7da751139d4a065bd15c50db410eea905e8567830099dbbad3c4d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_367",
@@ -7060,7 +7755,12 @@
       "title_eventname": "Duchesne County Production Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.348428",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_367.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_367.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0115452cbc894988eecf07424037522e447fb4e6ae5aaf4481257b169cb4c0dd",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_368",
@@ -7111,7 +7811,12 @@
       "title_eventname": "Unknown (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.348460",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_368.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_368.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "010e5514c32b3b0dbd89e537c8a3920651c8fd5d5e3ff0b4e224f67087a76a5d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_378",
@@ -7162,7 +7867,12 @@
       "title_eventname": "Duchesne Co - Raw Sewage"
     },
     "classified_at": "2026-06-01T19:06:43.348683",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_378.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_378.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b893ceb02e95bed814c601207ff4f1412dc732d2312252c91a9fb2d18b89a42e",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_387",
@@ -7213,7 +7923,12 @@
       "title_eventname": "EP Energy 80 bbl production water"
     },
     "classified_at": "2026-06-01T19:06:43.348848",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_387.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_387.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b751891d51cd114c6c5676728106bef384ebd19124e5d9a072de0188184a7ff8",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_396",
@@ -7262,7 +7977,12 @@
       "title_eventname": "Duchesne County Produced Water Spill"
     },
     "classified_at": "2026-06-01T19:06:43.349034",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_396.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_396.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f7c893046b67c4edd98de1c95cdd8af9249d4cbb5356cf3ca12ef0a247559300",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_399",
@@ -7313,7 +8033,12 @@
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.349123",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_399.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_399.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "7e7aed7a914efe25427cb24e2bad69ccbbb65a29b18e8acb8ad780f5dbd62e20",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_401",
@@ -7364,7 +8089,12 @@
       "title_eventname": "Howell Trucking (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.349159",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_401.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_401.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ab47e74a66bd48001ccfa64fb72854e99e61c5bbb2bf6f9d1e0a63fee572b295",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_408",
@@ -7415,7 +8145,12 @@
       "title_eventname": "Production Water Spill"
     },
     "classified_at": "2026-06-01T19:06:43.349316",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_408.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_408.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "db458b2154be282bb219535d553f4e32f1c8ac6fae9f26b2e04214e40e9b76ab",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_410",
@@ -7466,7 +8201,12 @@
       "title_eventname": "80 Barrel Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.349359",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_410.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_410.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d9eb6c90be9296d39cfddcbcc17f8e30c5be5cdd2289a9887de49d7245a975ae",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_411",
@@ -7517,7 +8257,12 @@
       "title_eventname": "Myton - Newfield Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.349406",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_411.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_411.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "54ed9b26ae336670d46210a2d1b52bb2dca88d611e478d016bc3a3780a4a4a4b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_412",
@@ -7568,7 +8313,12 @@
       "title_eventname": "Produced water release near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.349418",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_412.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_412.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f9bae171c4f36b6aeb71ad61a0fc2e4b5984305f36b656802262ca201b936f7b",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_413",
@@ -7617,7 +8367,12 @@
       "title_eventname": "Foundation Energy Management - Uintah - Crude Oil"
     },
     "classified_at": "2026-06-01T19:06:43.349438",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_413.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_413.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1e16455c654d34f537f368bade11830d87afe11a6d18598d77a272ccf18202b3",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_415",
@@ -7668,7 +8423,12 @@
       "title_eventname": "Condensate Spill near Myton"
     },
     "classified_at": "2026-06-01T19:06:43.349469",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_415.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_415.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "420e030af99922dc22cb8b5474a842d7ecf74c5d8acf599b891042cdc2ea9e01",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_416",
@@ -7719,7 +8479,12 @@
       "title_eventname": "Savage Suites Trucking (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.349490",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_416.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_416.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "a1664d18345c66a7330c957c54a7f013ef51b4346179a0d692f650ecc5c2d286",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_417",
@@ -7770,7 +8535,12 @@
       "title_eventname": "Hydraulic Fluid Spill"
     },
     "classified_at": "2026-06-01T19:06:43.349514",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_417.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_417.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9f9d1a088c43645b3f40e5dadba41adf779031fa318268666fd557ec7a85d3e3",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_424",
@@ -7819,7 +8589,12 @@
       "title_eventname": "Duchesne County - Process Breakdown"
     },
     "classified_at": "2026-06-01T19:06:43.349636",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_424.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_424.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9e173c6080e4e31da9d8c21062c4371d65bf3b1467ea81c80d9866429834d88c",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_425",
@@ -7868,7 +8643,12 @@
       "title_eventname": "Pipeline leak in Book Cliffs"
     },
     "classified_at": "2026-06-01T19:06:43.349677",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_425.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_425.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "3f384785a73dd187a0e66e42fc0cfc53a743ccfbf5451887a12dd257bcc86f2a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_427",
@@ -7919,7 +8699,12 @@
       "title_eventname": "CGGVeritas (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.349732",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_427.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_427.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "0eadb6f0c328a08175a07f1a91daaa72b80b97af5efc605ada7d045a1ce1ca6a",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_461",
@@ -7970,7 +8755,12 @@
       "title_eventname": "El Paso E&P Company (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.350346",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_461.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_461.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "a0de323f1bf9b08cb22c3b5715675e4a93e6ea0a14c988f05efe882e76a692ca",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_465",
@@ -8021,7 +8811,12 @@
       "title_eventname": "Anadarko Petroleum Corp. (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.350445",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_465.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_465.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "4a13218d98dc5ef84d878318a375431831bdb84cbb4fb3da2b997452f58a8edf",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_466",
@@ -8072,7 +8867,12 @@
       "title_eventname": "Injection water spill in Duchesne County"
     },
     "classified_at": "2026-06-01T19:06:43.350462",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_466.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_466.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "808d567b0a0b6f0179ad4d82a5aa33803b84fe58f5f67e4e145a8cbb2eb0c2bd",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_469",
@@ -8121,7 +8921,12 @@
       "title_eventname": "Myton - Injection water spill"
     },
     "classified_at": "2026-06-01T19:06:43.350507",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_469.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_469.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "c0491ccb016fde959510cb673c1bb49e8414b070157a514922f2209ae92a9522",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_470",
@@ -8170,7 +8975,12 @@
       "title_eventname": "Myton - Fresh water spill"
     },
     "classified_at": "2026-06-01T19:06:43.350537",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_470.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_470.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "da6fa3750ddc423c6721300eb20072da6908804c62861939c81e7d5635bd55f1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_474",
@@ -8221,7 +9031,12 @@
       "title_eventname": "Rosewood Resources (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.350623",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_474.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_474.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "34e0c4242bf261df4da2065c3bb935718d360ed72a95ee13fa83d1e1d80cdf91",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_475",
@@ -8272,7 +9087,12 @@
       "title_eventname": "Vernal Production Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.350635",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_475.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_475.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "09615dc064f855144d030646c233ec68f1853711f4570d08b0e395c4c88d2e6c",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_476",
@@ -8323,7 +9143,12 @@
       "title_eventname": "Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.350666",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_476.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_476.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "af9013244082c6e570de39e055991c4e363101bb8c5d3b0b684a3d69e25f02a0",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_477",
@@ -8374,7 +9199,12 @@
       "title_eventname": "EP Energy - 1500 bbls Production Water"
     },
     "classified_at": "2026-06-01T19:06:43.350679",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_477.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_477.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "c355f4118eace4e5f0f9e35b9a9c6eab388c79a38b54496f9272dd5d1a140008",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_478",
@@ -8425,7 +9255,12 @@
       "title_eventname": "Production Water Release - Monarch"
     },
     "classified_at": "2026-06-01T19:06:43.350694",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_478.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_478.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d557188ba32a64bc6cf72dc61185457a28846a81c24a52aa4b75d6d1fd39f888",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_479",
@@ -8476,7 +9311,12 @@
       "title_eventname": "Vernal - Hydrochloric acid spill"
     },
     "classified_at": "2026-06-01T19:06:43.350722",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_479.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_479.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "e6665c87425f5223eccd2b4010ffaeb636474f7c1eebd8783d620627589b7ea4",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_481",
@@ -8525,7 +9365,12 @@
       "title_eventname": "Duchesene County Treated Production Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.350751",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_481.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_481.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d3a356b5d60b8f7dd7ec7655413f42627473c3906d3a5d6283d0f2413397afb5",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_482",
@@ -8574,7 +9419,12 @@
       "title_eventname": "Roosevelt Stockwater Release"
     },
     "classified_at": "2026-06-01T19:06:43.350786",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_482.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_482.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9d833654d0dd433149920416152377cf66a216e6a43c5e59c6b9f9c2d2358730",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_483",
@@ -8623,7 +9473,12 @@
       "title_eventname": "Duchesne County Diesel Release"
     },
     "classified_at": "2026-06-01T19:06:43.350809",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_483.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_483.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "65d27e3e40f09de15505e50333191d94864215a7da9a628351b1ca84f1165002",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_484",
@@ -8674,7 +9529,12 @@
       "title_eventname": "Vernal - Release of \"OB Breaker\""
     },
     "classified_at": "2026-06-01T19:06:43.350840",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_484.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_484.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "9346fd1eedcc4b02901c3872c49db12b17480e85d6d6668f8788ddf1365f142e",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_485",
@@ -8723,7 +9583,12 @@
       "title_eventname": "Duchesne County - Production Water Spill"
     },
     "classified_at": "2026-06-01T19:06:43.350854",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_485.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_485.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "3bbbddc64ad3f1a3d4a2af96ca1aa8b971a9215cd5b5441bf6273a70823bb5cc",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_488",
@@ -8772,7 +9637,12 @@
       "title_eventname": "Ethylene Glycol Release"
     },
     "classified_at": "2026-06-01T19:06:43.350968",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_488.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_488.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "fe9b96cb5e51e44fd5ffed56f3e8b35993c4a98bdff27358b56422d24793358d",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_491",
@@ -8821,7 +9691,12 @@
       "title_eventname": "Duchesne Diesel Release"
     },
     "classified_at": "2026-06-01T19:06:43.351022",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_491.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_491.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "6cf48a4d6dc578c4f1f4c66bc3c88fd2cc179705c1e64388d83cacd98dcdd4c9",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_498",
@@ -8872,7 +9747,12 @@
       "title_eventname": "Uintah Co - Diesel Spill 50 Gallons"
     },
     "classified_at": "2026-06-01T19:06:43.351134",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_498.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_498.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "ecfb13c40c661ce421f4cbf50a6da2e9916524a61aa2d2feb2da23dc5b6e815f",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_499",
@@ -8923,7 +9803,12 @@
       "title_eventname": "Western Petroleum (Joey Cupp) (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.351157",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_499.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_499.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "86f8ee9fd56ba885c23594f9d3d08ad9ad5cdca13a4fa0e609e2c876d8c265b1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_500",
@@ -8972,7 +9857,12 @@
       "title_eventname": "Roosevelt ITL Production Water Dumping."
     },
     "classified_at": "2026-06-01T19:06:43.351172",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_500.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_500.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f7b5e4be2ec9c4b25ae03f31916922c56e303935ba07108d383486769a30614f",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_501",
@@ -9023,7 +9913,12 @@
       "title_eventname": "Uintah County/sump sludge"
     },
     "classified_at": "2026-06-01T19:06:43.351199",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_501.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_501.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "852753a3694797f1688793ce8e89e45a32a5f9310f4ee8fa97e5ad21527e9ad1",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_502",
@@ -9074,7 +9969,12 @@
       "title_eventname": "Used Engine Gear Oil Spill"
     },
     "classified_at": "2026-06-01T19:06:43.351328",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_502.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_502.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "31e6c69dddf083d66f7d8aafac85df0222548861f736649b629728fec2991f55",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_505",
@@ -9125,7 +10025,12 @@
       "title_eventname": "Roosevelt - Condensate release"
     },
     "classified_at": "2026-06-01T19:06:43.351375",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_505.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_505.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b45eb1d047ba42c6fc980ce5512ea3744f640970975e2fa1ff918e9e3320c921",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_510",
@@ -9176,7 +10081,12 @@
       "title_eventname": "Levi Smuin (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.351458",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_510.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_510.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "526616273f5bc83f501c06ac126b2fc1a5b4726fe15fa07da51539c8c70b93ce",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_511",
@@ -9227,7 +10137,12 @@
       "title_eventname": "Western Petroleum (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.351481",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_511.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_511.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "552d300db8446847fd15bc40996a1b1754da7b5c9baf8994d276293f62592c1c",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_512",
@@ -9276,7 +10191,12 @@
       "title_eventname": "Natural Gas Release - Uintah Co."
     },
     "classified_at": "2026-06-01T19:06:43.351509",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_512.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_512.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "471a4992eb368e84fe55d21ccf23362f250d53e432be64d264b91bb37e0cc571",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_513",
@@ -9325,7 +10245,12 @@
       "title_eventname": "Uintah County Production Water Spill"
     },
     "classified_at": "2026-06-01T19:06:43.351521",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_513.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_513.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "94558de0da773c96c8df75077ccea2ffe9361fe6123ac94a373db4cb922079b3",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_515",
@@ -9374,7 +10299,12 @@
       "title_eventname": "Duchesne County - Treated Injection Water Release"
     },
     "classified_at": "2026-06-01T19:06:43.351549",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_515.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_515.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "f87832cbe7a94537f5e0b9f2ed8d3fe4be22aacc8289a6f1be9c0d19af94f346",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_516",
@@ -9423,7 +10353,12 @@
       "title_eventname": "Duchesne Co - Diesel 30 Gallons"
     },
     "classified_at": "2026-06-01T19:06:43.351564",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_516.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_516.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "bfb6bc69581cf43e793e8e3d9fac1761eccc82a3a884337faf9e9ba9c81ccf6e",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_517",
@@ -9474,7 +10409,12 @@
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.351576",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_517.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_517.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d50b9249dc465be4b0a26f78b094a2b450a44768864d0b3ff7835ea9b6140f45",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_518",
@@ -9525,7 +10465,12 @@
       "title_eventname": "Newton Gas (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.351605",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_518.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_518.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "03feafa71b75f6e3ceaad75912b4520424b356ae3ceabd186d6c4a24fccfbd73",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_519",
@@ -9576,7 +10521,12 @@
       "title_eventname": "Kerr-McGee (c/o haul Contractor to be determined) (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.351626",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_519.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_519.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "a52ee95a9a50e8a770fe0fc91b1b3b62ba0b6c3c19c4c5514be33b7ee88623bd",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_520",
@@ -9625,7 +10575,12 @@
       "title_eventname": "Duchesne Co - Treated Injection Water"
     },
     "classified_at": "2026-06-01T19:06:43.351636",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_520.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_520.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "d22432015a4ec582140bdfd055956b31144138d35c487f8b1016fe7ca93be6f2",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_523",
@@ -9676,7 +10631,12 @@
       "title_eventname": "Rosevelt Top Stop Release"
     },
     "classified_at": "2026-06-01T19:06:43.351698",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_523.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_523.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "1e77ab532c4ce944b03a64a4e55cd12c33896b0dca7ea8e35f0bc07b115dde18",
+    "archive_verification_level": 5
   },
   {
     "id": "deq_incident_524",
@@ -9727,6 +10687,11 @@
       "title_eventname": "Utah Power & Light (Null RP Substituted)"
     },
     "classified_at": "2026-06-01T19:06:43.351725",
-    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_524.html"
+    "local_source_path": "archive/sources/deq_2006_2015_records/deq_2006_2015_deq_incident_524.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "automated_public_record_capture",
+    "archive_sha256": "b43a2c6afa53ced62c3c4fbaaa8c6f875ecf49db6054e666c5fc1db6b5da7a5e",
+    "archive_verification_level": 5
   }
 ]

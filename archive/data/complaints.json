@@ -15,7 +15,12 @@
     "source_file": "5-1-24-Final-MGedits.txt",
     "source_note": "Matched to Duchesne County Planning Commission transcript from May 1, 2024. Transcript includes Hobart Willis testimony about 50 hertz vibration and Guy Taylor testimony about 94\u201396 dB flare whistling.",
     "source_confidence": "matched",
-    "source_url": "source_2024_05_01_duchesne_pc_transcript.html"
+    "source_url": "source_2024_05_01_duchesne_pc_transcript.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "025bd4313eeda8a5a914ff7ff77fe336cf701fe7b5ad8f85282727ac00d7ddf8",
+    "archive_verification_level": 5
   },
   {
     "type": "Flare Noise Complaint",
@@ -33,7 +38,12 @@
     "source_file": "5-1-24-Final-MGedits.txt",
     "source_note": "Matched to Duchesne County Planning Commission transcript from May 1, 2024. Transcript includes Hobart Willis testimony about 50 hertz vibration and Guy Taylor testimony about 94\u201396 dB flare whistling.",
     "source_confidence": "matched",
-    "source_url": "source_2024_05_01_duchesne_pc_transcript.html"
+    "source_url": "source_2024_05_01_duchesne_pc_transcript.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "b7b4e33f3f9457b42cfe2ad6bcd7c5873577f506f2b97b28b2e0f3c13dd808cf",
+    "archive_verification_level": 5
   },
   {
     "type": "Air Quality Complaint",
@@ -51,7 +61,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_003.html"
+    "source_url": "complaint_003.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "4c3ff34b21d0fb3b345c5965c6883b240960c25c97f87bf7b91c485c6d3e503f",
+    "archive_verification_level": 5
   },
   {
     "type": "Truck Traffic Complaint",
@@ -69,7 +84,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_004.html"
+    "source_url": "complaint_004.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "93c158663e772df2b6fb11e9316cde1826b01feb7ff0e72dc88f7a3b8679e1c2",
+    "archive_verification_level": 5
   },
   {
     "type": "Road Dust Complaint",
@@ -87,7 +107,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_005.html"
+    "source_url": "complaint_005.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "18e08750770539dfeaff22a113b2740d0d89b2628e5d5c76ba97c8a08e15cb3a",
+    "archive_verification_level": 5
   },
   {
     "type": "Compressor Station Noise",
@@ -105,7 +130,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_006.html"
+    "source_url": "complaint_006.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "f19a3ed2383cad89372ea9c595b61be5639c0b0bdb5b3031286d60009dc84d58",
+    "archive_verification_level": 5
   },
   {
     "type": "Flaring Complaint",
@@ -123,7 +153,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_007.html"
+    "source_url": "complaint_007.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "59094c58edaed4f6863056374e1207a25bdfdd174e1a6122b0b738ee4a2efe8e",
+    "archive_verification_level": 5
   },
   {
     "type": "Heavy Truck Complaint",
@@ -141,7 +176,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_008.html"
+    "source_url": "complaint_008.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "34e2f4de0f948e88ce6191a8716523d797f406cb3b215e55135e7eed3f0979b3",
+    "archive_verification_level": 5
   },
   {
     "type": "Sand Pit Dust Complaint",
@@ -159,7 +199,12 @@
     "source_file": "September-2-2009.txt",
     "source_note": "Matched to Duchesne Planning Commission September 2, 2009 record concerning Blue Bench gravel pit / rock crusher, resident dust concerns, traffic, noise, and DEQ dust enforcement discussion.",
     "source_confidence": "matched",
-    "source_url": "source_2009_09_02_blue_bench_gravel_crusher.html"
+    "source_url": "source_2009_09_02_blue_bench_gravel_crusher.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "52aa2cc668afb5d904f7b10ad4ff25a26a301fe32db61e2d47896b70fc8ecf87",
+    "archive_verification_level": 5
   },
   {
     "type": "Gravel Pit Truck Dust",
@@ -177,7 +222,12 @@
     "source_file": "September-2-2009.txt",
     "source_note": "Matched to Duchesne Planning Commission September 2, 2009 record concerning Blue Bench gravel pit / rock crusher, gravel truck traffic, dust, noise, and resident opposition.",
     "source_confidence": "matched",
-    "source_url": "source_2009_09_02_blue_bench_gravel_crusher.html"
+    "source_url": "source_2009_09_02_blue_bench_gravel_crusher.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "7e2dc879caaf441f696d5f4ffcda015d364414a1e37dd08544a26b24cf47744a",
+    "archive_verification_level": 5
   },
   {
     "type": "Industrial Dust Complaint",
@@ -195,7 +245,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_011.html"
+    "source_url": "complaint_011.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "01f8011d6bb4e83cfb2feccdc992fe980b2bada2c885caadca0f4a622959fb48",
+    "archive_verification_level": 5
   },
   {
     "type": "Sand Mine Noise & Dust",
@@ -213,7 +268,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_012.html"
+    "source_url": "complaint_012.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "6332f3d1883ccae475a04dcd735ef8a3009a7845224aed658fe5f6595108c236",
+    "archive_verification_level": 5
   },
   {
     "type": "Hydrogen Sulfide Odor Complaint",
@@ -231,7 +291,12 @@
     "source_file": "September-5-2012.txt",
     "source_note": "Matched to Duchesne Planning Commission September 5, 2012 public hearing record concerning Integrated Water Management odors, H2S/rotten egg smell, nausea, and resident health complaints.",
     "source_confidence": "matched",
-    "source_url": "source_2012_09_05_iwm_h2s_landfill_odor.html"
+    "source_url": "source_2012_09_05_iwm_h2s_landfill_odor.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "1a8f0e8cac4fbb2515732e9c4dc6d1d9acafb22e44b9cbe9b6148ec231b83cde",
+    "archive_verification_level": 5
   },
   {
     "type": "Landfill Odor Complaint",
@@ -249,7 +314,12 @@
     "source_file": "September-5-2012.txt",
     "source_note": "Matched to Duchesne Planning Commission September 5, 2012 public hearing record concerning landfill/produced water facility odor complaints and resident testimony.",
     "source_confidence": "matched",
-    "source_url": "source_2012_09_05_iwm_h2s_landfill_odor.html"
+    "source_url": "source_2012_09_05_iwm_h2s_landfill_odor.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "f552109d0ad37b96cf78fbc8184d537c3be1eaef254496c43d34eab465399c15",
+    "archive_verification_level": 5
   },
   {
     "type": "Mosquito Abatement Chemical Complaint",
@@ -267,7 +337,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_015.html"
+    "source_url": "complaint_015.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "a51e45003087a351287e4061af352c6d05b3acd0444bd6f991ba1d395fb620ce",
+    "archive_verification_level": 5
   },
   {
     "id": "complaint_2024_guy_taylor_flare_noise",
@@ -288,7 +363,12 @@
     "source_file": "5-1-24-Final-MGedits.txt",
     "source_note": "Matched to Duchesne County Planning Commission transcript from May 1, 2024. Transcript includes Hobart Willis testimony about 50 hertz vibration and Guy Taylor testimony about 94\u201396 dB flare whistling.",
     "source_confidence": "matched",
-    "source_url": "source_2024_05_01_duchesne_pc_transcript.html"
+    "source_url": "source_2024_05_01_duchesne_pc_transcript.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "30f15edd5d32cbea8ecfd0f545ca71648034fa7095dd863060e41db1ef94b8d7",
+    "archive_verification_level": 5
   },
   {
     "id": "complaint_2023_higley_lamb_road_haul_route",
@@ -309,7 +389,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_2023_higley_lamb_road_haul_route.html"
+    "source_url": "complaint_2023_higley_lamb_road_haul_route.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "95fb55936e1eb601dc94c2d9e8f567e75cfe6cb33725adec5715a39563a0c28a",
+    "archive_verification_level": 5
   },
   {
     "id": "complaint_2016_quarry_dust_control",
@@ -331,7 +416,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_2016_quarry_dust_control.html"
+    "source_url": "complaint_2016_quarry_dust_control.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "f7768ac8fd4be2e8d4d78fb8a657138d2262cd182575594c1e7d68685a323881",
+    "archive_verification_level": 5
   },
   {
     "id": "complaint_2012_pleasant_valley_crusher_dust",
@@ -352,7 +442,12 @@
     "source_file": "Steward Basin curated complaint archive",
     "source_note": "This record was preserved from early Steward Basin complaint research. The original supporting material is believed to come from county public meeting records, resident reports, or early source crawls, but the exact PDF/source file still needs final source matching before being treated as fully verified.",
     "source_confidence": "needs_source_review",
-    "source_url": "complaint_2012_pleasant_valley_crusher_dust.html"
+    "source_url": "complaint_2012_pleasant_valley_crusher_dust.html",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "950310519cf977e5b26a964cde3ec13afdc0c93d58668e6a4b0d0e449ce970a6",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0020",
@@ -376,7 +471,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0020.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://le.utah.gov/interim/2018/pdf/00004302.pdf"
+    "source_url": "https://le.utah.gov/interim/2018/pdf/00004302.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "a0e0c0385e73a29d7f2cfaed6faf8c54f4398a3b9f5059ea20a1831e0099931f",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0021",
@@ -400,7 +500,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0021.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://le.utah.gov/interim/2018/pdf/00004321.pdf"
+    "source_url": "https://le.utah.gov/interim/2018/pdf/00004321.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "c51b299d22bba4b325419a94a7338ddf9585a0e4a5a3d0309401b60c972e7278",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0022",
@@ -424,7 +529,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0022.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2011/01-24-11.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2011/01-24-11.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "eda6a94791ac85e89f83286f7b9fb4a851a72dae2f3ea921941ebb6427301a0d",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0023",
@@ -448,7 +558,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0023.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2013/05-20-13.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2013/05-20-13.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "20cfbc9e1a6fceb48df402044aed47008a94aad848564a32f9d7edaaf5965d02",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0024",
@@ -472,7 +587,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0024.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2012/06-11-12.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2012/06-11-12.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "c827807dce85201efe60c59d941c7fc96be54cde69a8eda0986949f15d1538fa",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0025",
@@ -496,7 +616,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0025.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2012/08-06-12.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/clerk/Commission%20Minutes/2012/08-06-12.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "22cc44d372fb87c892b4699213a68621a517498a727c073c7bbf438f7fea5725",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0026",
@@ -520,7 +645,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0026.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2008/August-6-2008.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2008/August-6-2008.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "0268cc927f0d93c0d3d09d5e8355ffba06ce7c5a730373bbe4ea6c8c55c06319",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0027",
@@ -546,7 +676,12 @@
     "source_url_status": "matched_original_pdf",
     "record_kind": "public_testimony",
     "review_note": "Originally parsed as H2S/Odor complaint. Manual review determined this is public testimony from Duchesne County Planning Commission minutes.",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2026/05/Duchesne-County-Planning-Commission-4_02_2026.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2026/05/Duchesne-County-Planning-Commission-4_02_2026.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "c31ff60a0fd841cb5d1c0bba7ea21b582a17385f9e49c055c08b12518d485027",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0028",
@@ -570,7 +705,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0028.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2025/03/Duchesne-County-Planning-Commission-Meeting-Minutes-Feb-5th-2025.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2025/03/Duchesne-County-Planning-Commission-Meeting-Minutes-Feb-5th-2025.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "b82ef634429d3759b119a62ab0f3ea5179ee2dfbc35a3c8c3a90fcfe20b7bfce",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0029",
@@ -594,7 +734,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0029.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2011/February-2-2011.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2011/February-2-2011.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "ada0cb96cad40480365c5d49e8c0f0851b8d533b93757e718dbae82c9ad5e511",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0030",
@@ -618,7 +763,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0030.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2009/January-7-2009.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2009/January-7-2009.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "62c48fdbed60120ddc1cf366071736afbf7838ca020a4eff2a6e63d464e13d2b",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0031",
@@ -642,7 +792,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0031.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2009/July-1-2009.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2009/July-1-2009.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "22a0686765b9555656cb22be256174893f82004869a3848f23d648217455d48d",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0032",
@@ -666,7 +821,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0032.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2013/June-5-2013.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2013/June-5-2013.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "69ad829da06be70513baf195fbacdb35f258358af10e339d13f6ab74be6530f7",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0033",
@@ -690,7 +850,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0033.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2013/June-5-2013.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2013/June-5-2013.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "2578cc034f82260b94d58e0793c0eb7b41ec602e6aafe387a127dbe224d4a395",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0034",
@@ -714,7 +879,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0034.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/June-6-2012.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/June-6-2012.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "372aca94733d2c596098fd908eb5ee510f771ec36caff39bff56ed2dfd23cb2f",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0035",
@@ -738,7 +908,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0035.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2007/March-7-2007.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2007/March-7-2007.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "d7743dbdc25fda28bf09800f8ef2f1560035a7ff8c84ebbde365906dab959647",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0036",
@@ -762,7 +937,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0036.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/Ordinance-24-409-Version-7.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/Ordinance-24-409-Version-7.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "f9748485c2856d7c3449f328efde6b81ea8e41e56c9824d369e8bb0a5a69a248",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0037",
@@ -786,7 +966,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0037.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/weed-dept/ORDINANCE_224.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/weed-dept/ORDINANCE_224.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "70b14a799e18fe6365081413ab79f932faef51826f2f93a0a4823e5c679f0fba",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0038",
@@ -810,7 +995,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0038.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://le.utah.gov/interim/historical/s1969.pdf"
+    "source_url": "https://le.utah.gov/interim/historical/s1969.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "052ff04785634a9ef4760fc407a618f0636f35a50b7df3d8fc8966c629fdb321",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0039",
@@ -834,7 +1024,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0039.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2008/September-3-2008.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2008/September-3-2008.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "0714e1c5761f65529ea8ccf2f1925ca6d95035b3f4f5069e8192c7548b45701e",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0040",
@@ -858,7 +1053,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0040.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/September-5-2012.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/September-5-2012.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "f8030dea900eb18a3e6855f1b2fbaa1ed8045898ee0cd133d856bd0be8443441",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0041",
@@ -882,7 +1082,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0041.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/September-5-2012.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/September-5-2012.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "a9d7fbb15eb666a2dcf60cec6a401d8d157170181be0c12fd549c639ba325f97",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0042",
@@ -906,7 +1111,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0042.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/September-5-2012.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/planning/Minutes/2012/September-5-2012.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "9897878c549ea60e6183fbb95c73d9c913ef5af47112b7f3e4c7378c72265bc1",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0043",
@@ -930,7 +1140,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0043.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/Ordinance-24-409-Version-7.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/Ordinance-24-409-Version-7.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "8d1c5faa2fbd23a09742630d9a9ac28b11d3a2e1a49cb04eb9e152fc179be117",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0044",
@@ -956,7 +1171,12 @@
     "source_url_status": "matched_original_pdf",
     "exclude_from_map": true,
     "exclude_from_charts": true,
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2026/05/Duchesne-County-Planning-Commission-4_02_2026.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2026/05/Duchesne-County-Planning-Commission-4_02_2026.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "0fecad0c9b4429fa659ace51c93948146865d4a74207bc542b6f7221d9a6787d",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0045",
@@ -981,7 +1201,12 @@
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0045.html",
     "source_url_status": "matched_from_source_filename",
     "source_url": "https://le.utah.gov/interim/2025/pdf/00003652.pdf",
-    "source_confidence": "mismatch_review"
+    "source_confidence": "mismatch_review",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "77fa3419009d90c02386c4c3854262fa8fef59e160b3b24013e41a24f14824e4",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0046",
@@ -1005,7 +1230,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0046.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2023/06/5-3-23.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2023/06/5-3-23.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "fde89df4a93ef1fdb2009e4cfc9e5f0a3175b39cfaefee78e98a6affce04cb4f",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0047",
@@ -1029,7 +1259,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0047.html",
     "source_url_status": "matched_original_pdf",
-    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/2017/04/December-7-2016.pdf"
+    "source_url": "https://www.duchesne.utah.gov/wp-content/uploads/2017/04/December-7-2016.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "ca2592d3b980e7b651b6f4e9d199c07dfa4a7999c3fa65cbaeed70555a3207b0",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0048",
@@ -1053,7 +1288,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0048.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2022/09/Duchesne_CRMP_2022.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2022/09/Duchesne_CRMP_2022.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "9aac924fb48c6c166b35f07fcaf07185840177130442d198a7e49081ca4d0a9f",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0049",
@@ -1077,7 +1317,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0049.html",
     "source_url_status": "matched_original_pdf",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/General-Plan-2024-1.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/General-Plan-2024-1.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "7ebe561ee284bad3d34b25aac79e243bde7e062fed5c4387481d880d769b0d1e",
+    "archive_verification_level": 5
   },
   {
     "id": "verified_candidate_0050",
@@ -1101,7 +1346,12 @@
     "review_status": "promoted_to_complaints_for_chart_review",
     "local_source_path": "archive/sources/complaint_records/verified_candidate_0050.html",
     "source_url_status": "matched_from_source_filename",
-    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/Ordinance-24-409-Version-7.pdf"
+    "source_url": "https://duchesne.utah.gov/wp-content/uploads/2024/12/Ordinance-24-409-Version-7.pdf",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "9b43db8b052a78ee1566dc46ecebe032292b870caa57101403388ba4738d5349",
+    "archive_verification_level": 5
   },
   {
     "id": "promoted_real_candidate_00283",
@@ -1113,16 +1363,23 @@
     "year": "2025",
     "description": "Public comments from Andrew Olson, speaking for himself and Sue Miller, raised concerns about road maintenance, dust, water use, fire safety, ATV use, shooting, and the need for on-site supervision.",
     "source_file": "Duchesne-County-Planning-Commission-9-3-2025.txt",
-    "source_url": "source_real_candidate_00283_duchesne_county_planning_commission_9_3_2025txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00283_duchesne_county_planning_commission_9_3_2025txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00283.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00283",
     "candidate_line_number": "88",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "9979ad083dd8c3f00ed063e7cad93e53165cb5f4a90555f9d5a1b938777e6e9d",
+    "archive_verification_level": 5,
+    "source": "Duchesne County Planning Commission",
+    "source_date": "2025-09-03"
   },
   {
     "id": "promoted_real_candidate_00315",
@@ -1134,16 +1391,23 @@
     "year": "2025",
     "description": "The 2025 Duchesne County Transportation Master Plan notes several complaints about 2750 North / Sharmel Acres and commercial vehicle use, including road damage and safety concerns.",
     "source_file": "Duchesne-County-TMP_Final_Compressed-2025.txt",
-    "source_url": "source_real_candidate_00315_duchesne_county_tmp_final_compressed_2025txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00315_duchesne_county_tmp_final_compressed_2025txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00315.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00315",
     "candidate_line_number": "3797",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "3a861d8d8630344914f2c85b7075f6a77bf392326108793d9f1049bba798f73a",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting transcript / minutes archive",
+    "source_date": "2025"
   },
   {
     "id": "promoted_real_candidate_00303",
@@ -1155,16 +1419,23 @@
     "year": "2024",
     "description": "County discussion stated that commissioners were receiving daily complaints about road impacts and felt urgency to address them. Staff also noted that county rainy-day funds had been used for road repairs due to industry impacts.",
     "source_file": "Duchesne-County-Planning-Commission-Meeting-Minutes-June-26th-2024.txt",
-    "source_url": "source_real_candidate_00303_duchesne_county_planning_commission_meeting_minutes_june_26th_2024txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00303_duchesne_county_planning_commission_meeting_minutes_june_26th_2024txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00303.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00303",
     "candidate_line_number": "168",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "77db4cf90b1e00bcb8934280a5d863f95ac4f734d79bb448dcd4ca59c0e51644",
+    "archive_verification_level": 5,
+    "source": "Duchesne County Planning Commission Meeting Minutes",
+    "source_date": "2024-06-26"
   },
   {
     "id": "promoted_real_candidate_00160",
@@ -1176,16 +1447,23 @@
     "year": "2024",
     "description": "Public testimony and county discussion documented complaints about a flare gas power generation facility creating noise and vibration issues for nearby residents, including follow-up discussion with Hobart Willis.",
     "source_file": "5-1-24-Final-MGedits.txt",
-    "source_url": "source_real_candidate_00160_5_1_24_final_mgeditstxt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00160_5_1_24_final_mgeditstxt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00160.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00160",
     "candidate_line_number": "210",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "d555fbc012aa7751abc96dd3629e56c6c0f56df1e3202eefa5b7b73f021e572d",
+    "archive_verification_level": 5,
+    "source": "Duchesne County Planning Commission public testimony",
+    "source_date": "2024-05-01"
   },
   {
     "id": "promoted_real_candidate_00152",
@@ -1197,16 +1475,23 @@
     "year": "2024",
     "description": "County staff stated that complaints had been received about an existing flare gas power generation facility creating noise and vibration impacts for nearby residents.",
     "source_file": "5-1-24-Final-MGedits.txt",
-    "source_url": "source_real_candidate_00152_5_1_24_final_mgeditstxt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00152_5_1_24_final_mgeditstxt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00152.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00152",
     "candidate_line_number": "41",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "68127643afdda260d0bff06c0d0d3d14a234b9133981f3cabda2521e1a2e702f",
+    "archive_verification_level": 5,
+    "source": "Duchesne County Planning Commission public testimony",
+    "source_date": "2024-05-01"
   },
   {
     "id": "promoted_real_candidate_00136",
@@ -1218,16 +1503,23 @@
     "year": "2023",
     "description": "Roosevelt City requested 24/7 dust control for sand mining roads and active mining areas. The permit language states that if dust complaints are received from pilots or the public, mining operations must stop until the dust event is mitigated.",
     "source_file": "4-05-23.txt",
-    "source_url": "source_real_candidate_00136_4_05_23txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00136_4_05_23txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00136.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00136",
     "candidate_line_number": "241",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "6ab5fc8355eb6e5181e348e370b0f6f7eab4044379b1900545a3d1e2f81f3496",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting record",
+    "source_date": "2023-04-05"
   },
   {
     "id": "promoted_real_candidate_00100",
@@ -1239,16 +1531,23 @@
     "year": "2019",
     "description": "County permit language limited crusher operations and stated that expanded operation hours could be restricted if noise complaints were received.",
     "source_file": "10-02-19.txt",
-    "source_url": "source_real_candidate_00100_10_02_19txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00100_10_02_19txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00100.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00100",
     "candidate_line_number": "199",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "06f01a88ee3adbe353398a21edb4d54d79c99d9353cc2108fcf74b1185510948",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting record",
+    "source_date": "2019-10-02"
   },
   {
     "id": "promoted_real_candidate_00098",
@@ -1260,16 +1559,23 @@
     "year": "2019",
     "description": "County permit language stated that crusher operations beyond standard hours could occur only if approved, unless noise complaints were received.",
     "source_file": "10-02-19.txt",
-    "source_url": "source_real_candidate_00098_10_02_19txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00098_10_02_19txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00098.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00098",
     "candidate_line_number": "197",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "e125a001a45dfc6bdda7438cc1a9a767340652b2126976c0cef307453e3cfe72",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting record",
+    "source_date": "2019-10-02"
   },
   {
     "id": "promoted_real_candidate_00246",
@@ -1281,16 +1587,23 @@
     "year": "2016",
     "description": "County permit language stated that nuisance ordinance time limits should apply if noise complaints were received by the county.",
     "source_file": "April-6-2016.txt",
-    "source_url": "source_real_candidate_00246_april_6_2016txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00246_april_6_2016txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00246.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00246",
     "candidate_line_number": "272",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "a51909360c21fe2ada7a190a81bf06c412a721da91c58fbfd2eeb1d2268e1e87",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting record",
+    "source_date": "2016-04-06"
   },
   {
     "id": "promoted_real_candidate_00247",
@@ -1302,16 +1615,23 @@
     "year": "2016",
     "description": "County permit language required dust control on active portions of the site and gravel access roads during hauling, with additional limits if noise complaints were received.",
     "source_file": "April-6-2016.txt",
-    "source_url": "source_real_candidate_00247_april_6_2016txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00247_april_6_2016txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00247.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00247",
     "candidate_line_number": "273",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "088bb12a11193f95c2a3ea7d2ccb7ebd5aff4cebcc7c6d7e29f2046995f4b972",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting record",
+    "source_date": "2016-04-06"
   },
   {
     "id": "promoted_real_candidate_00271",
@@ -1323,15 +1643,22 @@
     "year": "2016",
     "description": "County permit language required applicants to initiate dust control measures if dust complaints were received by the county or TriCounty Health Department.",
     "source_file": "December-7-2016.txt",
-    "source_url": "source_real_candidate_00271_december_7_2016txt.html",
+    "source_url": "archive/sources/complaint_records/source_real_candidate_00271_december_7_2016txt.html",
     "local_source_path": "archive/sources/complaint_records/promoted_real_candidate_00271.html",
     "source_confidence": "promoted_verified_source_reviewed",
-    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified.",
+    "source_note": "Promoted from local complaint candidate extraction. Source page generated from local archive text. Human review recommended before treating as fully verified. Source metadata repaired from preserved Steward Basin complaint source archive.",
     "candidate_id": "real_candidate_00271",
     "candidate_line_number": "164",
     "latitude": null,
     "longitude": null,
     "location_status": "needs_geocoding",
-    "review_status": "reviewed_issue_level_record"
+    "review_status": "reviewed_issue_level_record",
+    "retrieved_from_public_source": true,
+    "retrieval_date_utc": "2026-06-15T01:19:47+00:00",
+    "archive_method": "compiled_public_record_archive",
+    "archive_sha256": "bf584bd7070f776a5039b8fe55cda5a1c3dab605620067bb6512b4497e2f35c4",
+    "archive_verification_level": 5,
+    "source": "Duchesne County public meeting record",
+    "source_date": "2016-12-07"
   }
 ]

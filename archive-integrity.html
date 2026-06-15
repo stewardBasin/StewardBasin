@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>-Steward Basin Archive Integrity-</title>
+  <style>
+    body{
+      font-family: Georgia, serif;
+      max-width:1200px;
+      margin:auto;
+      padding:40px;
+      background:#f5f4ef;
+      color:#223322;
+    }
+
+    h1{
+      color:#35543a;
+    }
+
+    table{
+      width:100%;
+      border-collapse:collapse;
+      margin-top:30px;
+      background:white;
+    }
+
+    th,td{
+      padding:10px;
+      border:1px solid #ddd;
+      text-align:left;
+      font-size:14px;
+    }
+
+    th{
+      background:#35543a;
+      color:white;
+    }
+
+    .badge{
+      padding:4px 8px;
+      border-radius:4px;
+      color:white;
+      font-weight:bold;
+    }
+
+    .level5{ background:#2d6a4f; }
+    .level4{ background:#52796f; }
+
+    input{
+      padding:10px;
+      width:300px;
+      margin-bottom:20px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Steward Basin Public Archive Verification Ledger
+    <br>Steward Basin preserves public environmental records using cryptographic integrity verification
+    standards designed to ensure records remain authentic, unchanged, and independently verifiable over time.</br>
+</h1>
+
+<p>
+All archived records are cryptographically verified and preserved locally.
+</p>
+
+<h3>Archive Standard</h3>
+
+<ul>
+  <li>Level 1 → manually collected</li>
+  <li>Level 2 → archived locally</li>
+  <li>Level 3 → public source identified</li>
+  <li>Level 4 → source + local archive preserved</li>
+  <li>Level 5 → SHA256 checksum verified</li>
+</ul>
+
+<input id="searchBox" placeholder="Search records...">
+
+<table id="archiveTable">
+  <thead>
+    <tr>
+      <th>Record ID</th>
+      <th>Dataset</th>
+      <th>Title</th>
+      <th>Verification</th>
+      <th>SHA256</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script>
+fetch("archive/data/archive_integrity_index.json")
+.then(r => r.json())
+.then(records => {
+
+  const tbody = document.querySelector("tbody");
+
+  function render(data){
+
+    tbody.innerHTML = "";
+
+    data.forEach(r => {
+
+      const row = document.createElement("tr");
+
+      row.innerHTML = `
+        <td>${r.record_id || ""}</td>
+        <td>${r.dataset || ""}</td>
+        <td>${r.title || ""}</td>
+        <td>
+          <span class="badge level${r.verification_level}">
+            Level ${r.verification_level}
+          </span>
+        </td>
+        <td>${(r.sha256 || "").substring(0,20)}...</td>
+      `;
+
+      tbody.appendChild(row);
+
+    });
+
+  }
+
+  render(records);
+
+  document.getElementById("searchBox")
+  .addEventListener("input", e => {
+
+    const q = e.target.value.toLowerCase();
+
+    const filtered = records.filter(r =>
+      JSON.stringify(r).toLowerCase().includes(q)
+    );
+
+    render(filtered);
+
+  });
+
+});
+</script>
+
+</body>
+</html>
