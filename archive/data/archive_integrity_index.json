@@ -11360,154 +11360,154 @@
     "sha256": "b43a2c6afa53ced62c3c4fbaaa8c6f875ecf49db6054e666c5fc1db6b5da7a5e"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_001",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_001.html",
-    "sha256": "025bd4313eeda8a5a914ff7ff77fe336cf701fe7b5ad8f85282727ac00d7ddf8"
+    "sha256": "64a7274a1f0d5be56da7d0468236dc7020e5a9f4333f1670bc5adfc6202590f7"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_002",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_002.html",
-    "sha256": "b7b4e33f3f9457b42cfe2ad6bcd7c5873577f506f2b97b28b2e0f3c13dd808cf"
+    "sha256": "cea378a991a0e88b60769ac4ba639baf028d4b7648604c0b6d46bd703e079a1a"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_003",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_003.html",
-    "sha256": "4c3ff34b21d0fb3b345c5965c6883b240960c25c97f87bf7b91c485c6d3e503f"
+    "sha256": "30906c3e5b7783db13cd22b91e8a6cb26e714af545c87e0335aa2cca23330183"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_004",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_004.html",
-    "sha256": "93c158663e772df2b6fb11e9316cde1826b01feb7ff0e72dc88f7a3b8679e1c2"
+    "sha256": "a1674056aba4a5667f52cb4dde0243fdc8df55fbd7665759474751840ff5184f"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_005",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_005.html",
-    "sha256": "18e08750770539dfeaff22a113b2740d0d89b2628e5d5c76ba97c8a08e15cb3a"
+    "sha256": "33d2816670c83ad3a6bc037502842673fc9700c6ad2ce8f07f351c057d077380"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_006",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_006.html",
-    "sha256": "f19a3ed2383cad89372ea9c595b61be5639c0b0bdb5b3031286d60009dc84d58"
+    "sha256": "6fe2099ddfb9e001efb008b64d3d8102be80e41210391e6307f0c3ebee55245f"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_007",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_007.html",
-    "sha256": "59094c58edaed4f6863056374e1207a25bdfdd174e1a6122b0b738ee4a2efe8e"
+    "sha256": "14f6a50a8dd344a9d76e16f7c7269e3754fd7ef1dee260e2bf21e1fa38c63368"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_008",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_008.html",
-    "sha256": "34e2f4de0f948e88ce6191a8716523d797f406cb3b215e55135e7eed3f0979b3"
+    "sha256": "88c2fde6a70478295e80b196f83cdcaf5c6212904c60d4e0340eea4ccd4fd7cf"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_009",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_009.html",
-    "sha256": "52aa2cc668afb5d904f7b10ad4ff25a26a301fe32db61e2d47896b70fc8ecf87"
+    "sha256": "ff948177e671247fee22b21751c5240daa5f7decc8c819273167a18a4535fae4"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_010",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_010.html",
-    "sha256": "7e2dc879caaf441f696d5f4ffcda015d364414a1e37dd08544a26b24cf47744a"
+    "sha256": "a823911cf1d7bcfe0391128a16800821aa7a9c2133768aa89fb05523f78d6b69"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_011",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_011.html",
-    "sha256": "01f8011d6bb4e83cfb2feccdc992fe980b2bada2c885caadca0f4a622959fb48"
+    "sha256": "3241f52ad76fd2f067f1e9f43499d38079c36d3fa8a6fd3a5e4f863ec6e84634"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_012",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_012.html",
-    "sha256": "6332f3d1883ccae475a04dcd735ef8a3009a7845224aed658fe5f6595108c236"
+    "sha256": "ed9ee0d726a9a9039adce959edca4da36d29016fca41c1d40e74a72f4d185058"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_013",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_013.html",
-    "sha256": "1a8f0e8cac4fbb2515732e9c4dc6d1d9acafb22e44b9cbe9b6148ec231b83cde"
+    "sha256": "97b0e0c71c649e957238360ce11e7a07a201f7dabddf378a92e6c17d605e1a86"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_014",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_014.html",
-    "sha256": "f552109d0ad37b96cf78fbc8184d537c3be1eaef254496c43d34eab465399c15"
+    "sha256": "a74dc425326bad01a55ea1d1bc0f75c56843eacdc6712ce3711f96bbdf80bf15"
   },
   {
-    "record_id": null,
+    "record_id": "complaint_015",
     "dataset": "complaints.json",
     "title": "Untitled Record",
     "verification_level": 5,
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_015.html",
-    "sha256": "a51e45003087a351287e4061af352c6d05b3acd0444bd6f991ba1d395fb620ce"
+    "sha256": "b2a0bcaad36aea8972fb185a0d17f4e1027ee47db962819ca22f3cb3a4e86c2b"
   },
   {
     "record_id": "complaint_2024_guy_taylor_flare_noise",
@@ -11517,7 +11517,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_2024_guy_taylor_flare_noise.html",
-    "sha256": "30f15edd5d32cbea8ecfd0f545ca71648034fa7095dd863060e41db1ef94b8d7"
+    "sha256": "5e344903c0fb9d9c1c19be7d312508dc7d05a2964b3220627f12d201e3229a9d"
   },
   {
     "record_id": "complaint_2023_higley_lamb_road_haul_route",
@@ -11527,7 +11527,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_2023_higley_lamb_road_haul_route.html",
-    "sha256": "95fb55936e1eb601dc94c2d9e8f567e75cfe6cb33725adec5715a39563a0c28a"
+    "sha256": "2cca37bdc993de8a4a91cf743e3dedfa580f506e588efb817a5dd5bb4ad3ffa9"
   },
   {
     "record_id": "complaint_2016_quarry_dust_control",
@@ -11537,7 +11537,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_2016_quarry_dust_control.html",
-    "sha256": "f7768ac8fd4be2e8d4d78fb8a657138d2262cd182575594c1e7d68685a323881"
+    "sha256": "c178073f9fb1e462efca3a1ffa4b55ba1baa5ed60a7afe7e8819b5d11ed6ba50"
   },
   {
     "record_id": "complaint_2012_pleasant_valley_crusher_dust",
@@ -11547,7 +11547,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/complaint_2012_pleasant_valley_crusher_dust.html",
-    "sha256": "950310519cf977e5b26a964cde3ec13afdc0c93d58668e6a4b0d0e449ce970a6"
+    "sha256": "c723ae6c6965633ac6dca6faf835f60006a743c3994afff538d0bd30ac05ad52"
   },
   {
     "record_id": "verified_candidate_0020",
@@ -11557,7 +11557,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0020.html",
-    "sha256": "a0e0c0385e73a29d7f2cfaed6faf8c54f4398a3b9f5059ea20a1831e0099931f"
+    "sha256": "3f7091dd1306835866a4975caeb20a2076559521e2b87072ca9922858c7d1fed"
   },
   {
     "record_id": "verified_candidate_0021",
@@ -11567,7 +11567,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0021.html",
-    "sha256": "c51b299d22bba4b325419a94a7338ddf9585a0e4a5a3d0309401b60c972e7278"
+    "sha256": "d70ac8d8d70fb4f2ed5e3bdd97be314f664d7784fc7942ca6270735967d5d64c"
   },
   {
     "record_id": "verified_candidate_0022",
@@ -11577,7 +11577,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0022.html",
-    "sha256": "eda6a94791ac85e89f83286f7b9fb4a851a72dae2f3ea921941ebb6427301a0d"
+    "sha256": "0ce789b8ab5f466180f70101dcb200323020660f47ee764f09d27935c8537311"
   },
   {
     "record_id": "verified_candidate_0023",
@@ -11587,7 +11587,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0023.html",
-    "sha256": "20cfbc9e1a6fceb48df402044aed47008a94aad848564a32f9d7edaaf5965d02"
+    "sha256": "acd2f2cb6020e0e085643de0dc40364f7dc061357636eaae2a9a64457425b2d7"
   },
   {
     "record_id": "verified_candidate_0024",
@@ -11597,7 +11597,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0024.html",
-    "sha256": "c827807dce85201efe60c59d941c7fc96be54cde69a8eda0986949f15d1538fa"
+    "sha256": "d2c54db3f9d56e9ebdc4a093795e46212bc7f952a555bd0c1ca2fff3de927523"
   },
   {
     "record_id": "verified_candidate_0025",
@@ -11607,7 +11607,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0025.html",
-    "sha256": "22cc44d372fb87c892b4699213a68621a517498a727c073c7bbf438f7fea5725"
+    "sha256": "683c9ed0f22d104a48af7b4bd8f7e45cce6c01ae089039cae4388c44f8987163"
   },
   {
     "record_id": "verified_candidate_0026",
@@ -11617,7 +11617,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0026.html",
-    "sha256": "0268cc927f0d93c0d3d09d5e8355ffba06ce7c5a730373bbe4ea6c8c55c06319"
+    "sha256": "e8a34e38ba810fb8e7327359a640a32290bc1610ba6f4e04a3c68757490c5b4d"
   },
   {
     "record_id": "verified_candidate_0027",
@@ -11627,7 +11627,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0027.html",
-    "sha256": "c31ff60a0fd841cb5d1c0bba7ea21b582a17385f9e49c055c08b12518d485027"
+    "sha256": "d1fcce4d12c8bb8ccc7df5821b567cc9f07a0849d576a223f50d6136f6f8ccc7"
   },
   {
     "record_id": "verified_candidate_0028",
@@ -11637,7 +11637,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0028.html",
-    "sha256": "b82ef634429d3759b119a62ab0f3ea5179ee2dfbc35a3c8c3a90fcfe20b7bfce"
+    "sha256": "f099b0321b307d60f99ae1f95673db64f1bc970ab3ba402c74a3148b3aeefef0"
   },
   {
     "record_id": "verified_candidate_0029",
@@ -11647,7 +11647,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0029.html",
-    "sha256": "ada0cb96cad40480365c5d49e8c0f0851b8d533b93757e718dbae82c9ad5e511"
+    "sha256": "186283b03fcd434180a2f61641e2a8e06f8ece629f04aa0908a713210d1d7bb0"
   },
   {
     "record_id": "verified_candidate_0030",
@@ -11657,7 +11657,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0030.html",
-    "sha256": "62c48fdbed60120ddc1cf366071736afbf7838ca020a4eff2a6e63d464e13d2b"
+    "sha256": "f9317cb63f1c8490209dfda02c22cd516bfac01d5dc89c2fba359a3166bda868"
   },
   {
     "record_id": "verified_candidate_0031",
@@ -11667,7 +11667,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0031.html",
-    "sha256": "22a0686765b9555656cb22be256174893f82004869a3848f23d648217455d48d"
+    "sha256": "e1aa527a44fc6e760e9d9c9a89e4f7de362828f7cfff649b4fc83f930c8f8b03"
   },
   {
     "record_id": "verified_candidate_0032",
@@ -11677,7 +11677,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0032.html",
-    "sha256": "69ad829da06be70513baf195fbacdb35f258358af10e339d13f6ab74be6530f7"
+    "sha256": "75ee52d4c1ed08ab1a0b3e9d4594dec6bc22ff03755e08a9d0c083b83f0cc7ee"
   },
   {
     "record_id": "verified_candidate_0033",
@@ -11687,7 +11687,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0033.html",
-    "sha256": "2578cc034f82260b94d58e0793c0eb7b41ec602e6aafe387a127dbe224d4a395"
+    "sha256": "e84f6b184a942c2b0d2ff232b72cca8534daed57c4a2e9071be3794cc7c92f05"
   },
   {
     "record_id": "verified_candidate_0034",
@@ -11697,7 +11697,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0034.html",
-    "sha256": "372aca94733d2c596098fd908eb5ee510f771ec36caff39bff56ed2dfd23cb2f"
+    "sha256": "ff691b28274d7dc3950427cb1f7d3f43f52cafea787c5ac74e19bbb103c5f316"
   },
   {
     "record_id": "verified_candidate_0035",
@@ -11707,7 +11707,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0035.html",
-    "sha256": "d7743dbdc25fda28bf09800f8ef2f1560035a7ff8c84ebbde365906dab959647"
+    "sha256": "010354a17689635535c73d904a34f36dd494cb119b698b9b41491819c350f00e"
   },
   {
     "record_id": "verified_candidate_0036",
@@ -11717,7 +11717,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0036.html",
-    "sha256": "f9748485c2856d7c3449f328efde6b81ea8e41e56c9824d369e8bb0a5a69a248"
+    "sha256": "3983a5dd85547b7ce1bdefd33ee2bb441030d257704435f7df59f0b978976c6a"
   },
   {
     "record_id": "verified_candidate_0037",
@@ -11727,7 +11727,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0037.html",
-    "sha256": "70b14a799e18fe6365081413ab79f932faef51826f2f93a0a4823e5c679f0fba"
+    "sha256": "b3b338b8711b5244e17e2891d52bd5c5d763b0d77f8865519f0bd1ad00d01916"
   },
   {
     "record_id": "verified_candidate_0038",
@@ -11737,7 +11737,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0038.html",
-    "sha256": "052ff04785634a9ef4760fc407a618f0636f35a50b7df3d8fc8966c629fdb321"
+    "sha256": "3925a443e72ea229610c0efa2839ec1c5c4378ebd181960e879f3c7ccbd3528d"
   },
   {
     "record_id": "verified_candidate_0039",
@@ -11747,7 +11747,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0039.html",
-    "sha256": "0714e1c5761f65529ea8ccf2f1925ca6d95035b3f4f5069e8192c7548b45701e"
+    "sha256": "0258dace71c594382641adfd5871da5fa6445844685f25732a7b1e6ec34ce0ae"
   },
   {
     "record_id": "verified_candidate_0040",
@@ -11757,7 +11757,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0040.html",
-    "sha256": "f8030dea900eb18a3e6855f1b2fbaa1ed8045898ee0cd133d856bd0be8443441"
+    "sha256": "496d6b4f1930e29b05011a66f0c916a4e94d1320a097a76ca5c1c506ea85ba7f"
   },
   {
     "record_id": "verified_candidate_0041",
@@ -11767,7 +11767,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0041.html",
-    "sha256": "a9d7fbb15eb666a2dcf60cec6a401d8d157170181be0c12fd549c639ba325f97"
+    "sha256": "9bc59586272d9df20ca306bc339ffff4ae76e5701435d5b92832d26aaebc6ab2"
   },
   {
     "record_id": "verified_candidate_0042",
@@ -11777,7 +11777,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0042.html",
-    "sha256": "9897878c549ea60e6183fbb95c73d9c913ef5af47112b7f3e4c7378c72265bc1"
+    "sha256": "96fe2da8239a26b1b439030a05be6faa86e7aff766fc580d6e2c32ce433eb39b"
   },
   {
     "record_id": "verified_candidate_0043",
@@ -11787,7 +11787,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0043.html",
-    "sha256": "8d1c5faa2fbd23a09742630d9a9ac28b11d3a2e1a49cb04eb9e152fc179be117"
+    "sha256": "fb022027546c7239db57c45f470a8ca73404daea3fd8c6d3f0dfd63d5d369162"
   },
   {
     "record_id": "verified_candidate_0044",
@@ -11797,7 +11797,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0044.html",
-    "sha256": "0fecad0c9b4429fa659ace51c93948146865d4a74207bc542b6f7221d9a6787d"
+    "sha256": "e17f563952e3027e1655a000111f22dfa4d5cfb35e7ac5e8029e7a34c62ad73f"
   },
   {
     "record_id": "verified_candidate_0045",
@@ -11807,7 +11807,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0045.html",
-    "sha256": "77fa3419009d90c02386c4c3854262fa8fef59e160b3b24013e41a24f14824e4"
+    "sha256": "c57c6dd9e0dfc34302f8ed994f5707dd4cac9c9b9a948cc9a67e6346b3028251"
   },
   {
     "record_id": "verified_candidate_0046",
@@ -11817,7 +11817,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0046.html",
-    "sha256": "fde89df4a93ef1fdb2009e4cfc9e5f0a3175b39cfaefee78e98a6affce04cb4f"
+    "sha256": "50895ad0ebdfc89802560fb3353ac066035c4a59383549345165d8260685751c"
   },
   {
     "record_id": "verified_candidate_0047",
@@ -11827,7 +11827,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0047.html",
-    "sha256": "ca2592d3b980e7b651b6f4e9d199c07dfa4a7999c3fa65cbaeed70555a3207b0"
+    "sha256": "5794e5feeba4dd854115d16991bd9a532d31b24f75709f12d19fc61783275342"
   },
   {
     "record_id": "verified_candidate_0048",
@@ -11837,7 +11837,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0048.html",
-    "sha256": "9aac924fb48c6c166b35f07fcaf07185840177130442d198a7e49081ca4d0a9f"
+    "sha256": "68c4e2054224d7a2661ecefa41db7443bf6718f4f4ac4d87b3afcbb6f0a08d16"
   },
   {
     "record_id": "verified_candidate_0049",
@@ -11847,7 +11847,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0049.html",
-    "sha256": "7ebe561ee284bad3d34b25aac79e243bde7e062fed5c4387481d880d769b0d1e"
+    "sha256": "0edc11c1c8758560507f26af3d2b14455d11d4e382bbab7d2086e4232d600f87"
   },
   {
     "record_id": "verified_candidate_0050",
@@ -11857,7 +11857,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/verified_candidate_0050.html",
-    "sha256": "9b43db8b052a78ee1566dc46ecebe032292b870caa57101403388ba4738d5349"
+    "sha256": "7cb4cb74fec3a277115f9a7544a93173074f914afc9e1f4efa432b7226526a01"
   },
   {
     "record_id": "promoted_real_candidate_00283",
@@ -11867,7 +11867,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00283.html",
-    "sha256": "9979ad083dd8c3f00ed063e7cad93e53165cb5f4a90555f9d5a1b938777e6e9d"
+    "sha256": "00b2a3fc8f3072814efe9847537a85aef068fff1cce602dd7969d07142fecab9"
   },
   {
     "record_id": "promoted_real_candidate_00315",
@@ -11877,7 +11877,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00315.html",
-    "sha256": "3a861d8d8630344914f2c85b7075f6a77bf392326108793d9f1049bba798f73a"
+    "sha256": "bfd0c388f94be868732ee3c17e6544f30bfedefee8dc2873ea248137d1914b9f"
   },
   {
     "record_id": "promoted_real_candidate_00303",
@@ -11887,7 +11887,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00303.html",
-    "sha256": "77db4cf90b1e00bcb8934280a5d863f95ac4f734d79bb448dcd4ca59c0e51644"
+    "sha256": "7c309a9d3753712803333dfe6fec6ba7de3f366df22b420977b8bfb9d8d43833"
   },
   {
     "record_id": "promoted_real_candidate_00160",
@@ -11897,7 +11897,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00160.html",
-    "sha256": "d555fbc012aa7751abc96dd3629e56c6c0f56df1e3202eefa5b7b73f021e572d"
+    "sha256": "8c37c99d21660741ab5ebbbbe8720c968767001ce133f7e52c86cb73a9639532"
   },
   {
     "record_id": "promoted_real_candidate_00152",
@@ -11907,7 +11907,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00152.html",
-    "sha256": "68127643afdda260d0bff06c0d0d3d14a234b9133981f3cabda2521e1a2e702f"
+    "sha256": "511b2d74c04548cc3188a5e3e10909362b754833856b8b99467939242b56fb3a"
   },
   {
     "record_id": "promoted_real_candidate_00136",
@@ -11917,7 +11917,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00136.html",
-    "sha256": "6ab5fc8355eb6e5181e348e370b0f6f7eab4044379b1900545a3d1e2f81f3496"
+    "sha256": "0566f8ce99f9432a53787221cf5c8fc4f5921471dcf58c41c6a65ff7b2b64a91"
   },
   {
     "record_id": "promoted_real_candidate_00100",
@@ -11927,7 +11927,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00100.html",
-    "sha256": "06f01a88ee3adbe353398a21edb4d54d79c99d9353cc2108fcf74b1185510948"
+    "sha256": "ff8f363d8d6652fd5daac93d6297a248e4d4450eb7b635abb96240c54f23c1f4"
   },
   {
     "record_id": "promoted_real_candidate_00098",
@@ -11937,7 +11937,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00098.html",
-    "sha256": "e125a001a45dfc6bdda7438cc1a9a767340652b2126976c0cef307453e3cfe72"
+    "sha256": "43ee4710012d7bf2ab8025807bc9045e795ab6f5d25198eacd116007ac649235"
   },
   {
     "record_id": "promoted_real_candidate_00246",
@@ -11947,7 +11947,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00246.html",
-    "sha256": "a51909360c21fe2ada7a190a81bf06c412a721da91c58fbfd2eeb1d2268e1e87"
+    "sha256": "53cc9096918b481779083c15c02f192e9d532d2e99b5d8a12f1b9b6dbed5722c"
   },
   {
     "record_id": "promoted_real_candidate_00247",
@@ -11957,7 +11957,7 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00247.html",
-    "sha256": "088bb12a11193f95c2a3ea7d2ccb7ebd5aff4cebcc7c6d7e29f2046995f4b972"
+    "sha256": "77ea0aba35fcd44052d2b19d5f544cb0699057c96ecd1c2c2a158a5267e7d15a"
   },
   {
     "record_id": "promoted_real_candidate_00271",
@@ -11967,6 +11967,6 @@
     "retrieval_date": "2026-06-15T01:19:47+00:00",
     "archive_method": "compiled_public_record_archive",
     "local_file": "archive/sources/complaint_records/promoted_real_candidate_00271.html",
-    "sha256": "bf584bd7070f776a5039b8fe55cda5a1c3dab605620067bb6512b4497e2f35c4"
+    "sha256": "7b28f92114833eb59732d69ce0bbe26a97fbc02961a58347d6a80171de02f0ed"
   }
 ]
