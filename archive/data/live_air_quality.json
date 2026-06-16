@@ -72,7 +72,7 @@
       "severity": "Severe"
     }
   ],
-  "updated": "2026-06-16 03:38 PM MDT",
+  "updated": "2026-06-16 04:21 PM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -107,7 +107,7 @@
       "raw_airnow_records": [
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -122,7 +122,7 @@
         },
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -137,7 +137,7 @@
         },
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -163,7 +163,7 @@
       "raw_airnow_records": [
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -178,7 +178,7 @@
         },
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -193,7 +193,7 @@
         },
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -219,7 +219,7 @@
       "raw_airnow_records": [
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
@@ -234,7 +234,7 @@
         },
         {
           "DateObserved": "2026-06-16",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
