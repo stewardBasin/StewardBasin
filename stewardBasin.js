@@ -612,7 +612,7 @@ safeFetchJson("archive/data/complaints.json", "Complaints")
 
     const complaintsButton = document.getElementById("complaintsButton");
     if (complaintsButton) {
-      complaintsButton.textContent = `Complaints (${complaints.length})`;
+      complaintsButton.textContent = `Complaints (${loadedComplaints.length})`;
     }
 
     const countyComplaintGroups = {};
