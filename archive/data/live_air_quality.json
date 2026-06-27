@@ -1,54 +1,54 @@
 {
-  "aqi": 58,
-  "ozone": 58,
-  "pm25": 12,
-  "pm10": 18,
+  "aqi": 68,
+  "ozone": 39,
+  "pm25": 68,
+  "pm10": 51,
   "fireRisk": "Red Flag Warning",
   "fireAlerts": [
     {
       "location": "Fruitland",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 2:54PM MDT until June 28 at 12:00AM MDT by NWS Salt Lake City UT",
+      "headline": "Red Flag Warning issued June 27 at 1:49AM MDT until June 28 at 12:00AM MDT by NWS Salt Lake City UT",
       "severity": "Severe"
     },
     {
       "location": "Duchesne",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 2:54PM MDT until June 28 at 12:00AM MDT by NWS Salt Lake City UT",
+      "headline": "Red Flag Warning issued June 27 at 1:49AM MDT until June 28 at 12:00AM MDT by NWS Salt Lake City UT",
       "severity": "Severe"
     },
     {
       "location": "Roosevelt",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 2:54PM MDT until June 28 at 12:00AM MDT by NWS Salt Lake City UT",
+      "headline": "Red Flag Warning issued June 27 at 1:49AM MDT until June 28 at 12:00AM MDT by NWS Salt Lake City UT",
       "severity": "Severe"
     },
     {
       "location": "Fort Duchesne",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 10:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 27 at 12:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Vernal",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 10:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 27 at 12:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "Horsepool",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 10:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 27 at 12:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     },
     {
       "location": "South Ouray",
       "event": "Red Flag Warning",
-      "headline": "Red Flag Warning issued June 26 at 10:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
+      "headline": "Red Flag Warning issued June 27 at 12:58AM MDT until June 28 at 12:00AM MDT by NWS Grand Junction CO",
       "severity": "Severe"
     }
   ],
-  "updated": "2026-06-26 03:57 PM MDT",
+  "updated": "2026-06-27 02:11 AM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -76,54 +76,54 @@
       "name": "Roosevelt",
       "lat": 40.2994,
       "lng": -109.9887,
-      "aqi": 58,
-      "ozone": 58,
-      "pm25": 12,
-      "pm10": 18,
+      "aqi": 68,
+      "ozone": 39,
+      "pm25": 68,
+      "pm10": 51,
       "raw_airnow_records": [
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "O3",
-          "AQI": 58,
+          "AQI": 39,
           "Category": {
-            "Number": 2,
-            "Name": "Moderate"
+            "Number": 1,
+            "Name": "Good"
           }
         },
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM2.5",
-          "AQI": 12,
+          "AQI": 68,
           "Category": {
-            "Number": 1,
-            "Name": "Good"
+            "Number": 2,
+            "Name": "Moderate"
           }
         },
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM10",
-          "AQI": 18,
+          "AQI": 51,
           "Category": {
-            "Number": 1,
-            "Name": "Good"
+            "Number": 2,
+            "Name": "Moderate"
           }
         }
       ]
@@ -132,54 +132,54 @@
       "name": "Fort Duchesne",
       "lat": 40.2889,
       "lng": -109.8618,
-      "aqi": 58,
-      "ozone": 58,
-      "pm25": 12,
-      "pm10": 18,
+      "aqi": 68,
+      "ozone": 39,
+      "pm25": 68,
+      "pm10": 51,
       "raw_airnow_records": [
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "O3",
-          "AQI": 58,
+          "AQI": 39,
           "Category": {
-            "Number": 2,
-            "Name": "Moderate"
+            "Number": 1,
+            "Name": "Good"
           }
         },
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM2.5",
-          "AQI": 12,
+          "AQI": 68,
           "Category": {
-            "Number": 1,
-            "Name": "Good"
+            "Number": 2,
+            "Name": "Moderate"
           }
         },
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM10",
-          "AQI": 18,
+          "AQI": 51,
           "Category": {
-            "Number": 1,
-            "Name": "Good"
+            "Number": 2,
+            "Name": "Moderate"
           }
         }
       ]
@@ -188,39 +188,39 @@
       "name": "Vernal",
       "lat": 40.4555,
       "lng": -109.5287,
-      "aqi": 46,
-      "ozone": 46,
-      "pm25": 4,
+      "aqi": 68,
+      "ozone": 47,
+      "pm25": 68,
       "pm10": "--",
       "raw_airnow_records": [
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "O3",
-          "AQI": 46,
+          "AQI": 47,
           "Category": {
             "Number": 1,
             "Name": "Good"
           }
         },
         {
-          "DateObserved": "2026-06-26",
-          "HourObserved": 14,
+          "DateObserved": "2026-06-27",
+          "HourObserved": 1,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "PM2.5",
-          "AQI": 4,
+          "AQI": 68,
           "Category": {
-            "Number": 1,
-            "Name": "Good"
+            "Number": 2,
+            "Name": "Moderate"
           }
         }
       ]
