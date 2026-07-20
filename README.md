@@ -1,3 +1,5 @@
+Steward Basin is under active development. Data, features and documentation are continuously expanding. Feedback and issue reports are welcome!
+
 Steward Basin is an independent environmental and public records mapping project focused on the Uintah Basin region of Utah, including:
 
 •	Duchesne County

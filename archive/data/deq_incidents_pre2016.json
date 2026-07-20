@@ -1224,8 +1224,8 @@
     "company": "Joseph Michael/Newfield Exploration",
     "material": "",
     "description": "Caller reported a release of brine water from a 400 barrel tank due to the tank rolling off of a truck.  1260 gallons of brine water was released to a dry drainage area adjacent to the location.",
-    "lat": 40.158126349438,
-    "lng": -113.661701774192,
+    "lat": 40.1229598,
+    "lng": -110.0858769,
     "nearest_city": "MYTON",
     "address": "Section 4, Township 8 South, Range 16 West",
     "title": "Joseph Michael/Newfield Exploration (Null RP Substituted)",
@@ -1238,8 +1238,8 @@
       "the_geom": {
         "type": "Point",
         "coordinates": [
-          -113.661701774192,
-          40.158126349438
+          -110.0858769,
+          40.1229598
         ]
       },
       "objectid": "1274",
