@@ -1,8 +1,8 @@
 {
-  "aqi": 55,
-  "ozone": 50,
-  "pm25": 55,
-  "pm10": 27,
+  "aqi": 74,
+  "ozone": 74,
+  "pm25": 56,
+  "pm10": 34,
   "fireRisk": "Red Flag Warning",
   "fireAlerts": [
     {
@@ -24,7 +24,7 @@
       "severity": "Severe"
     }
   ],
-  "updated": "2026-08-04 03:12 PM MDT",
+  "updated": "2026-08-04 05:03 PM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -52,36 +52,21 @@
       "name": "Roosevelt",
       "lat": 40.2994,
       "lng": -109.9887,
-      "aqi": 55,
-      "ozone": 50,
-      "pm25": 55,
-      "pm10": 27,
+      "aqi": 74,
+      "ozone": 74,
+      "pm25": 56,
+      "pm10": 34,
       "raw_airnow_records": [
         {
           "DateObserved": "2026-08-04",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "O3",
-          "AQI": 50,
-          "Category": {
-            "Number": 1,
-            "Name": "Good"
-          }
-        },
-        {
-          "DateObserved": "2026-08-04",
-          "HourObserved": 14,
-          "LocalTimeZone": "MST",
-          "ReportingArea": "Roosevelt",
-          "StateCode": "UT",
-          "Latitude": 40.2943,
-          "Longitude": -110.009,
-          "ParameterName": "PM2.5",
-          "AQI": 55,
+          "AQI": 74,
           "Category": {
             "Number": 2,
             "Name": "Moderate"
@@ -89,14 +74,29 @@
         },
         {
           "DateObserved": "2026-08-04",
-          "HourObserved": 14,
+          "HourObserved": 15,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM2.5",
+          "AQI": 56,
+          "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+          }
+        },
+        {
+          "DateObserved": "2026-08-04",
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM10",
-          "AQI": 27,
+          "AQI": 34,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -108,36 +108,21 @@
       "name": "Fort Duchesne",
       "lat": 40.2889,
       "lng": -109.8618,
-      "aqi": 55,
-      "ozone": 50,
-      "pm25": 55,
-      "pm10": 27,
+      "aqi": 74,
+      "ozone": 74,
+      "pm25": 56,
+      "pm10": 34,
       "raw_airnow_records": [
         {
           "DateObserved": "2026-08-04",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "O3",
-          "AQI": 50,
-          "Category": {
-            "Number": 1,
-            "Name": "Good"
-          }
-        },
-        {
-          "DateObserved": "2026-08-04",
-          "HourObserved": 14,
-          "LocalTimeZone": "MST",
-          "ReportingArea": "Roosevelt",
-          "StateCode": "UT",
-          "Latitude": 40.2943,
-          "Longitude": -110.009,
-          "ParameterName": "PM2.5",
-          "AQI": 55,
+          "AQI": 74,
           "Category": {
             "Number": 2,
             "Name": "Moderate"
@@ -145,14 +130,29 @@
         },
         {
           "DateObserved": "2026-08-04",
-          "HourObserved": 14,
+          "HourObserved": 15,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM2.5",
+          "AQI": 56,
+          "Category": {
+            "Number": 2,
+            "Name": "Moderate"
+          }
+        },
+        {
+          "DateObserved": "2026-08-04",
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM10",
-          "AQI": 27,
+          "AQI": 34,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -164,21 +164,21 @@
       "name": "Vernal",
       "lat": 40.4555,
       "lng": -109.5287,
-      "aqi": 54,
-      "ozone": 54,
+      "aqi": 58,
+      "ozone": 58,
       "pm25": 46,
       "pm10": "--",
       "raw_airnow_records": [
         {
           "DateObserved": "2026-08-04",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "O3",
-          "AQI": 54,
+          "AQI": 58,
           "Category": {
             "Number": 2,
             "Name": "Moderate"
@@ -186,7 +186,7 @@
         },
         {
           "DateObserved": "2026-08-04",
-          "HourObserved": 14,
+          "HourObserved": 15,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
