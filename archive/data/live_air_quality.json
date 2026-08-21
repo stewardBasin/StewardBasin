@@ -1,11 +1,11 @@
 {
   "aqi": 45,
   "ozone": 45,
-  "pm25": 25,
-  "pm10": 26,
+  "pm25": 19,
+  "pm10": "--",
   "fireRisk": "No active NWS fire weather alert",
   "fireAlerts": [],
-  "updated": "2026-08-20 04:27 PM MDT",
+  "updated": "2026-08-20 07:19 PM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -35,12 +35,12 @@
       "lng": -109.9887,
       "aqi": 45,
       "ozone": 45,
-      "pm25": 25,
-      "pm10": 26,
+      "pm25": 19,
+      "pm10": "--",
       "raw_airnow_records": [
         {
           "DateObserved": "2026-08-20",
-          "HourObserved": 15,
+          "HourObserved": 18,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -55,29 +55,14 @@
         },
         {
           "DateObserved": "2026-08-20",
-          "HourObserved": 15,
+          "HourObserved": 18,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM2.5",
-          "AQI": 25,
-          "Category": {
-            "Number": 1,
-            "Name": "Good"
-          }
-        },
-        {
-          "DateObserved": "2026-08-20",
-          "HourObserved": 15,
-          "LocalTimeZone": "MST",
-          "ReportingArea": "Roosevelt",
-          "StateCode": "UT",
-          "Latitude": 40.2943,
-          "Longitude": -110.009,
-          "ParameterName": "PM10",
-          "AQI": 26,
+          "AQI": 19,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -91,12 +76,12 @@
       "lng": -109.8618,
       "aqi": 45,
       "ozone": 45,
-      "pm25": 25,
-      "pm10": 26,
+      "pm25": 19,
+      "pm10": "--",
       "raw_airnow_records": [
         {
           "DateObserved": "2026-08-20",
-          "HourObserved": 15,
+          "HourObserved": 18,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
@@ -111,29 +96,14 @@
         },
         {
           "DateObserved": "2026-08-20",
-          "HourObserved": 15,
+          "HourObserved": 18,
           "LocalTimeZone": "MST",
           "ReportingArea": "Roosevelt",
           "StateCode": "UT",
           "Latitude": 40.2943,
           "Longitude": -110.009,
           "ParameterName": "PM2.5",
-          "AQI": 25,
-          "Category": {
-            "Number": 1,
-            "Name": "Good"
-          }
-        },
-        {
-          "DateObserved": "2026-08-20",
-          "HourObserved": 15,
-          "LocalTimeZone": "MST",
-          "ReportingArea": "Roosevelt",
-          "StateCode": "UT",
-          "Latitude": 40.2943,
-          "Longitude": -110.009,
-          "ParameterName": "PM10",
-          "AQI": 26,
+          "AQI": 19,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -145,21 +115,21 @@
       "name": "Vernal",
       "lat": 40.4555,
       "lng": -109.5287,
-      "aqi": 41,
-      "ozone": 41,
-      "pm25": 11,
+      "aqi": 42,
+      "ozone": 42,
+      "pm25": 9,
       "pm10": "--",
       "raw_airnow_records": [
         {
           "DateObserved": "2026-08-20",
-          "HourObserved": 15,
+          "HourObserved": 18,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "O3",
-          "AQI": 41,
+          "AQI": 42,
           "Category": {
             "Number": 1,
             "Name": "Good"
@@ -167,14 +137,14 @@
         },
         {
           "DateObserved": "2026-08-20",
-          "HourObserved": 15,
+          "HourObserved": 18,
           "LocalTimeZone": "MST",
           "ReportingArea": "Vernal",
           "StateCode": "UT",
           "Latitude": 40.4555,
           "Longitude": -109.5288,
           "ParameterName": "PM2.5",
-          "AQI": 11,
+          "AQI": 9,
           "Category": {
             "Number": 1,
             "Name": "Good"
