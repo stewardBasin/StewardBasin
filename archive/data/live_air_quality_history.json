@@ -143240,5 +143240,86 @@
         "raw_airnow_records": []
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-25T21:08:11.749540-06:00",
+    "updated": "2026-08-25 09:08 PM MDT",
+    "aqi": "--",
+    "ozone": "--",
+    "pm25": "--",
+    "pm10": "--",
+    "fireRisk": "No active NWS fire weather alert",
+    "stations": [
+      {
+        "name": "Fruitland",
+        "lat": 40.2144,
+        "lng": -110.8413,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Duchesne",
+        "lat": 40.1633,
+        "lng": -110.4029,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Roosevelt",
+        "lat": 40.2994,
+        "lng": -109.9887,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Fort Duchesne",
+        "lat": 40.2889,
+        "lng": -109.8618,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Vernal",
+        "lat": 40.4555,
+        "lng": -109.5287,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "Horsepool",
+        "lat": 40.143,
+        "lng": -109.468,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      },
+      {
+        "name": "South Ouray",
+        "lat": 40.0894,
+        "lng": -109.6812,
+        "aqi": "--",
+        "ozone": "--",
+        "pm25": "--",
+        "pm10": "--",
+        "raw_airnow_records": []
+      }
+    ]
   }
 ]
