@@ -1,11 +1,11 @@
 {
-  "aqi": "--",
+  "aqi": 2,
   "ozone": "--",
   "pm25": "--",
-  "pm10": "--",
+  "pm10": 2,
   "fireRisk": "No active NWS fire weather alert",
   "fireAlerts": [],
-  "updated": "2026-09-18 02:57 AM MDT",
+  "updated": "2026-09-18 08:08 AM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
@@ -33,21 +33,53 @@
       "name": "Roosevelt",
       "lat": 40.2994,
       "lng": -109.9887,
-      "aqi": "--",
+      "aqi": 2,
       "ozone": "--",
       "pm25": "--",
-      "pm10": "--",
-      "raw_airnow_records": []
+      "pm10": 2,
+      "raw_airnow_records": [
+        {
+          "DateObserved": "2026-09-18",
+          "HourObserved": 6,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM10",
+          "AQI": 2,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        }
+      ]
     },
     {
       "name": "Fort Duchesne",
       "lat": 40.2889,
       "lng": -109.8618,
-      "aqi": "--",
+      "aqi": 2,
       "ozone": "--",
       "pm25": "--",
-      "pm10": "--",
-      "raw_airnow_records": []
+      "pm10": 2,
+      "raw_airnow_records": [
+        {
+          "DateObserved": "2026-09-18",
+          "HourObserved": 6,
+          "LocalTimeZone": "MST",
+          "ReportingArea": "Roosevelt",
+          "StateCode": "UT",
+          "Latitude": 40.2943,
+          "Longitude": -110.009,
+          "ParameterName": "PM10",
+          "AQI": 2,
+          "Category": {
+            "Number": 1,
+            "Name": "Good"
+          }
+        }
+      ]
     },
     {
       "name": "Vernal",
