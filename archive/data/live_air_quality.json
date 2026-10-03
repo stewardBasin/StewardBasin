@@ -5,7 +5,7 @@
   "pm10": "--",
   "fireRisk": "No active NWS fire weather alert",
   "fireAlerts": [],
-  "updated": "2026-10-02 10:10 PM MDT",
+  "updated": "2026-10-03 05:13 AM MDT",
   "source": "AirNow API + NWS API",
   "location": "Eastern Utah / Uinta Basin monitor points",
   "stations": [
